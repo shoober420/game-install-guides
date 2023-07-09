@@ -1,0 +1,6 @@
+Fallout
+ - download from Steam
+ 
+high resolution patch already included in Steam version
+dont use sfall1 patch, changes vanilla behavior (https://www.nma-fallout.com/threads/sfall-by-crafty-extented.205749)
+dont use Fallout Et Tu patch, changes vanilla behavior (https://www.nma-fallout.com/threads/fallout-et-tu-release-v1-8.218045/)
