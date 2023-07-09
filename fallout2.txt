@@ -3,5 +3,6 @@ Fallout 2
  - download latest sfall (https://sourceforge.net/projects/sfall/)
  - copy patch files into "C:\Program Files (x86)\Steam\steamapps\common\Fallout 2" directory
 
+use 640x480 resolution for original look
 hi res patch by mash conflicts with new sfall versions, use sfall hi res patch when asked and set resolution to 640x480 in both mash (f2_res.ini) and sfall configs (ddraw.ini)
 sfall bundled with steam is outdated
