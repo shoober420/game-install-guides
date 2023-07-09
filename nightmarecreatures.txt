@@ -1,0 +1,18 @@
+Nightmare Creatures
+ - download (https://www.myabandonware.com/game/nightmare-creatures-9zd)
+ - convert bin to iso
+ - mount and install
+ - nvidia control panel, max frame rate, set to 30 (fixes game running too fast and choppy movement)
+
+dgvoodoo2
+ - download dgvoodoo2
+ - extract dgVoodooCpl.exe and the contents of the MS\x86 subfolder to "C:\Program Files (x86)\Activision\Nightmare Creatures"
+ - General tab, Output API: Direct3D 12 (feature level 12.0), Adapter(s) to use / enable: SELECT MAIN VIDEO CARD ("All of them" option doesnt work)
+ - DirectX tab, VRAM: 4096 MB, Filtering: Force anisotropic 16x, Resolution: 1920x1080, Antialiasing (MSAA): 8x, dgvoodoo Watermark: checkmark
+
+
+
+
+1.2 patch fixes game running too fast, but causes choppy movement. when using 30 fps limiter, game runs too slow and is still choppy (DONT USE)
+ - download 1.2 patch and install into "C:\Program Files (x86)\Activision\Nightmare Creatures" (https://www.patches-scrolls.de/patch/2942/7/47787/download)
+ - create a shortcut of NC_V12.EXE, and add -D3D to the command line parameter (fixes game launching as PowerVR)
