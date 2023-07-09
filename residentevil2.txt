@@ -1,0 +1,11 @@
+Resident Evil 2 (sourcenext)
+ - download (https://archive.org/details/biohazard2sourcenextjpnpc) or (https://archive.org/details/biohazard-2-sourcenext)
+ - mount iso
+ - create directory "C:\Program Files (x86)\CAPCOM\BIOHAZARD 2"
+ - copy "D:\data" files to the "C:\Program Files (x86)\CAPCOM\BIOHAZARD 2" directory
+ - download 1.1.0 patch (https://community.pcgamingwiki.com/files/file/1223-biohazard-2-sourcenext-110-patch/)
+ - rename old bio2.exe to bio2.exeorg
+ - copy files from bio2patch1.1.0 to the "C:\Program Files (x86)\CAPCOM\BIOHAZARD 2" directory
+ - download rebirth patch (https://classicrebirth.com/index.php/download/resident-evil-2-classic-rebirth/)
+ - place ddraw.dll into "C:\Program Files (x86)\CAPCOM\BIOHAZARD 2" directory
+ - launch bio2.exe and put CDKEY from iso into "Install key" box and checkmark "disable censorship"
