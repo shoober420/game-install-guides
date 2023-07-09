@@ -1,0 +1,13 @@
+Need for Speed 5: Porsche Unleashed
+ - download nfs5 (https://www.myabandonware.com/game/need-for-speed-porsche-unleashed-bg9)
+ - download WinBin2ISO (https://www.softwareok.com/?seite=Freeware/WinBin2Iso)
+ - install WinBin2ISO
+ - convert NFS_PU.bin
+ - right click on NFS_PU.iso and mount
+ - install using "14077 TOYS PORK SHOP TEST" CDKEY
+ - download "Need For Speed V - Porsche Unleashed Patch" (https://www.dropbox.com/s/i80a8u5nbm1uldz/nfs5_pu_patch_1.06.7z?dl=0) (https://www.patreon.com/verok/posts?filters%5Btag%5D=Porsche%20Unleashed)
+ - extract patch into nfs5 directory
+ - edit nfs5.ini, ThrashDriver=opengl3
+ - edit "opengl3\thrash.ini", OGL_VSYNC=0
+
+Don't install nfs5 essential patch
