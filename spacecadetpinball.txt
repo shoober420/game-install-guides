@@ -1,0 +1,7 @@
+Microsoft Windows Pinball - Space Cadet
+ - download (https://www.myabandonware.com/game/space-cadet-3d-pinball-bc1)
+ - install into directory "C:\Program Files (x86)\Windows NT\Pinball"
+ - https://github.com/k4zmu2a/SpaceCadetPinball
+ - install into "C:\Program Files (x86)\Windows NT\Pinball" directory
+
+based on the pinball table from "Full Tilt! Pinball" game
