@@ -1,0 +1,10 @@
+Full Tilt! Pinball
+ - download (https://www.myabandonware.com/game/full-tilt-pinball-a3m)
+ - mount/burn image/open with 7z
+ - copy "D:\WIN95\FULLTILT" into C:\
+
+Launch games using .EXE associated with each pinball table (C:\FULLTILT\CADET\CADET.EXE)
+
+Change desktop resolution to 1024x768 for fullscreen
+
+dgvoodoo2 doesnt work with this game
