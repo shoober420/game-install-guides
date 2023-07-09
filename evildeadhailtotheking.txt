@@ -1,0 +1,11 @@
+Evil Dead: Hail to the King
+ - download (https://www.myabandonware.com/game/evil-dead-hail-to-the-king-fvk)
+ - rename files to "evil dead_1t" and burn disc 1 and disc 2
+ - install
+ - download d3d8to9 (https://github.com/crosire/d3d8to9)
+ - extract d3d8.dll into "C:\Program Files (x86)\EvilDead\EvilDead"
+
+d3d8to9 causes square artifacts on pre-rendered backgrounds
+
+game crashes after skipping the new game cutscene 
+ - go to the options menu first before starting a game
