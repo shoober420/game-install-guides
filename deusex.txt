@@ -1,0 +1,16 @@
+Deus Ex: GOTY
+ - download from steam
+ - download maps patch 7z (https://www.dxm.be/navigator.php5?lang=en&content=202)
+ - install maps patch files into "C:\Program Files (x86)\Steam\steamapps\common\Deus Ex" directory
+ - download Deus Exe patch (https://kentie.net/article/dxguide/index.htm)
+ - install Deus Exe patch into "C:\Program Files (x86)\Steam\steamapps\common\Deus Ex\System" directory
+ - download d3d10 driver (https://kentie.net/article/d3d10drv/index.htm)
+ - install d3d10 driver into "C:\Program Files (x86)\Steam\steamapps\common\Deus Ex\System" directory
+ - download OpenAL driver (www.oldunreal.com/betatest/OpenAL_v2.4.8_DeusEx.7z)
+ - install OpenAL driver into "C:\Program Files (x86)\Steam\steamapps\common\Deus Ex\System" directory
+
+Open Console
+ - Press T
+ - Press Shift+Tilde (~)
+
+https://www.moddb.com/games/deus-ex/downloads/deus-ex-unofficial-patch-v2 (OPTIONAL!!! CHANGES ALOT OF VANILLA BEHAVIOR)
