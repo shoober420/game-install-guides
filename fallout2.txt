@@ -1,0 +1,6 @@
+Fallout 2
+ - download from steam
+ - download latest sfall (https://sourceforge.net/projects/sfall/)
+ - copy patch files into "C:\Program Files (x86)\Steam\steamapps\common\Fallout 2" directory
+
+ sfall bundled with steam is outdated
