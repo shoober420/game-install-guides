@@ -1,0 +1,20 @@
+Need for Speed 3: Hot Pursuit
+ - download nfs3 (https://www.myabandonware.com/game/need-for-speed-iii-hot-pursuit-a4b)
+ - mount iso
+ - create "C:\Program Files (x86)\NFS3HP" directory
+ - copy "fedata" and "gamedata" from nfs3 iso to "C:\Program Files (x86)\NFS3HP" directory
+ - download need for speed 3 modern patch beta (https://veg.by/files/nfs3/nfs3_modern_patch_beta.7z)
+ - extract to "C:\Program Files (x86)\NFS3HP" directory
+ - download nGLide (https://www.zeus-software.com/downloads/nglide)
+ - go to "C:\Windows\SysWOW64" and put glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt into "C:\Program Files (x86)\NFS3HP", "NFS3HP\drivers\nglide", and "NFS3HP\drivers\glide3x" directories
+ - download voodoo 3 patch (https://soggi.org/files/misc/game-patches/Need-for-Speed-III_Voodoo3-update.7z)
+ - rename voodoo2a.dll to voodoo2a.dllorg in the "C:\Program Files (x86)\NFS3HP\drivers\nglide" and "C:\Program Files (x86)\NFS3HP\drivers\glide3x" directories
+ - put voodoo2a.dll from the voodoo 3 patch in the "C:\Program Files (x86)\NFS3HP\drivers\nglide" and "C:\Program Files (x86)\NFS3HP\drivers\glide3x" directories
+ - download modern packs (http://xcx.4fan.cz/setup-for-modern-packs/)
+ - extract setupMP.7z into nfs3 directory
+ 
+ - run setupMP
+   + Graphics tab, checkmark "Hide 16bit modes", checkmark "Use 32bit Mode in Menu", Allow Huge Textures: 2048px, 
+   + Thrash driver tab, select Glide3x
+   + nGLide tab, checkmark "use Desktop resolution", uncheck "preserve aspect ratio" and "enable vertical synchronization", click advanced and setup other nGLide options
+   + Program tab, uncheck "run in Single core", Heap Size Limit: 512MB, checkmark "Prefer 32bit Modes"
