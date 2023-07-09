@@ -1,0 +1,20 @@
+Resident Evil (original 1996 ps1 release)
+ - download (https://archive.org/details/biohazard-mediakite) or (https://archive.org/details/biohazard-mediakite-pc)
+  + must be japanese version (biohazard), mediakite release patched already
+ - mount iso
+  + make directory "C:\BIOHAZARD"
+  + copy JPN folder, which is in "D:\horr", to the "C:\BIOHAZARD" directory
+  + copy Biohazard.exe from iso into "C:\BIOHAZARD" directory
+ - download rebirth patch (https://classicrebirth.com/index.php/download/resident-evil-dll-fix-for-classic-edition/)
+  + place ddraw.dll into "C:\BIOHAZARD" directory
+ - download High Quality Audio patch http://re123.bplaced.net/board/viewtopic.php?f=21&t=296
+  + backup voice, sound, and movie directories in "C:\BIOHAZARD\JPN"
+  + delete original movie folder from "C:\BIOHAZARD\JPN"
+  + copy voice and sound folders from High Quality Audio patch to "C:\BIOHAZARD\JPN"
+ - download High Quality video pack (https://www.moddb.com/downloads/re1-classic-rebirth-high-quality-video-pack)
+  + put movie folder from High Quality video pack into "C:\BIOHAZARD\JPN"
+  + open cmd prompt
+  + cd C:\BIOHAZARD\JPN\movie
+  + ren *.mp4 *.avi (classic rebirth patch doesnt recognize default mp4 video format, must change to AVI to use)
+
+dgvoodoo2 doesnt work
