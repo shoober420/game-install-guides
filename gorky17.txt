@@ -1,0 +1,8 @@
+Gorky 17
+ - download from steam
+
+dgvoodoo2
+ - download dgvoodoo2
+ - extract dgVoodooCpl.exe and the contents of the MS\x86 subfolder to "C:\Program Files (x86)\Steam\steamapps\common\Gorky 17"
+ - General tab, Output API: Direct3D 12 (feature level 12.0), Adapter(s) to use / enable: SELECT MAIN VIDEO CARD (All of them doesnt work)
+ - DirectX tab, VRAM: 4096 MB, Filtering: Force anisotropic 16x, Resolution: 1920x1080, Antialiasing (MSAA): 8x, dgvoodoo Watermark: checkmark
