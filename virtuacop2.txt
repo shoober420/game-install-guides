@@ -1,0 +1,25 @@
+Virtua Cop 2
+ - download (https://www.myabandonware.com/game/virtua-cop-2-byi)
+ - install by mounting image and extracting VCOP2 directory to "C:\SEGA"
+
+dgvoodoo2
+ - download dgvoodoo2
+ - extract dgVoodooCpl.exe and the contents of the MS\x86 subfolder to "C:\SEGA\VCOP2\PROJECT"
+ - General tab, Output API: Direct3D 12 (feature level 12.0), Adapter(s) to use / enable: SELECT MAIN VIDEO CARD (All of them doesnt work)
+ - DirectX tab, VRAM: 4096 MB, Filtering: Force anisotropic 16x, Resolution: 1920x1080, Antialiasing (MSAA): Off, dgvoodoo Watermark: checkmark
+
+Device Select (F5)
+Provider (F9) (for multiplayer)
+Quit (ALT+F4)
+
+F10 to enable menu at top of screen
+
+Device
+ - Direct 3D (display)*** (important to enable)
+
+Settings
+ - Display Settings (F4)*** (important to tweak)
+ - Mode Settings (F6)
+ - Device Settings (F7)
+ - Skip Frames (disable)
+ - Shading (enable)
