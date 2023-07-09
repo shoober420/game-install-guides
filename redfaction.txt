@@ -1,0 +1,4 @@
+Red Faction
+ - install Dash Faction (https://github.com/rafalh/dashfaction)
+ - bundles d3d8to9.dll, make sure its the latest version of d3d8to9.dll (https://github.com/crosire/d3d8to9)
+ - if its an older version, rename d3d8.dll to d3d8to9.dll, and place it in the "C:\Program Files (x86)\Dash Faction" directory
