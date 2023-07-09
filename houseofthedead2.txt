@@ -1,0 +1,20 @@
+House of the Dead 2
+  - download (https://www.myabandonware.com/game/the-house-of-the-dead-2-beg)
+  - burn img/cue files with ImgBurn
+  - install game  (Windows Installer service required, make sure its running (enableWMI.bat, enablewinupdate.bat, and enableui.bat to enable)
+  - download dgvoodoo2
+  - extract dgVoodooCpl.exe and the contents of the MS\x86 subfolder to "C:\Program Files (x86)\SEGA\THE HOUSE OF THE DEAD 2"
+
+dgvoodoo2
+ + General tab, Output API: Direct3D 12 (feature level 12.0), Adapter(s) to use / enable: SELECT MAIN VIDEO CARD (All of them doesnt work)
+ + DirectX tab, VRAM: 4096 MB, Filtering: Force anisotropic 16x, Resolution: 1920x1080, Antialiasing (MSAA): 8x, dgvoodoo Watermark: checkmark
+
+Change blood color
+  - go to "C:\Program Files (x86)\SEGA\THE HOUSE OF THE DEAD 2\tex" 
+  - rename scr_blood_green.bin to scr_blood_green.binorg
+  - make a copy of scr_blood_red.bin and rename it scr_blood_green.bin
+
+
+hotd2 uses sound effects from zombie revenge, the dreamcast game
+
+House of the Dead 1 is a bad saturn port, use arcade and mame
