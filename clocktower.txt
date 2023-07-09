@@ -1,0 +1,12 @@
+Clock Tower
+ - download (https://www.myabandonware.com/game/clock-tower-b7j)
+ - mount
+ - make directory "C:\Clock Tower"
+ - copy all the contects of Clock Tower iso to "C:\Clock Tower"
+ - change desktop resolution to 640x480 (game only runs 640x480 windowed)
+ - right click taskbar, taskbar settings, taskbar behaviors, turn on automatically hide the taskbar (so the bottom of the game window doesnt get covered by the taskbar)
+ - download english translation (https://www.romhacking.net/translations/3135/) (game is only in japanese)
+ - copy english translation into "C:\Clock Tower"
+ - run Patch.bat
+
+does not work with dgvoodoo2
