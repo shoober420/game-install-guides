@@ -1,0 +1,7 @@
+Slave Zero
+ - download nGlide
+ - install
+ - go to C:\WINDOWS\SysWow64
+ - copy glide.dll, glide2x.dll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt to Slave Zero directory
+ 
+ compare dgvoodoo2 dxwrapper and nglide, which has best graphics
