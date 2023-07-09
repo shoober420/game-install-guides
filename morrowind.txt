@@ -1,0 +1,26 @@
+https://www.nexusmods.com/morrowind/mods/45096 (patch for purists) (OPTIONAL!!! CHANGES VANILLA BEHAVIOR!!!)
+
+https://www.nexusmods.com/morrowind/mods/19510/ (code patch) (OPTIONAL!!! CHANGES VANILLA BEHAVIOR!!!)
+
+https://www.techpowerup.com/forums/threads/large-address-aware.112556/ (LAA - Large Address Aware, allows for 2GB+ system memory utilization)
+
+Download MGE XE graphics update
+ - https://www.nexusmods.com/morrowind/mods/41102
+ - be sure to select the Morrowind directory for installation so it doesn't install files in "C:\Program Files (x86)\"
+ - for distant land, be sure to click the "Distant land generator wizard" button near the top under the "Distant land" tab
+ - don't use "Dynamic solar shadows" under "Distant land" tab, not vanilla as sun shadows are not in original game
+ - don't use High quality (exponential) fog under "Distant land" tab, too foggy and not vanilla
+ - don't use "High detail actor shadows [buggy]" under "In-Game" tab, renders actor shadows incorrectly by not drawing certain parts
+
+Graphics
+ - uncheck Enable shaders
+ - enable Auto FOV
+ - Fog mode: Range vertex (best)
+
+Distant land
+ - enable and check all Water Reflections options
+ - enable Per-pixel lighting shader: Always on
+
+In-Game
+ - enable "Disable MWSE support" 
+ - enable "Thread loading"
