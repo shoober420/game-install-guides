@@ -1,0 +1,7 @@
+Thief: The Dark Project  
+  - download thief gold from steam
+  - download GoldtoDark patch (https://www.ttlg.com/forums/showthread.php?t=140679)
+  - extract GoldtoDark patch into "C:\Program Files (x86)\Steam\steamapps\common\thief_gold" directory
+  - run bat file from patch
+  - download NewDark / TFix patch (https://www.ttlg.com/forums/showthread.php?t=141148)
+  - install NewDark / TFix patch into "C:\Program Files (x86)\Steam\steamapps\common\thief_gold\" directory
