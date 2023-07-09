@@ -1,0 +1,9 @@
+The Thing
+ - https://www.myabandonware.com/game/the-thing-bfm#download
+ - right click iso and mount
+ - run Setup.exe and install
+ - https://www.patches-scrolls.de/patch/4339/7/53332/download
+ - install thething_patch_11_12-euro.exe
+ 
+ Download d3d8to9 (https://github.com/crosire/d3d8to9)
+  - put d3d8.dll in "C:\Program Files (x86)\Computer Artworks\The Thing\bin"
