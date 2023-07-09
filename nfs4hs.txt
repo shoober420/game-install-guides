@@ -1,0 +1,14 @@
+Need for Speed 4: High Stakes (nfs3 but with car collision and vehicle damage)
+ - download nfs4 (https://www.myabandonware.com/game/need-for-speed-high-stakes-bgf)
+ - install nfs4
+ - download modern patch (https://veg.by/en/projects/nfs4/)
+ - extract modern patch into nfs4 directory, replacing old files
+ - download nGLide (https://www.zeus-software.com/downloads/nglide)
+ - go to "C:\Windows\SysWOW64" and put glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt into "NFS High Stakes", "NFS High Stakes\drivers\nglide", and "NFS High Stakes\drivers\glide3x" directories
+ - download modern packs (http://xcx.4fan.cz/setup-for-modern-packs/)
+ - extract setupMP.7z into nfs4 directory
+ 
+ - run setupMP
+   + Thrash driver tab, select Glide3x
+   + nGLide tab, checkmark "use Desktop resolution", uncheck "preserve aspect ratio" and "enable vertical synchronization", click advanced and setup other nGLide options
+   + Program tab, uncheck "run in Single core", Heap Size Limit: 512MB, checkmark "Prefer 32bit Modes"
