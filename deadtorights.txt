@@ -1,0 +1,11 @@
+Dead to Rights
+  - download (https://www.myabandonware.com/game/dead-to-rights-epi)
+
+Copyprotection by StarForce v3, which is not compatible with modern Windows versions 7+ and higher
+NO-CD patch from GameCopyWorld is an mdf/mds image, that cant be burned using IMGBurn (https://gamecopyworld.com/games/pc_dead_to_rights.shtml#Dead%20to%20Rights%20[MULTI]%20No-CD/Fixed%20Image)
+ + Failed to send Cue Sheet! Reason: Invalid field in CDB
+MDFtoISO conversion works, but mounting iso using windows explorer will still not allow the game to launch
+ + converted iso also does not burn with same error
+
+Can't be uninstalled normally using appwiz.cpl, requires 3rd party uninstall software
+ + Could not open INSTALL.LOG file (Wise Uninstall)
