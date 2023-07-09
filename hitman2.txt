@@ -1,0 +1,8 @@
+Hitman 2: Silent Assassin
+ - download from gog (steam version is censored)
+ - download d3d8to9 (https://github.com/crosire/d3d8to9)
+ - put d3d8.dll into hitman2 directory
+
+Direct3D has better graphics than OpenGL render, no bump-mapping support on OpenGL
+
+1.02 to 1.01 patch for Steam version (https://steamcommunity.com/sharedfiles/filedetails/?id=1663221359) (restores censored content)
