@@ -1,0 +1,23 @@
+Virtua Cop
+- download (https://www.myabandonware.com/game/virtua-cop-byh)
+- download nrgtoiso (http://www.nrgtoiso.com/)
+- convert nrg to iso
+- install using NATIVE.EXE
+
+The code execution cannot proceed because DPLAY.dll was not found
+- download dummy dplay.dll (https://github.com/CnCNet/dummy-dplayx/releases/download/v1.0.0.0/dplayx.dll)
+- put in "C:\SEGA\VCOP" directory
+- rename dplayx.dll to DPLAY.DLL
+
+dgvoodoo2
+ - download dgvoodoo2
+ - extract dgVoodooCpl.exe and the contents of the MS\x86 subfolder to "C:\SEGA\VCOP"
+ + General tab, Output API: Direct3D 12 (feature level 12.0), Adapter(s) to use / enable: SELECT MAIN VIDEO CARD (All of them doesnt work)
+ + DirectX tab, VRAM: 4096 MB, Filtering: Force anisotropic 16x, Resolution: 1920x1080, Antialiasing (MSAA): Off, dgvoodoo Watermark: checkmark
+
+Graphics Config (F6)
+ - MUST BE DONE AT LAUNCH EVERYTIME
+ - HIGH-16
+ - Motion: Smooth
+
+F9 QUIT
