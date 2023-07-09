@@ -1,0 +1,7 @@
+Land of the Dead: Road to Fiddler's Green
+ - download (https://www.myabandonware.com/game/land-of-the-dead-road-to-fiddler-s-green-cl9)
+ - run Setup.exe and install
+ - download d3d8to9 (https://github.com/crosire/d3d8to9)
+ - put d3d8.dll into "C:\Program Files\Groove Games\Land Of The Dead\System" directory
+ - download 1.1 patch (https://www.patches-scrolls.de/patch/2405/7)
+ - run 1.1 patch Setup.exe to install patch
