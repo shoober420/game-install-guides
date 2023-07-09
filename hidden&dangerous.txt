@@ -1,0 +1,18 @@
+Hidden & Dangerous
+ - download from steam
+ - run setup
+
+dgvoodoo2
+ - download dgvoodoo2
+ - extract dgVoodooCpl.exe and the contents of the MS\x86 subfolder to "C:\Program Files (x86)\Steam\steamapps\common\Hidden and Dangerous\HD"
+ - General tab, Output API: Direct3D 12 (feature level 12.0), Adapter(s) to use / enable: SELECT MAIN VIDEO CARD (All of them doesnt work)
+ - DirectX tab, VRAM: 4096 MB, Filtering: Force anisotropic 16x, Resolution: 1920x1080, Antialiasing (MSAA): 8x, dgvoodoo Watermark: checkmark
+
+
+
+Hidden & Dangerous Deluxe
+ - download from steam
+ - run setup
+
+ Download d3d8to9 (https://github.com/crosire/d3d8to9)
+ - put d3d8.dll in "C:\Program Files (x86)\Steam\steamapps\common\Hidden and Dangerous\HD Deluxe\bin" directory
