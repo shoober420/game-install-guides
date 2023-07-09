@@ -1,0 +1,4 @@
+Soldier of Fortune 2: Double Helix
+ - download sof2 from gog.com or gog galaxy
+
+Dont install Sui's fix
