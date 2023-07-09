@@ -1,0 +1,13 @@
+Rainbow Six 3: Raven Shield
+ - download from steam
+ - download d3dto9 (https://github.com/crosire/d3d8to9)
+ - install d3d8to9 into "C:\Program Files (x86)\Steam\steamapps\common\Rainbow Six 3 Gold\system"
+ - download Iron Wrath expansion (https://www.moddb.com/games/tom-clancys-rainbow-six-3-raven-shield/downloads/rainbow-six-3-iron-Wrath-manual-installation)
+ - install Iron Wrath expansion, move "IronWrath" folder and "IronWrath.mod" file into "C:\Program Files (x86)\Steam\steamapps\common\Rainbow Six 3 Gold\Mods"
+ - download missing sounds patch (https://www.moddb.com/addons/rainbow-six-3-2018-sound-fix-update)
+ - install mising sounds patch, move "sounds" folder into "C:\Program Files (x86)\Steam\steamapps\common\Rainbow Six 3 Gold"
+
+Enable 3D Sound / EAX
+ - download dsoal (http://vaporeon.io/hosted/dsoal-builds/)
+ - copy dsound.dll, dsoal-aldrv.dll, and alsoft.ini into "C:\Program Files (x86)\Steam\steamapps\common\Rainbow Six 3 Gold\system" directory
+ - run HKCUdsound.reg file
