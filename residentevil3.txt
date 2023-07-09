@@ -1,0 +1,9 @@
+Resident Evil 3 (SOURCENEXT)
+ - download (https://archive.org/details/biohazard3lastescapejapansourcenext) or (https://archive.org/details/biohazard3pc)
+ - mount
+ - create "C:\Program Files (x86)\CAPCOM\BIOHAZARD 3" directory
+ - copy "D:\data" files into "C:\Program Files (x86)\CAPCOM\BIOHAZARD 3"
+ - download 1.1.0 patch (https://classicrebirth.com/index.php/download/biohazard-3-sourcenext-1-1-0-patch/))
+ - copy files into "C:\Program Files (x86)\CAPCOM\BIOHAZARD 3"
+ - download rebirth patch (https://classicrebirth.com/index.php/download/resident-evil-3-classic-rebirth/)
+ - copy ddraw.dll into "C:\Program Files (x86)\CAPCOM\BIOHAZARD 3"
