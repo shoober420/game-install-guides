@@ -6,6 +6,7 @@ Cave Story
  - extract doukutsu-rs into "C:\Cave Story"
  - copy data folder from "C:\Cave Story\NXEngine-Evo-v2.6.5-1-Win64\NXEngine" into "C:\Cave Story"
    + nxengine-evo (nx.exe) is more faithful than doukutsu-rs (doukutsu-rs.x86_64.exe, which is a remake)
+   + disable "motion interpolation" and "subpixel scrolling" when using doukutsu-rs
 
 Jenka's Nightmare (https://jenkasnightmare.srb2.org)
 Rave Story (https://forum.cavestory.org/threads/ravestory-v1-62-soundtrack-compiled-in-flac-and-mp3-formats-by-whatthepin.5683/)
