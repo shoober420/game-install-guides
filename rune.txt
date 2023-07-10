@@ -1,4 +1,16 @@
 Rune
  - download from steam
  - download rune extended patch (https://www.moddb.com/games/rune/downloads/rune-extended-mod-for-missing-levels)
+ - backup Maps folder in ""C:\Program Files (x86)\Steam\steamapps\common\Rune Classic" directory
+ - remove "_CUT" from these files in "C:\Program Files (x86)\Steam\steamapps\common\Rune Classic\Maps" directory
+  + DeepUnder1OdinB_CUT
+  + DeepUnder4_CUT
+  + DwarfMap5A_CUT
+  + DwarfMap3A_CUT
+  + DwarfMap3B_CUT
+  + Goblin1_CUT
+  + Hel3b_CUT
+  + Hell2End_CUT
+  + Mountain1_CUT
+  + ThorMap4B_CUT
  - download openal patch (http://www.oldunreal.com/phpBB3/viewtopic.php?t=453&sid=5c9cb58fc7a3da22822d5323e624d1d5)                    
