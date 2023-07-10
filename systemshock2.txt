@@ -2,3 +2,4 @@ System Shock 2
  - download from steam
 
 newdark patch included is already up too date (2.48)
+don't install ss2tool, changes vanilla behavior
