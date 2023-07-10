@@ -1,0 +1,4 @@
+Rune
+ - download from steam
+ - download rune extended patch (https://www.moddb.com/games/rune/downloads/rune-extended-mod-for-missing-levels)
+ - download openal patch (http://www.oldunreal.com/phpBB3/viewtopic.php?t=453&sid=5c9cb58fc7a3da22822d5323e624d1d5)                    
