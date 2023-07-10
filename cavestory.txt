@@ -1,0 +1,14 @@
+Cave Story
+ - download cave story and nxengine-evo (https://github.com/nxengine/nxengine-evo)
+   + code > download .ZIP
+ - extract into "C:\"
+ - download doukutsu-rs (https://github.com/doukutsu-rs/doukutsu-rs)
+ - extract doukutsu-rs into "C:\Cave Story"
+ - copy data folder from "C:\Cave Story\NXEngine-Evo-v2.6.5-1-Win64\NXEngine" into "C:\Cave Story"
+   + nxengine-evo (nx.exe) is more faithful than doukutsu-rs (doukutsu-rs.x86_64.exe, which is a remake)
+
+Jenka's Nightmare (https://jenkasnightmare.srb2.org)
+Rave Story (https://forum.cavestory.org/threads/ravestory-v1-62-soundtrack-compiled-in-flac-and-mp3-formats-by-whatthepin.5683/)
+
+nxengine-evo contains original game with original translation
+dont use Steam version (cave story+), it uses the new translation and runs at 60fps instead of original 50fps
