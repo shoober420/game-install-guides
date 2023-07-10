@@ -5,9 +5,9 @@ Rune
  - remove "_CUT" from these files in "C:\Program Files (x86)\Steam\steamapps\common\Rune Classic\Maps" directory
   + DeepUnder1OdinB_CUT
   + DeepUnder4_CUT
-  + DwarfMap5A_CUT
   + DwarfMap3A_CUT
   + DwarfMap3B_CUT
+  + DwarfMap5A_CUT
   + Goblin1_CUT
   + Hel3b_CUT
   + Hell2End_CUT
