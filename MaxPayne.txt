@@ -1,4 +1,5 @@
-Download d3d8to9 (https://github.com/crosire/d3d8to9)
+Max Payne
+ - Download d3d8to9 (https://github.com/crosire/d3d8to9)
  - put d3d8.dll into "C:\Program Files (x86)\Steam\steamapps\common\Max Payne" directory
 
 Fix missing music, narration, and sounds
