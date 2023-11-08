@@ -1,4 +1,4 @@
-Resident Evil 3 (SOURCENEXT)
+Resident Evil 3: Nemesis (SOURCENEXT) (1999)
  - download (https://archive.org/details/biohazard3lastescapejapansourcenext) or (https://archive.org/details/biohazard3pc)
  - mount
  - create "C:\Program Files (x86)\CAPCOM\BIOHAZARD 3" directory
