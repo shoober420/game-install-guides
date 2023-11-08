@@ -1,4 +1,4 @@
-Unreal
+Unreal Gold (1998)
  - download from steam
  - download oldunreal patch (https://github.com/OldUnreal/Unreal-testing)
   + click on "<> Code" and "Download ZIP"
