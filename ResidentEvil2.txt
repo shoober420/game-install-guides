@@ -1,4 +1,4 @@
-Resident Evil 2 (sourcenext)
+Resident Evil 2 (sourcenext) (1998)
  - download (https://archive.org/details/biohazard2sourcenextjpnpc) or (https://archive.org/details/biohazard-2-sourcenext)
  - mount iso
  - create directory "C:\Program Files (x86)\CAPCOM\BIOHAZARD 2"
