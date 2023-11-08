@@ -1,4 +1,4 @@
-Resident Evil (original 1996 ps1 release)
+Resident Evil (original 1996 PS1 release)
  - download (https://archive.org/details/biohazard-mediakite) or (https://archive.org/details/biohazard-mediakite-pc)
   + must be japanese version (biohazard), mediakite release patched already
  - mount iso
