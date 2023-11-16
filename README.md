@@ -21,7 +21,7 @@ sources: pcgamingwiki.com and myself
 * SpaceCadetPinball.txt
 * NightmareCreatures.txt
 * ClockTower.txt
-* ResidentEvil.txt / ResidentEvil2.txt / ResidentEvil3.txt
+* ResidentEvil.txt / ResidentEvil2.txt / ResidentEvil3.txt / ResidentEvilRemake.txt
 * DeadtoRights.txt
 * EvilDeadHailtotheKing.txt
 * LandoftheDead.txt
