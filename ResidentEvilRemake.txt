@@ -1,0 +1,17 @@
+Resident Evil (2002 / remake)
+
+Options:
+-----------------
+
+Display:
+ - Aspect ratio: Original
+
+Video settings:
+ - Resolution: 2560x1600
+ - Window Setting: Full Screen
+ - Vertical Synchronization: Off
+ - Refresh Rate: 60.0 Hz
+ - Frame Rate: Variable (variable is maximum possible frames)
+ - Anti-aliasing: Off
+ - Shadow Quality: High
+ - Texture Quality: High
