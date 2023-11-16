@@ -1,1 +1,46 @@
 Resident Evil 2 (remake / 2019)
+
+Options:
+-------------------
+
+Display:
+ - HDR Mode: On
+
+Audio:
+ - Dynamic Range: Large
+ - Sound Output Device: Headphones
+ - 3D Audio: On
+ - Music/SFX Version: Original
+
+Graphics:
+ - Display Mode: Full Screen
+ - Resolution: 4096x2160
+ - Ray Tracing: On
+ - GI and Reflection: High
+ - Light Reflection: High
+ - Rendering Mode: Normal
+ - Image Quality: 200%
+ - FidelityFX Super Resolution 1.0: Off
+ - Refresh Rate: 120.00Hz
+ - Frame Rate: Variable
+ - V-Sync: Off
+ - Anti-aliasing: Off
+ - Texture Quality: High (8 GB)
+ - Texture Filter Quality: High (ANISO x16)
+ - Mesh Quality: Max
+ - Shadow Quality: Max
+ - Shadow Cache: On
+ - Contact Shadows: On
+ - Screen Space Reflections: On
+ - Subsurface Scattering: On
+ - Volmetric Lighting Quality: High
+ - Particle Lighting Quality: High
+ - Ambient Occlusion: On
+ - Bloom: On
+ - Lens Flare: On
+ - Motion Blur: On
+ - Depth of Field: On
+ - Lens Distortion: On (+chromatic aberration)
+ - Film Noise: On
+
+
