@@ -5,6 +5,8 @@ Options:
 
 Display:
  - HDR Mode: On
+ - Reticle Settings
+  + Reticle Color: Green
  - Color Space: Rec. 2020
 
 Audio:
