@@ -41,3 +41,4 @@ sources: pcgamingwiki.com and myself
 * SystemShock2.txt
 * Rune.txt
 * CaveStory.txt
+* GoldenEye007.txt
