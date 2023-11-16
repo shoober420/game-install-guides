@@ -5,6 +5,7 @@ Options:
 
 Display:
  - HDR Mode: On
+ - Color Space: Rec. 2020
 
 Audio:
  - Dynamic Range: Large
