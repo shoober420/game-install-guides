@@ -27,7 +27,7 @@ Graphics:
  - Refresh Rate: 120.00Hz
  - Frame Rate: Variable
  - V-Sync: Off
- - Anti-aliasing: Off
+ - Anti-aliasing: Off (TAA removes shimmer/sparkle effect)
  - Texture Quality: High (8 GB)
  - Texture Filter Quality: High (ANISO x16)
  - Mesh Quality: Max
