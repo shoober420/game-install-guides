@@ -42,3 +42,4 @@ sources: pcgamingwiki.com and myself
 * Rune.txt
 * CaveStory.txt
 * GoldenEye007.txt
+* RiseoftheTriad.txt
