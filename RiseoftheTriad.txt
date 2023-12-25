@@ -1,0 +1,6 @@
+Rise of the Triad: Ludicrous Edition
+ - Download from Steam
+ - Download Roland SC-55 Music Pack (https://sc55.duke4.net/games.php#rott)
+ - Rename directory "midiORG" (C:\Program Files (x86)\Steam\steamapps\common\Rise of the Triad - Ludicrous Edition\music\midi)
+ - Extract music pack into "midi" directory (C:\Program Files (x86)\Steam\steamapps\common\Rise of the Triad - Ludicrous Edition\music\midi)
+ - Music pack will overwrite the "1994 Original (MIDI)" music files that come with the game
