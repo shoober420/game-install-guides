@@ -1,0 +1,30 @@
+Wolfenstein 3D
+ - download from steam
+ - download ReflectionHLE (https://github.com/ReflectionHLE/ReflectionHLE)
+
+ReflectionHLE detects Wolfenstein 3D and Spear of Destiny in Steam directory
+
+=== ReflectionHLE Settings ===
+-Video settings-
+Fullscreen: Yes
+SDL renderer: opengl
+Bilinear interpolation: No
+Scale type*: 4:3 + Porch
+Scale factor: 1
+VSync: Off
+Force full software scaling**: No
+Launcher window type: Fullscreen
+
+-Sound settings-
+Sound sample rate (in Hz): 44100
+Enable sound subsystem: Yes
+OPL Emulation: Yes
+Sound Blaster emulation: SB 16
+Use resampler: Yes
+
+-Settings: Wolf3D, SOD, S3DNA-
+Keyboard overrides (experimental):
+Move forward: W
+Move backward: S
+Turn left: A
+Turn right: D
