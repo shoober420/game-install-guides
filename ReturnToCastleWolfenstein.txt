@@ -1,1 +1,4 @@
-Return to Castle Wolfenstein (DONT USE REALRTCW MOD, NON-VANILLA / CHANGES MODELS AND SOUNDS ETC)
+Return to Castle Wolfenstein (DONT USE REALRTCW MOD OR VENOM MOD, NON-VANILLA / CHANGES MODELS, SOUNDS, TEXTURES ETC)
+
+- download from steam
+- download iortcw (https://github.com/iortcw/iortcw)
