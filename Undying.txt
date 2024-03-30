@@ -5,4 +5,6 @@ Clive Barker's Undying
  - go to "C:\Windows\SysWOW64" and put glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt in "C:\Program Files (x86)\GOG Galaxy\Games\Clive Barkers Undying\System"
  - run nglide_config.exe and setup
 
-As with other Unreal Engine 99 games, its supposed to run using Glide, and not Direct3D
+As with other Unreal Engine 99 games, its supposed to run using Glide API and not Direct3D
+
+Despite Glide API only supporting 32bit color on the Voodoo 5, nGlide will still render the game in 32bit coloe, even though you cant select 32bit color in video options
