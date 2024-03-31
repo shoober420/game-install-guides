@@ -2,3 +2,5 @@ Medal of Honor: Allied Assault Warchest
  - download from gog or gog galaxy
  - download unofficial patch (https://www.moddb.com/games/medal-of-honor-allied-assault/addons/medal-of-honor-allied-assault-unofficial-patch-10)
  - extract into "Medal of Honor - Allied Assault War Chest\main" directory
+
+- download openmohaa (https://github.com/openmoh/openmohaa)
