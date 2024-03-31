@@ -7,3 +7,4 @@ Soldier of Fortune
  - rename sofplus-fonts.pak to sofplus-fonts.pak.bak (disable new fonts)
 
 Dont use QeffectsGL, not vanilla (https://github.com/crystice-softworks/QeffectsGL)
+ - remove QeffectGL.ini and QeffectGL.dll from SoFplus patch in SoF directory
