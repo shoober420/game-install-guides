@@ -6,6 +6,6 @@ Return to Castle Wolfenstein (DONT USE REALRTCW MOD OR VENOM MOD, NON-VANILLA / 
 
 
 
-- delete bundled old OpenAL64.dll from iortcw
+- delete old bundled OpenAL64.dll from iortcw
 - rename soft_oal.dll from latest downloaded OpenAL to OpenAL64.dll
 - put renamed OpenAL64.dll into RTCW directory
