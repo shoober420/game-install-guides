@@ -5,4 +5,9 @@ The Wheel of Time
  - go to "C:\Windows\SysWOW64" and put glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt in "C:\Program Files (x86)\GOG Galaxy\Games\The Wheel of Time\System"
  - run nglide_config.exe and setup
 
+nGlide:
+Refresh Rate: 60Hz (fixes water and animations moving too fast)
+Vertical Sync: True (fixes water and animations moving too fast)
+
+
 As with other Unreal Engine 99 games, its supposed to run using Glide, and not Direct3D
