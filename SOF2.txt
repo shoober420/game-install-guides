@@ -1,6 +1,5 @@
 Soldier of Fortune 2: Double Helix
  - download sof2 from gog.com or gog galaxy
+ - download SuisFix (https://github.com/suimachine/soldier-of-fortune-2-SuisFix)
 
 Shift+Tilde to open console
-
-Dont install Sui's fix, too hacky
