@@ -1,7 +1,7 @@
 Soldier of Fortune 2: Double Helix
  - download sof2 from gog.com or gog galaxy
  - download SuisFix (NOT RECOMMENDED) (https://github.com/suimachine/soldier-of-fortune-2-SuisFix)
-  + SuisFix allows clipping on the edges of the screen when up against walls, which allows you to see through walls
+  + SuisFix causes clipping on the edges of the screen when up against walls, which allows you to see through walls
   + DONT change resolution via video settings in-game when using SuisFix, breaks desired resolution and brightness
   + SoF2-Fixes.ini is used for SuisFix
 
