@@ -15,6 +15,6 @@ Rune
   + ThorMap4B_CUT
  - install rune extended map files into "C:\Program Files (x86)\Steam\steamapps\common\Rune Classic\Maps" directory
 
-OpenAL patch isnt working
+OpenAL patch
  - download openal patch (http://www.oldunreal.com/phpBB3/viewtopic.php?t=453&sid=5c9cb58fc7a3da22822d5323e624d1d5)                    
  - install openal patch into "C:\Program Files (x86)\Steam\steamapps\common\Rune Classic\System" directory
