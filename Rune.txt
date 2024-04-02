@@ -15,8 +15,7 @@ Rune
   + ThorMap4B_CUT
  - install rune extended map files into "C:\Program Files (x86)\Steam\steamapps\common\Rune Classic\Maps" directory
 
-OpenAL patch for Rune Classic Steam
- - community.pcgamingwiki.com/files/file/2671-openal-3d-audio-driver-fix-for-rune-classic/
+OpenAL patch causes crash at launch
 
 OpenAL patch from OldUnreal
  - download openal patch (http://www.oldunreal.com/phpBB3/viewtopic.php?t=453&sid=5c9cb58fc7a3da22822d5323e624d1d5)                    
