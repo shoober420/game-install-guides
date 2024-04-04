@@ -45,3 +45,6 @@ sources: pcgamingwiki.com and myself
 * RiseoftheTriad.txt
 * Wolfenstein3D.txt
 * ReturnToCastleWolfenstein.txt
+* STALKERSoC.txt
+* STALKERCS.txt
+* STALKERCoP.txt
