@@ -46,4 +46,4 @@ sources: pcgamingwiki.com and myself
 * Wolfenstein3D.txt
 * ReturnToCastleWolfenstein.txt
 * STALKERSoC.txt / STALKERCS.txt / STALKERCoP.txt
-* VampireVTMB.txt
+* VampireTMB.txt
