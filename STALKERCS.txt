@@ -1,0 +1,9 @@
+S.T.A.L.K.E.R.: Clear Sky
+
+ - download from steam
+
+Video settings:
+Sun quality: Ultra
+Sun rays: High
+SSAO: High
+Antialias A-tested objects: DX10.1 style [Higher quality]
