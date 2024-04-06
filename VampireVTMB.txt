@@ -3,3 +3,6 @@ Vampire: The Masquerade - Bloodlines
  - download from steam
  - download unofficial patch (https://www.moddb.com/mods/vtmb-unofficial-patch)
  - add "-game Unofficial_Patch" command line parameter to game launch options in Steam
+
+
+Clan: Ventrue
