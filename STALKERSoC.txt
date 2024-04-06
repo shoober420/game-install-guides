@@ -3,3 +3,5 @@ S.T.A.L.K.E.R.: Shadow of Chernobyl
  - download from steam
  - download latest OpenAL (https://github.com/kcat/openal-soft)
  - place "bin/Win32/soft_aol.dll" in "STALKER Shadow of Chernobyl/bin" directory and rename it OpenAL32.dll (Win64 WONT WORK, crash at launch)
+
+4:3 resolutions are required to fix minor shadow glitches on the left and right edges of the screen when using 16:9 resolutions
