@@ -1,6 +1,9 @@
 S.T.A.L.K.E.R.: Call of Pripyat
 
  - download from steam
+ - download latest OpenAL (https://github.com/kcat/openal-soft)
+ - place "bin/Win32/soft_aol.dll" in "Stalker Call of Pripyat\bin" directory and rename it OpenAL32.dll (Win64 WONT WORK, crash at launch)
+
 
 Video settings:
 Sun quality: max high
