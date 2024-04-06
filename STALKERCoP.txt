@@ -1,0 +1,9 @@
+S.T.A.L.K.E.R.: Call of Pripyat
+
+ - download from steam
+
+SSAO mode: HDAO 
+
+SSAO = Screen Space Ambient Occlusion
+HDAO = High Definition Ambient Occlusion (quality)
+HBAO = Horizon-Based Ambient Occlusion (performance)
