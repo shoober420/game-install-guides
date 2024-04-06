@@ -2,7 +2,12 @@ S.T.A.L.K.E.R.: Call of Pripyat
 
  - download from steam
 
+Video settings:
+Sun quality: max high
+Sun rays: high
 SSAO mode: HDAO 
+SSAO quality: very high
+
 
 SSAO = Screen Space Ambient Occlusion
 HDAO = High Definition Ambient Occlusion (quality)
