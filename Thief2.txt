@@ -1,0 +1,5 @@
+Thief II: The Metal Age
+
+- download from steam
+- download NewDark / TFix patch without mods (https://www.ttlg.com/forums/showthread.php?t=141148)
+- install NewDark / TFix patch into "C:\Program Files (x86)\Steam\steamapps\common\thief_2" directory
