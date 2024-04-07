@@ -26,6 +26,8 @@ sources: pcgamingwiki.com and myself
 * EvilDeadHailtotheKing.txt
 * LandoftheDead.txt
 * Thief.txt
+* ThiefGold.txt
+* Thief2.txt
 * NoOneLivesForever.txt
 * Driver.txt
 * Unreal98.txt / UT99.txt / UT2004.txt
