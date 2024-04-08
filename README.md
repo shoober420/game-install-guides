@@ -48,3 +48,4 @@ sources: pcgamingwiki.com and myself
 * ReturnToCastleWolfenstein.txt
 * STALKERSoC.txt / STALKERCS.txt / STALKERCoP.txt
 * VampireTMB.txt
+* WolfensteinET.txt
