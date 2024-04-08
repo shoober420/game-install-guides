@@ -1,0 +1,5 @@
+Wolfenstein: Enemy Territory
+
+ - download from steam
+ - download et: legacy (stable - https://www.etlegacy.com/download) (snapshots - https://www.etlegacy.com/workflow-files)
+ - 
