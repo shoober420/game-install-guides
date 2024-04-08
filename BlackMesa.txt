@@ -1,0 +1,5 @@
+Black Mesa
+
+ - download from steam
+ - join public beta
+ - launch using vulkan
