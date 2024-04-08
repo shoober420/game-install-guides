@@ -49,3 +49,4 @@ sources: pcgamingwiki.com and myself
 * STALKERSoC.txt / STALKERCS.txt / STALKERCoP.txt
 * VampireTMB.txt
 * WolfensteinET.txt
+* BlackMesa.txt
