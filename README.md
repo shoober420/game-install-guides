@@ -51,3 +51,4 @@ sources: pcgamingwiki.com and myself
 * WolfensteinET.txt
 * BlackMesa.txt
 * SiN.txt
+* Kingpin.txt
