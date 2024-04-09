@@ -52,4 +52,5 @@ sources: pcgamingwiki.com and myself
 * BlackMesa.txt
 * SiN.txt
 * Kingpin.txt
+* Anachronox.txt
 * Heretic2.txt
