@@ -1,4 +1,6 @@
 Anachronox
  - download from steam
  - download Graphical Enhancements patch (https://www.moddb.com/mods/anachronox-graphical-enhancements/downloads/anachronox-no-upscale) (NoUpscale0.3.zip)
+ - extract into "C:\Program Files (x86)\Steam\steamapps\common\Anachronox\anoxdata" directory
  - download Sounds and Fixes patch (https://www.moddb.com/games/anachronox/downloads/anachronox-sounds-and-fixes-v01)
+ - extract into "C:\Program Files (x86)\Steam\steamapps\common\Anachronox\anoxdata" directory
