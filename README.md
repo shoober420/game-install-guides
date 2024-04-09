@@ -53,4 +53,5 @@ sources: pcgamingwiki.com and myself
 * SiN.txt
 * Kingpin.txt
 * Anachronox.txt
+* Hexen2.txt
 * Heretic2.txt
