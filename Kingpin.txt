@@ -1,5 +1,7 @@
 Kingpin: Life of Crime
 
  - download from steam
+ - download MH's Kingpin Patch (https://www.kingpin.info/download/index.php?dir=kingpin/patches/unofficial/windows/mh%27s_kingpin_patch)
+ - put patch files in "C:\Program Files (x86)\Steam\steamapps\common\Kingpin" directory
 
 DO NOT USE Kingpin: Reloaded, its not vanilla or faithful, uses UNITY engine instead of Quake2 engine
