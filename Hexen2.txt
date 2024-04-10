@@ -2,3 +2,4 @@ Hexen II
 
  - download from steam
  - download MISSION PACK - PORTAL OF PRAEVUS (https://www.myabandonware.com/game/hexen-ii-mission-pack-portal-of-praevus-7qz)
+ - download Hammer of Thyrion patch (https://uhexen2.sourceforge.net/)
