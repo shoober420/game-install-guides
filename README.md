@@ -57,4 +57,5 @@ sources: pcgamingwiki.com and myself
 * Heretic2.txt
 * SuperMario64.txt
 * OcarinaofTime.txt
+* MajorasMask.txt
 * PerfectDark.txt
