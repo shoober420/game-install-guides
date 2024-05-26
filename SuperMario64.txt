@@ -10,3 +10,11 @@ Super Mario 64
  - select "nightly" (its newer than master)
  - click "Download" for source code
  - click "Compile"
+
+WSAD = Analog stick
+Z button = K
+A button = L / MOUSE2
+B button = , / MOUSE1
+Start button = Spacebar
+C buttons = Arrow keys
+
