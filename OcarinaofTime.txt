@@ -7,3 +7,5 @@ The Legend of Zelda: Ocarina of Time
 - generate OTR files, Click Yes
 - use ROM placed in directory, Click Yes
 - Dont extract another ROM, Click No
+
+F1 for options menu
