@@ -1,0 +1,11 @@
+Super Mario 64
+
+ - download MSYS2 (https://www.msys2.org/)
+ - install MSYS2 in "C:\msys64" directory
+ - download sm64pcbuilder2 (https://sm64pc.info/sm64pcbuilder2/)
+ - launch sm64pcbuilder2 and select "C:\msys64" when it asks for MSYS2 directory
+ - let it build
+ - select "sm64ex"
+ - select "nightly" (its newer than master)
+ - click "Download" for source code
+ - click "Compile"
