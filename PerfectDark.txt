@@ -1,0 +1,6 @@
+Perfect Dark
+
+- download perfectdark port (https://github.com/fgsfdsfgs/perfect_dark)
+- download perfect dark ROM, USA V1.1 NTSC-FINAL recommended
+- put ROM in "pd-i686-windows\data" directory
+- name ROM "pd.ntsc-final.z64"
