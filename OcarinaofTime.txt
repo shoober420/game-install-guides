@@ -1,0 +1,9 @@
+The Legend of Zelda: Ocarina of Time
+
+- download Ship of Harkinian (https://github.com/HarbourMasters/Shipwright) (https://www.shipofharkinian.com/)
+- download PAL Gamecube Zelda OOT Debug ROM (7zip required to extract)
+- place ROM in folder with soh.exe
+- launch soh.exe
+- generate OTR files, Click Yes
+- use ROM placed in directory, Click Yes
+- Dont extract another ROM, Click No
