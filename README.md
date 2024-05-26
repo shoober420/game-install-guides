@@ -59,3 +59,4 @@ sources: pcgamingwiki.com and myself
 * OcarinaofTime.txt
 * MajorasMask.txt
 * PerfectDark.txt
+* LinktothePast.txt
