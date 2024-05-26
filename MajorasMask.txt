@@ -1,0 +1,5 @@
+The Legend of Zelda: Majora's Mask
+
+- download majoras mask pc port (https://github.com/Zelda64Recomp/Zelda64Recomp)
+- download majoras mask ROM
+- place ROM in Zelda64Recompiled directory
