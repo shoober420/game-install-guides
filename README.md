@@ -55,3 +55,4 @@ sources: pcgamingwiki.com and myself
 * Anachronox.txt
 * Hexen2.txt
 * Heretic2.txt
+* SuperMario64.txt
