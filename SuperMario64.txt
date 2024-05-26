@@ -2,6 +2,7 @@ Super Mario 64
 
  - download MSYS2 (https://www.msys2.org/)
  - install MSYS2 in "C:\msys64" directory
+ - download Super Mario 64 ROM (DONT use Shindou ROM, changes vanilla behavior)
  - download sm64pcbuilder2 (https://sm64pc.info/sm64pcbuilder2/)
  - launch sm64pcbuilder2 and select "C:\msys64" when it asks for MSYS2 directory
  - let it build
