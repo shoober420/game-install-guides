@@ -1,0 +1,5 @@
+The Legend of Zelda: A Link to the Past
+
+- download pc port (https://github.com/RadzPrower/Zelda-3-Launcher)
+- download US ROM
+- place ROM in Zelda_3_Launcher directory
