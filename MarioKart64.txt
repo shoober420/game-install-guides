@@ -1,4 +1,5 @@
 Mario Kart 64
+ - NO PC PORT AS OF 6/2/24
 
 - open MSYS2 MINGW64
 - git clone https://github.com/n64decomp/mk64
