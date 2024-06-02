@@ -13,7 +13,7 @@ The Legend of Zelda: A Link to the Past (ALttP)
 
 - git clone --recursive https://github.com/snesrev/zelda3
 - download Link to the Past ROM
-- place ROM in zelda3 folder ("tables" folder got renamed to "assets") (ROM no longer gets placed in "tables" or "assets" folder)
+- place ROM in zelda3 directory ("tables" folder got renamed to "assets") (ROM no longer gets placed in "tables" or "assets" folder)
 - cd assets
 - python restool.py --extract-from-rom
 - cd ..
