@@ -7,8 +7,8 @@ Super Mario 64
  - launch sm64pcbuilder2 and select "C:\msys64" when it asks for MSYS2 directory
  - click "Yes" to installing required packages
  - let it build
- - select "sm64ex"
- - select "nightly" (its newer than master)
+ - Source - repo: sm64ex / branch: nightly (its newer than master)
+ - Options - No Drawing Distance
  - click "Download" for source code
  - click "Compile"
 
