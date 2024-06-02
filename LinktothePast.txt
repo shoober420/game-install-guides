@@ -2,6 +2,8 @@ The Legend of Zelda: A Link to the Past (ALttP)
 
 - download MSYS2 (https://www.msys2.org/)
 - install MSYS2 in "C:\msys64" directory
+- install python ("Add python.exe to PATH" is checked when running the python installer) (https://www.python.org/downloads/)
+
 - launch mingw64.exe
 
 - pacman -S git make python3 p7zip mingw-w64-x86_64-gcc mingw-w64-x86_64-glew mingw-w64-x86_64-SDL2 mingw-w64-x86_64-binutils mingw-w64-x86_64-python3-pillow mingw-w64-x86_64-python-yaml
