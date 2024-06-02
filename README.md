@@ -59,6 +59,6 @@ sources: pcgamingwiki.com and myself
 * OcarinaofTime.txt
 * MajorasMask.txt
 * PerfectDark.txt
-* LinktothePast.txt
+* ZeldaLinktothePast.txt
 * MarioKart64.txt
 * PaperMario64.txt
