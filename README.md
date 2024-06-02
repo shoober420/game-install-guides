@@ -60,3 +60,4 @@ sources: pcgamingwiki.com and myself
 * MajorasMask.txt
 * PerfectDark.txt
 * LinktothePast.txt
+* MarioKart64.txt
