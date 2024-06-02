@@ -61,3 +61,4 @@ sources: pcgamingwiki.com and myself
 * PerfectDark.txt
 * LinktothePast.txt
 * MarioKart64.txt
+* PaperMario64.txt
