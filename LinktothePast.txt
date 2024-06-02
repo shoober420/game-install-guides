@@ -1,6 +1,8 @@
 The Legend of Zelda: A Link to the Past
 
-- install MSYS2, launch mingw64.exe
+- download MSYS2 (https://www.msys2.org/)
+- install MSYS2 in "C:\msys64" directory
+- launch mingw64.exe
 - pacman -S sdl2
 - pacman -S mingw-w64-x86_64-python3-pillow
 - pacman -S mingw-w64-x86_64-python-yaml
