@@ -16,5 +16,7 @@ Perfect Dark
 - download perfect dark ROM, USA V1.1 NTSC-FINAL recommended
 - rename perfect dark ROM to pd.ntsc-final.z64
 - place pd.ntsc-final.z64 ROM in perfect_dark directory
+- edit Makefile.port file: GCC_OPT_LVL = -O3
+- edit Makefile.port file: add "-static-libgcc" to "TARGET_LDFLAGS += -static-libstdc++"
 - make -f Makefile.port
 - launch pd.exe
