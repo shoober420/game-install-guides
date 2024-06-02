@@ -62,3 +62,4 @@ sources: pcgamingwiki.com and myself
 * ZeldaLinktothePast.txt
 * MarioKart64.txt
 * PaperMario64.txt
+* SuperMetroid.txt
