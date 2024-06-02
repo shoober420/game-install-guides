@@ -3,5 +3,6 @@ Paper Mario 64
 - open MSYS2 MINGW64
 - git clone https://github.com/pmret/papermario
 - pacman -S mingw-w64-x86_64-libelf
+- pacman -S mingw-w64-i686-libelf
 - ./install_deps.sh
 - ./install_compilers.sh
