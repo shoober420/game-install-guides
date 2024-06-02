@@ -12,7 +12,7 @@ The Legend of Zelda: A Link to the Past (ALttP)
 
 - git clone --recursive https://github.com/snesrev/zelda3
 - download Link to the Past ROM
-- place in zelda3/tables folder
+- place in zelda3/assets folder ("tables" folder got renamed to "assets")
 
 
 - download pc port (https://github.com/RadzPrower/Zelda-3-Launcher)
