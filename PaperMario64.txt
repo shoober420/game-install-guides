@@ -8,6 +8,10 @@ Paper Mario 64
 - pacman -S mingw-w64-clang-i686-libelf
 - pacman -S mingw-w64-x86_64-autotools
 - pacman -S mingw-w64-i686-autotools
+- download elfutils - https://archlinux.org/packages/core/x86_64/elfutils/
+- click "Download From Mirror"
+- place elfutils tar in papermario directory
+- pacman -U elfutils-0.xxx-x-x86_64.pkg.tar.zst
 - edit install_deps.sh to only include Arch Linux portion of code
 - also remove the uname code from Arch Linux section of install_deps.sh 
 - ./install_deps.sh
