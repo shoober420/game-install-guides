@@ -6,5 +6,7 @@ Paper Mario 64
 - pacman -S mingw-w64-i686-libelf
 - pacman -S mingw-w64-clang-x86_64-libelf
 - pacman -S mingw-w64-clang-i686-libelf
+- pacman -S mingw-w64-x86_64-autotools
+- pacman -S mingw-w64-i686-autotools
 - ./install_deps.sh
 - ./install_compilers.sh
