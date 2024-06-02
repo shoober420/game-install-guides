@@ -1,0 +1,10 @@
+Mario Kart 64
+
+- open MSYS2 MINGW64
+- git clone https://github.com/n64decomp/mk64
+- git submodule update --init --recursive
+- download US ROM
+- place in mk64 folder
+- make assets -j
+- pacman -S cmake
+- make -j
