@@ -1,5 +1,14 @@
 The Legend of Zelda: A Link to the Past
 
+- install MSYS2, launch mingw64.exe
+- pacman -S sdl2
+- pacman -S mingw-w64-x86_64-python3-pillow
+- pacman -S mingw-w64-x86_64-python-yaml
+- git clone --recursive https://github.com/snesrev/zelda3
+- download Link to the Past ROM
+- place in zelda3/tables folder
+
+
 - download pc port (https://github.com/RadzPrower/Zelda-3-Launcher)
 - download US ROM
 - place ROM in Zelda_3_Launcher directory
