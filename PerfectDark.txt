@@ -16,7 +16,11 @@ Perfect Dark
 - download perfect dark ROM, USA V1.1 NTSC-FINAL recommended
 - rename perfect dark ROM to pd.ntsc-final.z64
 - place pd.ntsc-final.z64 ROM in perfect_dark directory
+- place pd.ntsc-final.z64 ROM in perfect_dark/build/ntsc-final-port/data directory
 - edit Makefile.port file: GCC_OPT_LVL = -O3
-- edit Makefile.port file: add "-static-libgcc" to "TARGET_LDFLAGS += -static-libstdc++"
 - make -f Makefile.port
+- download latest master (https://github.com/fgsfdsfgs/perfect_dark/releases/tag/ci-dev-build)
+- copy zlib1.dll, libwinpthread-1.dll, and libgcc_s_dw2-1.dll into "perfect_dark\build\ntsc-final-port" directory
+- download latest 32bit SDL2 (https://github.com/libsdl-org/SDL) (SDL2-x.xx.x-win32-x86.zip)
+- copy "SDL2.dll" into "perfect_dark\build\ntsc-final-port" directory
 - launch pd.exe
