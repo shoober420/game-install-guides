@@ -8,5 +8,7 @@ Paper Mario 64
 - pacman -S mingw-w64-clang-i686-libelf
 - pacman -S mingw-w64-x86_64-autotools
 - pacman -S mingw-w64-i686-autotools
+- edit install_deps.sh to only include Arch Linux portion of code
+- also remove the uname code from Arch Linux section of install_deps.sh 
 - ./install_deps.sh
 - ./install_compilers.sh
