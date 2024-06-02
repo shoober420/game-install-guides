@@ -6,7 +6,7 @@ The Legend of Zelda: A Link to the Past (ALttP)
 - open powershell
 - pip install pillow pyyaml
 
-- launch mingw64.exe
+- launch mingw64.exe in msys2 directory
 
 - pacman -S git make python3 p7zip mingw-w64-x86_64-gcc mingw-w64-x86_64-glew mingw-w64-x86_64-SDL2 mingw-w64-x86_64-binutils mingw-w64-x86_64-python3-pillow mingw-w64-x86_64-python-yaml
 
