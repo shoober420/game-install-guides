@@ -5,6 +5,7 @@ Super Mario 64
  - download Super Mario 64 ROM (DONT use Shindou ROM, changes vanilla behavior)
  - download sm64pcbuilder2 (https://sm64pc.info/sm64pcbuilder2/)
  - launch sm64pcbuilder2 and select "C:\msys64" when it asks for MSYS2 directory
+ - click "Yes" to installing required packages
  - let it build
  - select "sm64ex"
  - select "nightly" (its newer than master)
