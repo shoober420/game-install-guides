@@ -10,3 +10,6 @@ Hexen II
 - install MSYS2 in "C:\msys64" directory
 - launch mingw64.exe in msys2 directory
 - pacman -S git make gcc nasm clang binutils SDL2 zlib mingw-w64-x86_64-SDL2 mingw-w64-x86_64-zlib python p7zip mingw-w64-x86_64-gcc mingw-w64-x86_64-glew mingw-w64-x86_64-binutils mingw-w64-x86_64-nasm mingw-w64-x86_64-clang 
+- git clone --recursive https://git.code.sf.net/p/uhexen2/uhexen2
+- cd ~/uhexen2/engine/hexen2
+- W64BUILD=1 make glh2
