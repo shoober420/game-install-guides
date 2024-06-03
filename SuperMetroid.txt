@@ -1,9 +1,11 @@
 Super Metroid
+ - https://github.com/snesrev/sm
+ - https://github.com/enderandrew/sm_rewrite
 
 - download MSYS2 (https://www.msys2.org/)
 - install MSYS2 in "C:\msys64" directory
 - launch mingw64.exe in msys2 directory
-- git clone --recursive https://github.com/snesrev/sm
+- git clone --recursive https://github.com/enderandrew/sm_rewrite
 - pacman -S mingw-w64-x86_64-SDL2 make mingw-w64-x86_64-gcc
 - download Super Metroid ROM
 - rename ROM file "sm.smc"
