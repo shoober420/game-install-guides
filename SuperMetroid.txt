@@ -6,7 +6,7 @@ Super Metroid
 - install MSYS2 in "C:\msys64" directory
 - launch mingw64.exe in msys2 directory
 - git clone --recursive https://github.com/snesrev/sm
-- pacman -S mingw-w64-x86_64-SDL2 make mingw-w64-x86_64-gcc
+- pacman -S mingw-w64-x86_64-SDL2 make mingw-w64-x86_64-gcc python
 - download Super Metroid ROM
 - rename ROM file "sm.smc"
 - put in "sm" directory
