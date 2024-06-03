@@ -9,5 +9,5 @@ Super Metroid
 - pacman -S mingw-w64-x86_64-SDL2 make mingw-w64-x86_64-gcc
 - download Super Metroid ROM
 - rename ROM file "sm.smc"
-- put in "sm" directory
+- put in "sm_rewrite" directory
 - make
