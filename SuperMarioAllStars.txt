@@ -1,4 +1,6 @@
 Super Mario All-Stars
+ - Super Mario Bros 1 NES (smb1.sfc)
+ - Super Mario Bros Lost Levels / Super Mario Bros 2 JAPAN (smbll.sfc)
 
 - download MSYS2 (https://www.msys2.org/)
 - install MSYS2 in "C:\msys64" directory
@@ -15,3 +17,4 @@ Super Mario All-Stars
 - extract.py
 - Move "smb1.sfc" and "smbll.sfc" to smw directory
 - make
+- drag "smb1.sfc" (Super Mario Bros 1 NES) or "smbll.sfc" (Super Mario Bros Lost Levels / Super Mario Bros 2 JAPAN) on top of smw.exe to launch desired game
