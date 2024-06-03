@@ -64,3 +64,4 @@ sources: pcgamingwiki.com and myself
 * PaperMario64.txt
 * SuperMetroid.txt
 * SuperMarioWorld.txt
+* SuperMarioAllStars.txt
