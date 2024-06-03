@@ -56,8 +56,8 @@ sources: pcgamingwiki.com and myself
 * Hexen2.txt
 * Heretic2.txt
 * SuperMario64.txt
-* OcarinaofTime.txt
-* MajorasMask.txt
+* ZeldaOcarinaofTime.txt
+* ZeldaMajorasMask.txt
 * PerfectDark.txt
 * ZeldaLinktothePast.txt
 * MarioKart64.txt
