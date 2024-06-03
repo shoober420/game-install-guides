@@ -1,4 +1,4 @@
-The Legend of Zelda: Ocarina of Time
+The Legend of Zelda: Ocarina of Time (1998)
 
 - download Ship of Harkinian (https://github.com/HarbourMasters/Shipwright) (https://www.shipofharkinian.com/)
 - download PAL Gamecube Zelda OOT Debug ROM (7zip required to extract)
