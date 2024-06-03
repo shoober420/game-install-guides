@@ -1,5 +1,5 @@
 The Legend of Zelda: A Link to the Past (ALttP)
- - decompilation of SNES game
+ - decompilation of 1991 SNES game
 
 - download MSYS2 (https://www.msys2.org/)
 - install MSYS2 in "C:\msys64" directory
