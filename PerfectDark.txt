@@ -24,3 +24,5 @@ Perfect Dark
 - download latest 32bit SDL2 (https://github.com/libsdl-org/SDL) (SDL2-x.xx.x-win32-x86.zip)
 - copy "SDL2.dll" into "perfect_dark\build\ntsc-final-port" directory
 - launch pd.exe
+
+add "-static -static-libstdc++ -static-libgcc" to Makefile.port under "TARGET_LDFLAGS" section to build without needing SDL2, GCC, and ZLIB
