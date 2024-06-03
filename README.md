@@ -63,3 +63,4 @@ sources: pcgamingwiki.com and myself
 * MarioKart64.txt
 * PaperMario64.txt
 * SuperMetroid.txt
+* SuperMarioWorld.txt
