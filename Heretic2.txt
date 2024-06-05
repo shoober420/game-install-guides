@@ -5,4 +5,8 @@ Heretic II
  - go to bin folder
  - drag H2_Setup.dbd onto demo32.exe
  - install game
+ - extract 1.07 patch into Heretic II directory and replace old files
+ - Open H2Resolution.exe
+ - Enter the desired resolution
+ - make sure "vid_mode 3" is set for resolution patch to work
  - 
