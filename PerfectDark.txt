@@ -11,7 +11,7 @@ Perfect Dark
 - download MSYS2 (https://www.msys2.org/)
 - install MSYS2 in "C:\msys64" directory
 - launch mingw32.exe in msys2 directory
-- pacman -S mingw-w64-i686-toolchain mingw-w64-i686-SDL2 mingw-w64-i686-zlib mingw-w64-x86_64-zlib mingw-w64-x86_64-libwinpthread make git
+- pacman -S mingw-w64-i686-toolchain mingw-w64-i686-SDL2 mingw-w64-i686-zlib mingw-w64-x86_64-zlib mingw-w64-x86_64-libwinpthread mingw-w64-x86_64-cmake mingw-w64-i686-cmake make git
 - git clone --recursive https://github.com/fgsfdsfgs/perfect_dark.git
 - download perfect dark ROM, USA V1.1 NTSC-FINAL recommended
 - rename perfect dark ROM to pd.ntsc-final.z64
