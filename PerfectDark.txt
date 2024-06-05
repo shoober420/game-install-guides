@@ -25,4 +25,4 @@ Perfect Dark
 - copy "SDL2.dll" into "perfect_dark\build\ntsc-final-port" directory
 - launch pd.exe
 
-add "-static -static-libstdc++ -static-libgcc" to Makefile.port under "TARGET_LDFLAGS" section to build without needing to add zlib1.dll, libwinpthread-1.dll, libgcc_s_dw2-1.dll, and SDL2.dll
+add "--static" flag to line 154 and add "-static -static-libgcc" flags to line 159 in Makefile.port to build without needing to add zlib1.dll, libwinpthread-1.dll, libgcc_s_dw2-1.dll, and SDL2.dll files into pd.exe directory
