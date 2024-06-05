@@ -10,3 +10,5 @@ Heretic II
  - Enter the desired resolution
  - make sure "vid_mode 3" is set for resolution patch to work
  - 
+
+Although the Video Settings will say youre using Software mode, OpenGL is indeed being used, you can confirm by reading the console on launch to see OpenGL being initialized
