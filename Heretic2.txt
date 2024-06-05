@@ -9,6 +9,6 @@ Heretic II
  - Open H2Resolution.exe
  - Enter the desired resolution
  - make sure "vid_mode 3" is set for resolution patch to work
- - 
+ - right click Heretic2.exe and Properties > Compatibility > change high dpi settings > Override high DPI scaling behavior > Scaling performed by: Application (this fixes zoomed in menu screen on launch)
 
 Although the Video Settings will say youre using Software mode, OpenGL is indeed being used, you can confirm by reading the console on launch to see OpenGL being initialized
