@@ -58,7 +58,6 @@ sources: pcgamingwiki.com and myself
 * SuperMario64.txt
 * ZeldaOcarinaofTime.txt
 * ZeldaMajorasMask.txt
-* JakandDaxter.txt
 * PerfectDark.txt
 * ZeldaLinktothePast.txt
 * MarioKart64.txt
@@ -66,3 +65,4 @@ sources: pcgamingwiki.com and myself
 * SuperMetroid.txt
 * SuperMarioWorld.txt
 * SuperMarioAllStars.txt
+* JakandDaxter.txt
