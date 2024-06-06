@@ -6,3 +6,4 @@ Jak and Daxter
 - pacman -S mingw-w64-clang-x86_64-toolchain mingw-w64-x86_64-clang mingw-w64-x86_64-nasm mingw-w64-i686-nasm mingw-w64-x86_64-toolchain mingw-w64-i686-toolchain mingw-w64-x86_64-SDL2 mingw-w64-i686-SDL2 mingw-w64-x86_64-zlib mingw-w64-i686-zlib mingw-w64-x86_64-libwinpthread mingw-w64-i686-libwinpthread mingw-w64-x86_64-cmake mingw-w64-i686-cmake mingw-w64-cross-binutils binutils make git
 - git clone https://github.com/open-goal/jak-project.git
 - cmake -B build && cmake --build build -j 8
+- ./test.sh
