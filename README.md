@@ -68,3 +68,4 @@ sources: pcgamingwiki.com and myself
 * JakandDaxter.txt
 * Sonic.txt
 * SonicMania.txt
+* SonicCD.txt
