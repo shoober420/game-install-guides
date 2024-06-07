@@ -1,0 +1,7 @@
+Sonic Mania
+ - Mania is a remaster of the original games
+ - Encore DLC is Sonic Mania Plus DLC 
+ - Sonic Origins is a faithful port of the original games
+
+- download (https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation)
+
