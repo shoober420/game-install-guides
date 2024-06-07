@@ -1,4 +1,5 @@
 Sonic 1 & 2
 
 - git clone --recursive https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation
-- cmake -B build && cmake --build build --config release
+- cmake -B build
+- cmake --build build --config release
