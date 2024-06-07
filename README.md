@@ -67,3 +67,4 @@ sources: pcgamingwiki.com and myself
 * SuperMarioAllStars.txt
 * JakandDaxter.txt
 * Sonic.txt
+* SonicMania.txt
