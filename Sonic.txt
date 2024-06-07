@@ -1,5 +1,8 @@
 Sonic 1 & 2
 
+- download win_x64 (https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation)
+- 
+
 - git clone --recursive https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation
 - cmake -B build
 - cmake --build build --config release
