@@ -7,7 +7,10 @@ The Legend of Zelda: Majora's Mask (2000)
 
 
 - download git (winget install --id Git.Git -e --source winget) (https://www.git-scm.com/download/win)
-- download make (https://gnuwin32.sourceforge.net/packages/make.htm)
+- download chocolatey using powershell
+- Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+- download make using chocolatey (chocolatey has the newest version of make 4.41, instead of GNU website 3.81)
+- choco install make
 - download Visual Studio (https://visualstudio.microsoft.com/downloads/)
 - install and checkmark Desktop development with C++, C++ Clang tools for Windows, C++ Clang Compiler for Windows, C++ CMake tools for Windows (20GB)
 - restart, then open Visual Studio installer again
