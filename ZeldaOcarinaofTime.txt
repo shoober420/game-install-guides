@@ -26,5 +26,12 @@ The Legend of Zelda: Ocarina of Time (1998)
 - md ocarinaoftime
 - git clone --recursive https://github.com/HarbourMasters/Shipwright/
 - download Zelda OOT Debug ROM (7zip required to extract)
+- place ROM in ocarinaoftime\Shipwright\OTRExporter directory
+- open powershell
+- cd %USERPROFILE%\Downloads\ocarinaoftime\Shipwright
+- & 'C:\Program Files\CMake\bin\cmake' -S . -B "build/x64" -G "Visual Studio 17 2022" -A x64
+- & 'C:\Program Files\CMake\bin\cmake.exe' --build .\build\x64 --target ExtractAssets
+- & 'C:\Program Files\CMake\bin\cmake.exe' --build .\build\x64
+
 
 F1 for options menu
