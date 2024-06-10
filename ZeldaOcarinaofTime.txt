@@ -10,6 +10,7 @@ The Legend of Zelda: Ocarina of Time (1998)
 - Dont extract another ROM, Click No
 
 - download git (winget install --id Git.Git -e --source winget)
+- download python 3 (https://www.python.org/downloads/windows/)
 - download Visual Studio (https://visualstudio.microsoft.com/downloads/)
 - install and checkmark Desktop development with C++, C++ CMake tools for Windows (20GB)
 - restart, then open Visual Studio installer again
@@ -21,7 +22,7 @@ The Legend of Zelda: Ocarina of Time (1998)
 - launch Visual Studio (C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\devenv.exe)
 - launch cmd
 - cd %USERPROFILE%\Downloads
-- md majorasmask
-- git clone --recurse-submodules https://github.com/Zelda64Recomp/Zelda64Recomp.git
+- md ocarinaoftime
+- git clone --recursive https://github.com/HarbourMasters/Shipwright/
 
 F1 for options menu
