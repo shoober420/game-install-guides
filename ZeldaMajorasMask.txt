@@ -1,5 +1,6 @@
 The Legend of Zelda: Majora's Mask (2000)
 
+- download git (winget install --id Git.Git -e --source winget)
 - download Visual Studio (https://visualstudio.microsoft.com/downloads/)
 - install and checkmark Desktop development with C++, C++ Clang tools for Windows, C++ Clang Compiler for Windows, C++ CMake tools for Windows (20GB)
 - restart, then open Visual Studio installer again
