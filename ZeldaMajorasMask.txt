@@ -1,5 +1,11 @@
 The Legend of Zelda: Majora's Mask (2000)
 
+- download majoras mask pc port (https://github.com/Zelda64Recomp/Zelda64Recomp)
+- download majoras mask ROM
+- place ROM in Zelda64Recompiled directory
+
+
+
 - download git (winget install --id Git.Git -e --source winget)
 - download Visual Studio (https://visualstudio.microsoft.com/downloads/)
 - install and checkmark Desktop development with C++, C++ Clang tools for Windows, C++ Clang Compiler for Windows, C++ CMake tools for Windows (20GB)
@@ -14,7 +20,3 @@ The Legend of Zelda: Majora's Mask (2000)
 - cd %USERPROFILE%\Downloads
 - md majorasmask
 - git clone --recurse-submodules https://github.com/Zelda64Recomp/Zelda64Recomp.git
-
-- download majoras mask pc port (https://github.com/Zelda64Recomp/Zelda64Recomp)
-- download majoras mask ROM
-- place ROM in Zelda64Recompiled directory
