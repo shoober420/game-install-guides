@@ -13,9 +13,9 @@ The Legend of Zelda: Ocarina of Time (1998)
 - download python 3 (https://www.python.org/downloads/windows/)
 - download cmake (https://cmake.org/download/)
 - download Visual Studio (https://visualstudio.microsoft.com/downloads/)
-- install and checkmark Desktop development with C++, C++ CMake tools for Windows (20GB)
+- install and checkmark Desktop development with C++ and C++ CMake tools for Windows
 - restart, then open Visual Studio installer again
-- download preview build, checkmark Desktop development with C++, C++ Clang tools for Windows, C++ Clang Compiler for Windows, C++ CMake tools for Windows (15.92GB)
+- download preview build, checkmark Desktop development with C++ and C++ CMake tools for Windows
 - restart
 - skip account sign up
 - Development settings: Visual C++
