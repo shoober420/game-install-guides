@@ -11,6 +11,7 @@ The Legend of Zelda: Ocarina of Time (1998)
 
 - download git (winget install --id Git.Git -e --source winget)
 - download python 3 (https://www.python.org/downloads/windows/)
+- download cmake (https://cmake.org/download/)
 - download Visual Studio (https://visualstudio.microsoft.com/downloads/)
 - install and checkmark Desktop development with C++, C++ CMake tools for Windows (20GB)
 - restart, then open Visual Studio installer again
