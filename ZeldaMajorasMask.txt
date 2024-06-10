@@ -13,7 +13,7 @@ The Legend of Zelda: Majora's Mask (2000)
 - launch cmd
 - cd %USERPROFILE%\Downloads
 - md majorasmask
-- git clone --recurse-submodules https://github.com/Zelda64Recomp/Zelda64Recomp
+- git clone --recurse-submodules https://github.com/Zelda64Recomp/Zelda64Recomp.git
 
 - download majoras mask pc port (https://github.com/Zelda64Recomp/Zelda64Recomp)
 - download majoras mask ROM
