@@ -20,3 +20,4 @@ The Legend of Zelda: Majora's Mask (2000)
 - cd %USERPROFILE%\Downloads
 - md majorasmask
 - git clone --recurse-submodules https://github.com/Zelda64Recomp/Zelda64Recomp.git
+- when asked about accepting connection during clone, type yes and hit enter (if you answer no or just hit enter, you will get Host key verification failed / Failed to clone 'lib/N64ModernRuntime' a second time, aborting)
