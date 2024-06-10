@@ -23,3 +23,6 @@ The Legend of Zelda: Majora's Mask (2000)
 - git clone --recurse-submodules https://github.com/Zelda64Recomp/Zelda64Recomp.git
 - cd ~/
 - git clone --recursive https://github.com/zeldaret/mm
+- download Majoras Mask ROM
+- rename it baserom.z64
+- place in mm\baseroms\n64-us directory 
