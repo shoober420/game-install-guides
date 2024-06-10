@@ -8,6 +8,7 @@ The Legend of Zelda: Majora's Mask (2000)
 - skip account sign up
 - Development settings: Visual C++
 - Choose your color theme: Dark
+- launch Visual Studio (C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\devenv.exe)
 
 - download majoras mask pc port (https://github.com/Zelda64Recomp/Zelda64Recomp)
 - download majoras mask ROM
