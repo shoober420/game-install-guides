@@ -9,7 +9,7 @@ The Legend of Zelda: Ocarina of Time (1998)
 - use ROM placed in directory, Click Yes
 - Dont extract another ROM, Click No
 
-- download git (winget install --id Git.Git -e --source winget)
+- download git (winget install --id Git.Git -e --source winget) (https://www.git-scm.com/download/win)
 - download python 3 (https://www.python.org/downloads/windows/)
 - download cmake (https://cmake.org/download/)
 - download Visual Studio (https://visualstudio.microsoft.com/downloads/)
