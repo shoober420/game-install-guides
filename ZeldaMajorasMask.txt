@@ -1,5 +1,7 @@
 The Legend of Zelda: Majora's Mask (2000)
 
+- download Visual Studio (https://visualstudio.microsoft.com/downloads/)
+
 - download majoras mask pc port (https://github.com/Zelda64Recomp/Zelda64Recomp)
 - download majoras mask ROM
 - place ROM in Zelda64Recompiled directory
