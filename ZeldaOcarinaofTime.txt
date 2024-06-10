@@ -2,7 +2,7 @@ The Legend of Zelda: Ocarina of Time (1998)
 
 - download Ship of Harkinian (https://github.com/HarbourMasters/Shipwright) (https://www.shipofharkinian.com/)
  + nightly builds (https://nightly.link/HarbourMasters/Shipwright/workflows/generate-builds/develop/soh-windows.zip)
-- download PAL Gamecube Zelda OOT Debug ROM (7zip required to extract)
+- download Zelda OOT Debug ROM (7zip required to extract)
 - place ROM in folder with soh.exe
 - launch soh.exe
 - generate OTR files, Click Yes
@@ -25,5 +25,6 @@ The Legend of Zelda: Ocarina of Time (1998)
 - cd %USERPROFILE%\Downloads
 - md ocarinaoftime
 - git clone --recursive https://github.com/HarbourMasters/Shipwright/
+- download Zelda OOT Debug ROM (7zip required to extract)
 
 F1 for options menu
