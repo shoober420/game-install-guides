@@ -32,7 +32,16 @@ Visual Studio
 - Build > Run Build Insights > Build All
 - Build > Install jak
 - download Jak and Daxter: The Precursor Legacy Black Label ISO
-- place ROM ISO in %USERPROFILE%\Downloads\poop\jak-project\iso_data\jak1
+- extract ROM ISO into "%USERPROFILE%\Downloads\poop\jak-project\iso_data\jak1" directory
+- open powershell
+- cd Downloads/jak-project
+- task set-game-jak1
+- task set-decomp-ntscv1
+- task extract
+- task repl
+- repl should now be running
+- (mi)
+- task boot-game
 
 
 MSYS2
