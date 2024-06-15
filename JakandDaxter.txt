@@ -15,6 +15,14 @@ Visual Studio
 - scoop install git llvm nasm python task
 - cd Downloads
 - git clone https://github.com/open-goal/jak-project.git
+- download Visual Studio (https://visualstudio.microsoft.com/downloads/)
+- install and checkmark Desktop development with C++ and C++ CMake tools for Windows
+- restart, then open Visual Studio installer again
+- download preview build, checkmark Desktop development with C++ and C++ CMake tools for Windows
+- restart
+- skip account sign up
+- Development settings: Visual C++
+- Choose your color theme: Dark
 - launch Visual Studio (C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\devenv.exe)
 - open as CMake project
 
