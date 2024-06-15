@@ -40,7 +40,7 @@ Visual Studio
 - copy jak-project/out/build/Debug directory to jak-project/out/build/Release
 - task extract
 - task repl
-- repl should now be running
+- repl (OpenGOAL) should now be running
 - (mi)
 - task boot-game
 
