@@ -37,6 +37,7 @@ Visual Studio
 - cd Downloads/jak-project
 - task set-game-jak1
 - task set-decomp-ntscv1
+- copy jak-project/out/build/Debug directory to jak-project/out/build/Release
 - task extract
 - task repl
 - repl should now be running
