@@ -1,5 +1,6 @@
 Perfect Dark
 
+fgsfdsfgs
 - download latest master (https://github.com/fgsfdsfgs/perfect_dark/releases/tag/ci-dev-build)
 - download perfect dark ROM, USA V1.1 NTSC-FINAL recommended
 - rename perfect dark ROM to pd.ntsc-final.z64
@@ -8,6 +9,7 @@ Perfect Dark
 
 
 
+MSYS2
 - download MSYS2 (https://www.msys2.org/)
 - install MSYS2 in "C:\msys64" directory
 - launch mingw32.exe in msys2 directory
