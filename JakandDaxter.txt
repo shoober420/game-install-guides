@@ -3,7 +3,7 @@ Jak and Daxter
 OpenGOAL
 - download launcher (https://opengoal.dev/)
 - install launcher and choose %USERPROFILE%/Downloads/jak1 as game and toolset folder
-- download Jak and Daxter: The Precursor Legacy ISO
+- download Jak and Daxter: The Precursor Legacy Black Label ISO
 - place in %USERPROFILE%/Downloads/jak1 folder
 - Install via ISO in launcher
 
@@ -30,7 +30,9 @@ Visual Studio
 - Windows Release (clang)
 - DLL Release - DLL OpenSSL|x64
 - Build > Run Build Insights > Build All
-
+- Build > Install jak
+- download Jak and Daxter: The Precursor Legacy Black Label ISO
+- place ROM ISO in %USERPROFILE%\Downloads\poop\jak-project\iso_data\jak1
 
 
 MSYS2
