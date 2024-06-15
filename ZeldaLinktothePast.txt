@@ -8,6 +8,7 @@ MSYS2
 - pip install pillow pyyaml
 - launch mingw64.exe in msys2 directory
 - pacman -S vim git make python p7zip mingw-w64-x86_64-gcc mingw-w64-x86_64-glew mingw-w64-x86_64-SDL2 mingw-w64-x86_64-binutils mingw-w64-x86_64-python3-pillow mingw-w64-x86_64-python-yaml
+- pacman -Syyu
 - git clone --recursive https://github.com/snesrev/zelda3
 - download Link to the Past US ROM
 - place ROM in zelda3 directory ("tables" folder got renamed to "assets") (ROM no longer gets placed in "tables" or "assets" folder)
