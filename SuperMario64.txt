@@ -9,7 +9,7 @@ sm64pcbuilder2
  - click "Yes" to installing required packages
  - let it build
  - Source - repo: sm64ex / branch: nightly (its newer than master) (https://github.com/sm64pc/sm64ex/tree/nightly/)
- - Options - No Drawing Distance
+ - Options - No Drawing Distance (changes vanilla behavior, not recommended)
  - click "Download" for source code
  - click "Compile"
 
@@ -26,7 +26,7 @@ MSYS2
 - rename ROM baserom.us.z64
 - place ROM in sm64ex directory
 - make
-- add NODRAWINGDISTANCE=1 to make line to enable Unlimited Drawing Distance patch (make NODRAWINGDISTANCE=1)
+- add NODRAWINGDISTANCE=1 to make line to enable Unlimited Drawing Distance patch (make NODRAWINGDISTANCE=1) (changes vanilla behavior of game, not recommended)
 
 WSAD = Analog stick
 Z button = K
