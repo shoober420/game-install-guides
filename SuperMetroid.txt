@@ -8,6 +8,7 @@ MSYS2
 - launch mingw64.exe in msys2 directory
 - git clone --recursive https://github.com/snesrev/sm
 - pacman -S mingw-w64-x86_64-SDL2 make mingw-w64-x86_64-gcc python vim
+- pacman -Syyu
 - download Super Metroid (JU) ROM (JU = Japan USA)
 - rename ROM file "sm.smc"
 - put in "sm" directory
