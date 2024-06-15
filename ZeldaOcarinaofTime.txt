@@ -1,5 +1,6 @@
 The Legend of Zelda: Ocarina of Time (1998)
 
+Ship of Harkinian
 - download Ship of Harkinian (https://github.com/HarbourMasters/Shipwright) (https://www.shipofharkinian.com/)
  + nightly builds (https://nightly.link/HarbourMasters/Shipwright/workflows/generate-builds/develop/soh-windows.zip)
 - download Zelda OOT Debug ROM (7zip required to extract)
@@ -9,6 +10,9 @@ The Legend of Zelda: Ocarina of Time (1998)
 - use ROM placed in directory, Click Yes
 - Dont extract another ROM, Click No
 
+
+
+Visual Studio
 - download git (winget install --id Git.Git -e --source winget) (https://www.git-scm.com/download/win)
 - download python 3 (https://www.python.org/downloads/windows/)
 - download cmake (https://cmake.org/download/)
