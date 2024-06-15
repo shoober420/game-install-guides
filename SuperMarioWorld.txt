@@ -7,6 +7,7 @@ MSYS2
 - rename current smw directory if present to avoid deleting other games
 - git clone --recursive https://github.com/snesrev/smw
 - pacman -S mingw-w64-x86_64-SDL2 make mingw-w64-x86_64-gcc python vim
+- pacman -Syyu
 - download Super Mario World ROM (smc is wrong ROM hash)
 - rename ROM file "smw.sfc"
 - put in "smw" directory
