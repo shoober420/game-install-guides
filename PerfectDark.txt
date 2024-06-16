@@ -19,7 +19,7 @@ MSYS2
 - download perfect dark ROM, USA V1.1 NTSC-FINAL recommended
 - rename perfect dark ROM to pd.ntsc-final.z64
 - place pd.ntsc-final.z64 ROM in perfect_dark directory
-- edit Makefile.port file: GCC_OPT_LVL = -O3
+- edit Makefile.port file line 39: GCC_OPT_LVL = -O3
 - export CFLAGS="-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto"
 - export CXXFLAGS="-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto"
 - make -f Makefile.port
