@@ -31,6 +31,12 @@ Visual Studio
 - git clone --recursive https://github.com/HarbourMasters/Shipwright/
 - remove "-DNDEBUG" from lines 56, 57, and 58 in CMakeLists.txt file
 - add "-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto" to lines 56, 57, and 58 in CMakeLists.txt file
+- add these strings underneath
+
+set(CMAKE_C_FLAGS "-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto")
+set(CMAKE_CXX_FLAGS "-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto")
+set(CMAKE_OBJCXX_FLAGS "-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto")
+
 - download Zelda OOT Debug ROM (7zip required to extract)
 - place ROM in ocarinaoftime\Shipwright\OTRExporter directory
 - open powershell
