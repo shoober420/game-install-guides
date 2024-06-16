@@ -15,8 +15,8 @@ Visual Studio
 - scoop install git llvm nasm python task
 - cd Downloads
 - git clone https://github.com/open-goal/jak-project.git
-- add "-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fexcess-precision=fast -flto=auto" to lines 60 and 128
- + -fgraphite-identity, -floop-nest-optimize, -fdevirtualize-at-ltrans and -fuse-linker-plugin are not supported flags
+- add "-march=native -msahf -O3 -pipe -fno-plt -fno-common -falign-functions=32 -fexcess-precision=fast -flto=auto" to lines 60 and 128
+ + -fgraphite-identity, -floop-nest-optimize, -fdevirtualize-at-ltrans, -fipa-pta and -fuse-linker-plugin are not supported flags
 - download Visual Studio (https://visualstudio.microsoft.com/downloads/)
 - install and checkmark Desktop development with C++ and C++ CMake tools for Windows
 - restart, then open Visual Studio installer again
