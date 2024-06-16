@@ -26,8 +26,10 @@ MSYS2
 - rename ROM baserom.us.z64
 - place ROM in sm64ex directory
 - add "-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto" to line 576 and line 659
+- export CFLAGS="-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto"
+- export CXXFLAGS="-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto"
 - make
-  + add NODRAWINGDISTANCE=1 to make line to enable Unlimited Drawing Distance patch (make NODRAWINGDISTANCE=1) (changes vanilla behavior of game, not recommended)
+ + add NODRAWINGDISTANCE=1 to make line to enable Unlimited Drawing Distance patch (make NODRAWINGDISTANCE=1) (changes vanilla behavior of game, not recommended)
 
 WSAD = Analog stick
 Z button = K
