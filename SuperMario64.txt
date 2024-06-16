@@ -37,3 +37,5 @@ A button = L / MOUSE2
 B button = , / MOUSE1
 Start button = Spacebar
 C buttons = Arrow keys
+
+Forcing VSync on causes black screen at launch, enable "use 3d application settings" instead
