@@ -12,9 +12,10 @@ MSYS2
 - git clone --recursive https://github.com/snesrev/zelda3
 - download Link to the Past US ROM
 - place ROM in zelda3 directory ("tables" folder got renamed to "assets") (ROM no longer gets placed in "tables" or "assets" folder)
+- open cmd
 - cd assets
 - python restool.py --extract-from-rom
-- cd ..
+- msys2 > cd ..
 - export CFLAGS="-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto"
 - export CXXFLAGS="-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto"
 - make
