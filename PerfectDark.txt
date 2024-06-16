@@ -26,4 +26,4 @@ MSYS2
 - place pd.ntsc-final.z64 ROM in perfect_dark/build/ntsc-final-port/data directory
 - launch pd.exe
 
-add "--static" flag to line 154 and add "-static -static-libgcc" flags to line 159 in Makefile.port to build without needing to add zlib1.dll, libwinpthread-1.dll, libgcc_s_dw2-1.dll, and SDL2.dll files into pd.exe directory
+add "--static" flag to line 154 ($(shell pkg-config sdl2 --libs --static)) and add "-static -static-libgcc" flags to end of line 159 in Makefile.port to build without needing to add zlib1.dll, libwinpthread-1.dll, libgcc_s_dw2-1.dll, and SDL2.dll files into pd.exe directory
