@@ -27,7 +27,6 @@ Visual Studio
 - launch Visual Studio (C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\devenv.exe)
 - launch cmd
 - cd %USERPROFILE%\Downloads
-- md ocarinaoftime
 - git clone --recursive https://github.com/HarbourMasters/Shipwright/
 - remove "-DNDEBUG" from lines 56, 57, and 58 in CMakeLists.txt file
 - add "-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto" to lines 56, 57, and 58 in CMakeLists.txt file
@@ -38,12 +37,12 @@ set(CMAKE_CXX_FLAGS "-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-p
 set(CMAKE_OBJCXX_FLAGS "-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto")
 
 - download Zelda OOT Debug ROM (7zip required to extract)
-- place ROM in ocarinaoftime\Shipwright\OTRExporter directory
+- place ROM in Shipwright\OTRExporter directory
 - open powershell
-- cd %USERPROFILE%\Downloads\ocarinaoftime\Shipwright
+- cd %USERPROFILE%\Downloads\Shipwright
 - & 'C:\Program Files\CMake\bin\cmake' -S . -B "build/x64" -G "Visual Studio 17 2022" -A x64
 - & 'C:\Program Files\CMake\bin\cmake.exe' --build .\build\x64 --target ExtractAssets
 - & 'C:\Program Files\CMake\bin\cmake.exe' --build .\build\x64
-- soh.exe is in "%USERPROFILE%\Downloads\ocarinaoftime\Shipwright\x64\Debug" directory
+- soh.exe is in "%USERPROFILE%\Downloads\Shipwright\x64\Debug" directory
 
 F1 for options menu
