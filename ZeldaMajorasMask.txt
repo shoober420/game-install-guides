@@ -5,7 +5,8 @@ Zelda64Recomp
 - download majoras mask ROM
 - place ROM in Zelda64Recompiled directory
 
-
+BUILD TOOLS FOR VISUAL STUDIO 2022 LESS BLOAT
+https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022
 
 Visual Studio
 - download git (winget install --id Git.Git -e --source winget) (https://www.git-scm.com/download/win)
