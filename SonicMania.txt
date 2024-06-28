@@ -22,7 +22,7 @@ Visual Studio
 - cd src
 - git clone https://github.com/microsoft/vcpkg
 - bootstrap-vcpkg.bat
-- vcpkg.exe install libtheora libogg --triplet=x64-windows-static
+- vcpkg.exe install glew sdl2 libogg libvorbis --triplet=x64-windows-static
 - cd %USERPROFILE%\Downloads
 - git clone --recursive https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation
 - cd Sonic-Mania-Decompilation
