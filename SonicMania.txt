@@ -30,4 +30,5 @@ Visual Studio
 - add "-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto" to lines 69, 70, 74, and 75 of Makefile
 - cmake -B build -DCMAKE_TOOLCHAIN_FILE=C:/src/vcpkg/scripts/buildsystems/vcpkg.cmake -DVCPKG_TARGET_TRIPLET=x64-windows-static
 - cmake --build build --config release
-- EXE is in build/dependencies/RSDKv5/
+- EXE is in build/dependencies/RSDKv5/Release
+- place Data.rsdk in \build\dependencies\RSDKv5\Release
