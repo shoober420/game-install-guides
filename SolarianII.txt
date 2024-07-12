@@ -37,15 +37,16 @@ Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
 Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 
 - download Solarian II (https://www.macintoshrepository.org/3206-solarian-ii)
-- download MacOS 7.6.x image (https://macintoshgarden.org/apps/macintosh-mac-os-76) (#10 MacOS761CD.ZIP)
+- download MacOS 8.1 (https://www.macintoshrepository.org/32804-mac-os-8-1-hfv-68k-for-basiliskii-)
 - download Macintosh ROMs OLD WORLD (https://www.macintoshrepository.org/7038-all-macintosh-roms-68k-ppc-)
 
-- extract MacOS761CD.ZIP
+- extract Mac_OS_8.1.7z
 - extract Old_World_Mac_Roms.zip
 
 - Volumes Tab
- + Click Add...
- + %USERPROFILE%\Downloads\MacOS761CD\Mac OS 7.6.1.toast
+ + Click Add... > %USERPROFILE%\Downloads\Mac_OS_8.1\Mac OS 8.1.HFV
+ + Checkmark Disable CD-ROM Driver
+ + Checkmark Enable "My Computer" icon on your Mac desktop (external file system)
 - Graphics/Sound Tab
  + Video Type: Fullscreen
  + Window Refresh Rate: 60Hz
@@ -56,4 +57,4 @@ Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
  + MacOS RAM Size (MB): 1024
  + Mac Model ID: Mac IIci (MacOS 7.x)
  + CPU Type: 68040
- + ROM File: %USERPROFILE%/Downloads/Old_World_Mac_ROMs/1MB ROMs/1995-04 - 064DC91D - LC, Performa 580 & Performa 588.ROM
+ + ROM File: %USERPROFILE%/Downloads/Old_World_Mac_ROMs/1MB ROMs/1994-07 - 06684214 - LC,Quadra,Performa 630.ROM
