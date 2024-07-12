@@ -33,15 +33,15 @@ Build Sheepshaver
 - strip SheepShaver.exe
 - strip SheepShaverGUI.exe
 
-Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
-Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
-
 - download Solarian II (https://www.macintoshrepository.org/3206-solarian-ii)
 - download MacOS 8.1 (https://www.macintoshrepository.org/32804-mac-os-8-1-hfv-68k-for-basiliskii-)
 - download Macintosh ROMs OLD WORLD (https://www.macintoshrepository.org/7038-all-macintosh-roms-68k-ppc-)
 
 - extract Mac_OS_8.1.7z
 - extract Old_World_Mac_Roms.zip
+
+Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
+Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 
 - Volumes Tab
  + Click Add... > %USERPROFILE%\Downloads\Mac_OS_8.1\Mac OS 8.1.HFV
@@ -50,11 +50,31 @@ Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 - Graphics/Sound Tab
  + Video Type: Fullscreen
  + Window Refresh Rate: 60Hz
- + Width: Maximum
- + Height: Maximum
+ + Width: 640
+ + Height: 480
  + Render Driver: Direct3D
 - Memory/Misc Tab
  + MacOS RAM Size (MB): 512 (1024 causes crash at startup)
  + Mac Model ID: Quadra 900 (MacOS 8.x)
  + CPU Type: 68040
  + ROM File: %USERPROFILE%/Downloads/Old_World_Mac_ROMs/1MB ROMs/1994-07 - 06684214 - LC,Quadra,Performa 630.ROM
+
+- Start
+ + Apple logo > Recent Applications > StuffIt Expander
+ + File > Expand > %USERPROFILE%/Downloads/Solarian_II.img_.hqx > Expand
+ + File > Quit
+ + Special > Shut Down
+
+Solarian II requires 8 bit color
+ - Open "C:\msys64\home\%USER%\macemu\BasiliskII\src\Windows\BasiliskII_prefs"
+  + Make sure to set "displaycolordepth 8"
+  + Resolutions higher than 640x480 make the game render too small
+
+Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
+Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
+
+- Volumes Tab
+ + Click Add... > %USERPROFILE%\Downloads\Solarian II.img
+
+- Start
+ + Double click Solarian II disk icon on desktop and launch game
