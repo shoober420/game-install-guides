@@ -45,12 +45,12 @@ Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 
 - Volumes Tab
  + Click Add...
- + %USERPROFILE%\Downloads\MacOS76_JP\Mac OS 7.6.toast
+ + %USERPROFILE%\Downloads\MacOS761CD\Mac OS 7.6.1.toast
 - Graphics/Sound Tab
  + Video Type: Fullscreen
- + Window Refresh Rate: Dynamic
- + Width: 640
- + Height: 480
+ + Window Refresh Rate: 60Hz
+ + Width: Maximum
+ + Height: Maximum
  + Render Driver: Direct3D
 - Memory/Misc Tab
  + MacOS RAM Size (MB): 1024
