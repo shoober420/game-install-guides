@@ -54,7 +54,7 @@ Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
  + Height: Maximum
  + Render Driver: Direct3D
 - Memory/Misc Tab
- + MacOS RAM Size (MB): 1024
+ + MacOS RAM Size (MB): 512 (1024 causes crash at startup)
  + Mac Model ID: Quadra 900 (MacOS 8.x)
  + CPU Type: 68040
  + ROM File: %USERPROFILE%/Downloads/Old_World_Mac_ROMs/1MB ROMs/1994-07 - 06684214 - LC,Quadra,Performa 630.ROM
