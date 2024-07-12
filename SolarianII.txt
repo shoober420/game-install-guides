@@ -23,6 +23,7 @@ Build Basilisk II
 
 Build Sheepshaver
 
+- cd
 - cd macemu/SheepShaver 
 - make links
 - cd src/Windows
