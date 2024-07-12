@@ -55,6 +55,6 @@ Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
  + Render Driver: Direct3D
 - Memory/Misc Tab
  + MacOS RAM Size (MB): 1024
- + Mac Model ID: Mac IIci (MacOS 7.x)
+ + Mac Model ID: Quadra 900 (MacOS 8.x)
  + CPU Type: 68040
  + ROM File: %USERPROFILE%/Downloads/Old_World_Mac_ROMs/1MB ROMs/1994-07 - 06684214 - LC,Quadra,Performa 630.ROM
