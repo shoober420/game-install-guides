@@ -5,7 +5,8 @@ Windows Binary .EXE
 
 Visual Basic
 - download git (winget install --id Git.Git -e --source winget) (https://www.git-scm.com/download/win)
-- download SDL2 (https://github.com/libsdl-org/SDL/releases) (SDL2-2.xx.x-win32-x64.zip)
+- download SDL2 (https://github.com/libsdl-org/SDL/releases) (SDL2-2.xx.x-win32-x86.zip)
+- download SDL2_net (https://github.com/libsdl-org/SDL_net/releases) (SDL2_net-2.x.x-win32-x86.zip)
 - download Visual Studio (https://visualstudio.microsoft.com/downloads/)
 - install and checkmark Desktop development with C++ and C++ CMake tools for Windows
 - restart, then open Visual Studio installer again
@@ -21,5 +22,7 @@ Visual Basic
 - tar -xf VisualC.zip
 - launch Visual Studio (C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\devenv.exe)
 - Open a project or solution (%USERPROFILE\%Downloads\Maelstrom\VisualC\Maelstrom.vcxproj)
+- Make sure "Release" is selected under menu next to "x86" menu
+- Place SDL2.dll and SDL2_net.dll from downloaded zips into "%USERPROFILE%\Downloads\Maelstrom\VisualC\external\lib\x86\" directory
 - Build > Build solution
 - %USERPROFILE%\Downloads\Maelstrom\VisualC\Debug\Maelstrom.exe
