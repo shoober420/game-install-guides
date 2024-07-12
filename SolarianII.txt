@@ -37,14 +37,14 @@ Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
 Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 
 - download Solarian II (https://www.macintoshrepository.org/3206-solarian-ii)
-- download MacOS 8.1 (https://winworldpc.com/product/mac-os-8/81)
+- download MacOS 8.1 (https://www.macintoshrepository.org/32804-mac-os-8-1-hfv-68k-for-basiliskii-)
 - download Macintosh ROMs OLD WORLD (https://www.macintoshrepository.org/7038-all-macintosh-roms-68k-ppc-)
 
-- extract Apple Mac OS 8.1 (ISO).7z
+- extract Mac_OS_8.1.7z
 - extract Old_World_Mac_Roms.zip
 
 - Volumes Tab
- + Click Add... > %USERPROFILE%\Downloads\Apple Mac OS 8.1 (ISO)\MacOS8_1.iso
+ + Click Add... > %USERPROFILE%\Downloads\Mac_OS_8.1\Mac OS 8.1.HFV
  + Checkmark Disable CD-ROM Driver
  + Checkmark Enable "My Computer" icon on your Mac desktop (external file system)
 - Graphics/Sound Tab
