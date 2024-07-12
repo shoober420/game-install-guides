@@ -36,6 +36,20 @@ Build Sheepshaver
 Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
 Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 
+- Volumes Tab
+ + Add...
+- Graphics/Sound Tab
+ + Video Type: Fullscreen
+ + Window Refresh Rate: Dynamic
+ + Width: 640
+ + Height: 480
+ + Render Driver: Direct3D
+- Memory/Misc Tab
+ + MacOS RAM Size (MB): 1024
+ + Mac Model ID: Mac IIci (MacOS 7.x)
+ + CPU Type: 68040
+ + ROM File: %USERPROFILE%/Downloads/Old_World_Mac_ROMs/2MB ROMs/1994-09 - 5BF10FD1 - Quadra 660av & 840av.ROM
+
 - download Solarian II (https://www.macintoshrepository.org/3206-solarian-ii)
 - download Macintosh ROMs OLD WORLD (https://www.macintoshrepository.org/7038-all-macintosh-roms-68k-ppc-)
 
