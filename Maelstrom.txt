@@ -1,0 +1,20 @@
+Maelstrom
+
+Visual Basic
+- download git (winget install --id Git.Git -e --source winget) (https://www.git-scm.com/download/win)
+- download Visual Studio (https://visualstudio.microsoft.com/downloads/)
+- install and checkmark Desktop development with C++ and C++ CMake tools for Windows
+- restart, then open Visual Studio installer again
+- download preview build, checkmark Desktop development with C++ and C++ CMake tools for Windows
+- restart
+- skip account sign up
+- Development settings: Visual C++
+- Choose your color theme: Dark
+- launch cmd
+- cd %USERPROFILE%\Downloads
+- git clone --recursive https://github.com/libsdl-org/Maelstrom
+- tar -xf VisualC.zip
+- launch Visual Studio (C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\devenv.exe)
+- Open a project or solution
+- Build > Build solution
+- %USERPROFILE%\Downloads\Maelstrom\VisualC\Debug\Maelstrom.exe
