@@ -37,10 +37,10 @@ Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
 Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 
 - download Solarian II (https://www.macintoshrepository.org/3206-solarian-ii)
-- download MacOS 7.6.x image (https://macintoshgarden.org/apps/macintosh-mac-os-76)
+- download MacOS 7.6.x image (https://macintoshgarden.org/apps/macintosh-mac-os-76) (#10 MacOS761CD.ZIP)
 - download Macintosh ROMs OLD WORLD (https://www.macintoshrepository.org/7038-all-macintosh-roms-68k-ppc-)
 
-- extract MacOS76_JP.zip
+- extract MacOS761CD.ZIP
 - extract Old_World_Mac_Roms.zip
 
 - Volumes Tab
