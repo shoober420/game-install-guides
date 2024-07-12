@@ -17,8 +17,9 @@ Visual Basic
 - launch cmd
 - cd %USERPROFILE%\Downloads
 - git clone --recursive https://github.com/libsdl-org/Maelstrom
+- cd Maelstrom
 - tar -xf VisualC.zip
 - launch Visual Studio (C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\devenv.exe)
-- Open a project or solution
+- Open a project or solution (%USERPROFILE\%Downloads\Maelstrom\VisualC\Maelstrom.vcxproj)
 - Build > Build solution
 - %USERPROFILE%\Downloads\Maelstrom\VisualC\Debug\Maelstrom.exe
