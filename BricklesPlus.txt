@@ -39,7 +39,7 @@ Build Sheepshaver
 
 - extract Mac_OS_8.1.7z
 - extract Old_World_Mac_Roms.zip
-- move Brickles Plus into "%USERPROFILE\Downloads\Mac Games" directory
+- move brickles_plus_3.1.sit into "%USERPROFILE%\Downloads\Mac Games" directory
 
 Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
 Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
