@@ -39,6 +39,7 @@ Build Sheepshaver
 
 - extract Mac_OS_8.1.7z
 - extract Old_World_Mac_Roms.zip
+- move Solarian_II_.img_.hqx into "%USERPROFILE%\Downloads\Mac Games" directory
 
 Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
 Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
@@ -59,12 +60,6 @@ Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
  + CPU Type: 68040
  + ROM File: %USERPROFILE%/Downloads/Old_World_Mac_ROMs/1MB ROMs/1994-07 - 06684214 - LC,Quadra,Performa 630.ROM
 
-- Start
- + Apple logo > Recent Applications > StuffIt Expander
- + File > Expand > %USERPROFILE%/Downloads/Solarian_II.img_.hqx > Expand
- + File > Quit
- + Special > Shut Down
-
 Solarian II requires 8 bit color
  - Open "C:\msys64\home\%USER%\macemu\BasiliskII\src\Windows\BasiliskII_prefs"
   + Make sure to set "displaycolordepth 8"
@@ -73,8 +68,12 @@ Solarian II requires 8 bit color
 Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
 Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 
-- Volumes Tab
- + Click Add... > %USERPROFILE%\Downloads\Solarian II.img
-
 - Start
- + Double click Solarian II disk icon on desktop and launch game
+ + My Computer > C > Users > %USER% > Downloads > Mac Games
+ + Copy Solarian_II_.img_.hqx to HD on desktop
+ + Apple logo > Recent Applications > StuffIt Expander
+ + File > Expand > %USERPROFILE%/Downloads/Solarian_II.img_.hqx > Expand
+ + open Solarian II.img
+ + open Solarian II disk on desktop
+ + copy Solarian II to HD on desktop
+ + launch game
