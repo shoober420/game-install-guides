@@ -41,8 +41,9 @@ Build Sheepshaver
 - extract Old_World_Mac_Roms.zip
 - move brickles_plus_3.1.sit into "%USERPROFILE%\Downloads\Mac Games" directory
 
-Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
-Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
+Launch MSYS2 (mingw32.exe)
+ - Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
+ - Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 
 - Volumes Tab
  + Click Add... > %USERPROFILE%\Downloads\Mac_OS_8.1\Mac OS 8.1.HFV
@@ -59,9 +60,6 @@ Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
  + Mac Model ID: Quadra 900 (MacOS 8.x)
  + CPU Type: 68040
  + ROM File: %USERPROFILE%/Downloads/Old_World_Mac_ROMs/1MB ROMs/1994-07 - 06684214 - LC,Quadra,Performa 630.ROM
-
-Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
-Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 
 - Start
  + My Computer > C > Users > %USER% > Downloads > Mac Games
