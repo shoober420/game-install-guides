@@ -51,7 +51,7 @@ Launch MSYS2 (mingw32.exe)
  + Checkmark Enable "My Computer" icon on your Mac desktop (external file system)
 - Graphics/Sound Tab
  + Video Type: Fullscreen
- + Window Refresh Rate: 60Hz
+ + Window Refresh Rate: Dynamic
  + Width: 640
  + Height: 480
  + Render Driver: Direct3D
