@@ -39,7 +39,7 @@ Build Sheepshaver
 
 - extract Mac_OS_8.1.7z
 - extract Old_World_Mac_Roms.zip
-- move Swoop-1-0-2.sit into "%USERPROFILE%\Downloads\Mac Games" directory
+- move Swoop_1.0.2_Installer.bin into "%USERPROFILE%\Downloads\Mac Games" directory
 
 Launch MSYS2 (mingw32.exe)
  - Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
@@ -51,7 +51,7 @@ Launch MSYS2 (mingw32.exe)
  + Checkmark Enable "My Computer" icon on your Mac desktop (external file system)
 - Graphics/Sound Tab
  + Video Type: Fullscreen
- + Window Refresh Rate: 60Hz
+ + Window Refresh Rate: Dynamic (game runs too fast using 60Hz)
  + Width: 640
  + Height: 480
  + Render Driver: Direct3D
@@ -63,7 +63,10 @@ Launch MSYS2 (mingw32.exe)
 
 - Start
  + My Computer > C > Users > %USER% > Downloads > Mac Games
- + Copy Swoop-1-0-2.sit to HD on desktop
+ + Copy Swoop_1.0.2_Installer.bin to HD on desktop
  + Apple logo > Recent Applications > StuffIt Expander
- + File > Expand > %USERPROF1ILE%/Downloads/Swoop-1-0-2.sit > Expand
+ + File > Expand > %USERPROF1ILE%/Downloads/Swoop_1.0.2_Installer.bin > Expand
+ + Open Swoop Installer
+ + Install Location: HD
+ + Install
  + Launch game
