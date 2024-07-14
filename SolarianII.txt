@@ -41,8 +41,9 @@ Build Sheepshaver
 - extract Old_World_Mac_Roms.zip
 - move Solarian_II_.img_.hqx into "%USERPROFILE%\Downloads\Mac Games" directory
 
-Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
-Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
+Launch MSYS2 (mingw32.exe)
+ - Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
+ - Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 
 - Volumes Tab
  + Click Add... > %USERPROFILE%\Downloads\Mac_OS_8.1\Mac OS 8.1.HFV
@@ -65,8 +66,9 @@ Solarian II requires 8 bit color
   + Make sure to set "displaycolordepth 8"
   + Resolutions higher than 640x480 make the game render too small
 
-Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
-Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
+Relaunch MSYS2 (mingw32.exe)
+ - Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
+ - Sheepshaver - "~/macemu/SheepShaver/src/Windows" ./SheepShaverGUI.exe
 
 - Start
  + My Computer > C > Users > %USER% > Downloads > Mac Games
