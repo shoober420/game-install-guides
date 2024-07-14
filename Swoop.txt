@@ -1,4 +1,4 @@
-Brickles Plus
+Swoop
 
 Sheepshaver - G4 PowerPC-processor based Macintosh emulator
 Basilisk II - Motorola 68xxx processor based Macintosh emulator
