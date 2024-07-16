@@ -41,7 +41,10 @@ Build Sheepshaver
 - extract Mac_OS_8.1.7z
 - extract Old_World_Mac_Roms.zip
 - move Happyweed_1.2.img_.sit into "%USERPROFILE%\Downloads\Mac Games" directory
-- move slo-mo.hqx into "%USERPROFILE%\Downloads\Mac Games" directory
+
+Requires tweaking "delay" in BasiliskII_prefs file
+ - vim ~/macemu/BasiliskII/src/Windows/BasiliskII_prefs
+ - delay 5000
 
 Launch MSYS2 (mingw32.exe)
  - Basilisk II - "~/macemu/BasiliskII/src/Windows" ./BasiliskIIGUI.exe
@@ -75,10 +78,6 @@ Relaunch MSYS2 (mingw32.exe)
  + open Happyweed! 1.2.img
  + open Happyweed! 1.2 disk on desktop
  + File > New Folder in HD directory
- + copy slo-mo.hqx to Happyweed directory in HD on desktop
- + File > Expand > %USERPROFILE%/Downloads/slo-mo.hqx > Expand
- + Open slo-mo installer
- + Restart Basilisk II
- + Apple logo > Control Panels > Slo-Mo
- + Turn on and use Application speed 25%
+ + Name new folder Happyweed
+ + Copy all files from Happyweed! 1.2 disk into Happyweed directory in HD
  + Launch game
