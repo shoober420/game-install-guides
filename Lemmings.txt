@@ -43,4 +43,6 @@ MSYS2
 - place roms in "C:\msys64\home\%USER%\fs-uae\Kickstarts" directory
 - copy "https://github.com/shoober420/windows-configs/blob/main/C%3A/msys2/home/shoober420/fs-uae/Configurations/Default.fs-uae" into "C:\msys64\home\shoober420\fs-uae\Configurations"
 - copy Lemmings disk images into "C:\msys64\home\shoober420\fs-uae\Floppies" directory
-- edit Default.fs-uae config to say "floppy_drive_0 = Lemmings_Disk1.adf" and "floppy_drive_1 = Lemmings_Disk2.adf"
+- edit Default.fs-uae config and change "floppy_drive_0 = Lemmings_Disk1.adf" and "floppy_drive_1 = Lemmings_Disk2.adf"
+
+- launch fs-uae (./fs-uae)
