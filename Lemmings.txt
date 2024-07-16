@@ -30,11 +30,16 @@ MSYS2
 - ./bootstrap
 - ./configure
 - make
+- ./fs-uae
+- close program
 
 - git clone --recursive https://github.com/FrodeSolheim/fs-uae-launcher.git
 - cd fs-uae-launcher
 - ./bootstrap
 - make
+
+- google "amiga kickstart roms" and download them
+- place roms in "C:\msys64\home\%USER%\fs-uae\Kickstarts" directory
 
 - download Lemmings (https://www.amigalove.com/games.php?game_id=3)
 - 
