@@ -1,5 +1,5 @@
 Area 51
- - download (https://www.myabandonware.com/game/area-51-c5g)
+ - download (google it)
  - winbin2iso and convert
  - mount and copy AREA51 directory to C:\ (installer doesnt work)
 
