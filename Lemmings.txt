@@ -15,6 +15,7 @@ MSYS2
 - make
 
 - git clone --recursive https://github.com/FrodeSolheim/fs-uae-launcher.git
+- cd fs-uae-launcher
 - ./bootstrap
 - make
 
