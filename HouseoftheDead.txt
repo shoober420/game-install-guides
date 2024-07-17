@@ -7,6 +7,10 @@ MAME (WINDOWS)
   - tweak the following settings:
 
   + REGENIE = 1
+  + NOWERROR = 1
+  + TOOLS = 0
+  + TESTS = 0
+  + BENCHMARKS = 0
   + NO_OPENGL=0
   + MODERN_WIN_API=1
   + USE_SDL = 1
