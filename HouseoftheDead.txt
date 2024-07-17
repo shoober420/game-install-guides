@@ -6,11 +6,13 @@ MAME (WINDOWS)
  - open makefile
   - tweak the following settings:
 
+  + REGENIE = 1
   + NO_OPENGL=0
   + MODERN_WIN_API=1
   + USE_SDL = 1
   !!! + SDL2_MULTIAPI = 1 (invalid option)
   + NO_USE_PULSEAUDIO = 1
+  + DEBUG = 0
   !!! + NO_X11 = 1 (invalid option)
   !!! + USE_WAYLAND = 0 (invalid option)
   + OPTIMIZE = 3
