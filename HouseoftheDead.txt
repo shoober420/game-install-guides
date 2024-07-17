@@ -1,35 +1,4 @@
 House of the Dead
 
-MAME (WINDOWS)
- - git clone --recursive https://github.com/mamedev/mame.git
- - cd mame
- - open makefile
-  - tweak the following settings:
-
-  + REGENIE = 1
-  + NOWERROR = 1
-  + TOOLS = 0
-  + TESTS = 0
-  + BENCHMARKS = 0
-  + NO_OPENGL=0
-  + MODERN_WIN_API=1
-  + USE_SDL = 1
-  !!! + SDL2_MULTIAPI = 1 (invalid option)
-  + NO_USE_PORTAUDIO = 0
-  + NO_USE_PULSEAUDIO = 1
-  + USE_TAPTUN = 0 (for internet multiplayer)
-  + USE_PCAP = 0
-  + USE_QTDEBUG = 0
-  + DEBUG = 0
-  !!! + NO_X11 = 1 (invalid option)
-  !!! + USE_WAYLAND = 0 (invalid option)
-  + OPTIMIZE = 3
-  + OPT_FLAGS = "-march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast -flto=auto"
-  !!! + USE_LIBSDL = 1 (invalid option)
-  + TARGETOS = windows
-  + CROSS_BUILD = 0
-  + LTO = 1
-  + SSE2 = 1
-  + MSBUILD = 1 (required for visual studio)
-
- - make
+- download Model 2 Emulator (https://segaretro.org/Model_2_Emulator)
+- 
