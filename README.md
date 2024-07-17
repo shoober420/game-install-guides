@@ -77,3 +77,5 @@ sources: pcgamingwiki.com and myself
 * Glider.txt
 * Lemmings.txt
 * CannonFodder.txt
+* TurricanII.txt
+* JamesPond.txt
