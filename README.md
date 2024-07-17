@@ -70,3 +70,10 @@ sources: pcgamingwiki.com and myself
 * SonicMania.txt
 * SonicCD.txt
 * Maelstrom.txt
+* SolarianII.txt
+* BricklesPlus.txt
+* Swoop.txt
+* Happyweed.txt
+* Glider.txt
+* Lemmings.txt
+* CannonFodder.txt
