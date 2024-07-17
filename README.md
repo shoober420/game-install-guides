@@ -83,3 +83,4 @@ sources: pcgamingwiki.com and myself
 * DynamiteCop.txt
 * ZombieRevenge.txt
 * PowerStone.txt
+* DieHardTrilogy.txt
