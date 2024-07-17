@@ -2,4 +2,7 @@ House of the Dead
 
 - download Model 2 Emulator (https://segaretro.org/Model_2_Emulator)
 - download House of the Dead (google model 2 emulator ROM sets) (mame roms and model 2 roms are different)
-- 
+- extract M2Emulator
+- create games directory inside M2Emulator directory
+- open EMULATOR.INI
+- add "%USERPROFILE%\Downloads\M2emulator_1.1a\games\" to Dir1=
