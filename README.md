@@ -79,3 +79,4 @@ sources: pcgamingwiki.com and myself
 * CannonFodder.txt
 * TurricanII.txt
 * JamesPond.txt
+* HouseoftheDead.txt
