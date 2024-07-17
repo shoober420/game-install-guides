@@ -82,3 +82,4 @@ sources: pcgamingwiki.com and myself
 * HouseoftheDead.txt
 * DynamiteCop.txt
 * ZombieRevenge.txt
+* PowerStone.txt
