@@ -6,3 +6,10 @@ House of the Dead
 - create games directory inside M2Emulator directory
 - open EMULATOR.INI
 - add "%USERPROFILE%\Downloads\M2emulator_1.1a\games\" to Dir1=
+
+Test Mode Menu with F2
+
+Cycle through options with F1
+Select option with F1
+
+Gun Settings > PLAYER1 GUN ADJUSTMENT
