@@ -1,5 +1,5 @@
 House of the Dead
 
 - download Model 2 Emulator (https://segaretro.org/Model_2_Emulator)
-- download House of the Dead (google model 2 emulator ROM sets)
+- download House of the Dead (google model 2 emulator ROM sets) (mame roms and model 2 roms are different)
 - 
