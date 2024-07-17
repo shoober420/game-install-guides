@@ -38,7 +38,7 @@ MSYS2
 - ./bootstrap
 - make
 
-- download Lemmings (https://www.amigalove.com/games.php?game_id=3)
+- download Lemmings (https://www.lemonamiga.com/games/details.php?id=676)
 - google "amiga kickstart roms" and download them
 - place roms in "C:\msys64\home\%USER%\fs-uae\Kickstarts" directory
 - copy "https://github.com/shoober420/windows-configs/blob/main/C%3A/msys2/home/shoober420/fs-uae/Configurations/Default.fs-uae" into "C:\msys64\home\shoober420\fs-uae\Configurations"
