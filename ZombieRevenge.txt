@@ -1,0 +1,5 @@
+Zombie Revenge
+
+- download flycast (https://flyinghead.github.io/flycast-builds/)
+- download Zombie Revenge MAME ROM
+- drag Zombie Revenge zip onto flycast exe
