@@ -11,7 +11,11 @@ MAME (WINDOWS)
   + MODERN_WIN_API=1
   + USE_SDL = 1
   !!! + SDL2_MULTIAPI = 1 (invalid option)
+  + NO_USE_PORTAUDIO = 0
   + NO_USE_PULSEAUDIO = 1
+  + USE_TAPTUN = 0 (for internet multiplayer)
+  + USE_PCAP = 0
+  + USE_QTDEBUG = 0
   + DEBUG = 0
   !!! + NO_X11 = 1 (invalid option)
   !!! + USE_WAYLAND = 0 (invalid option)
