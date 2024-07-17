@@ -1,0 +1,5 @@
+Power Stone
+
+- download flycast (https://flyinghead.github.io/flycast-builds/)
+- download Power Stone MAME ROM
+- drag Power Stone zip onto flycast exe
