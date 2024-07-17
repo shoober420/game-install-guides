@@ -30,5 +30,6 @@ MAME (WINDOWS)
   + CROSS_BUILD = 0
   + LTO = 1
   + SSE2 = 1
+  + MSBUILD = 1 (required for visual studio)
 
  - make
