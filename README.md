@@ -80,3 +80,4 @@ sources: pcgamingwiki.com and myself
 * TurricanII.txt
 * JamesPond.txt
 * HouseoftheDead.txt
+* DynamiteCop.txt
