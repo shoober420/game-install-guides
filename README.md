@@ -81,3 +81,4 @@ sources: pcgamingwiki.com and myself
 * JamesPond.txt
 * HouseoftheDead.txt
 * DynamiteCop.txt
+* ZombieRevenge.txt
