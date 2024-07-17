@@ -17,4 +17,4 @@ Change blood color
 
 hotd2 uses sound effects from zombie revenge, the dreamcast game
 
-House of the Dead 1 is a bad saturn port, use arcade and mame
+House of the Dead 1 is a bad saturn port, use model 2 emulator (mame doesnt work as of writing)
