@@ -104,3 +104,4 @@ sources: pcgamingwiki.com and myself
 * FinalFantasy2.txt
 * SamuraiPizzaCats.txt
 * Castlevania3.txt
+* GanbareGoemon2.txt
