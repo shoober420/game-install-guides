@@ -1,7 +1,7 @@
 Final Fantasy III
 
 - download mesen2 (https://github.com/SourMesen/Mesen2)
-- download Final Fantasy III JAP rom (Final Fantasy III (J) [!].nes)
+- download Final Fantasy III JAP rom
 - download fan translation (https://www.romhacking.net/translations/141/)
 - download Lunar IPS (https://www.romhacking.net/utilities/240/)
 - extract translation and lunar ips program
