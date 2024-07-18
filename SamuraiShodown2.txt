@@ -1,0 +1,41 @@
+Samurai Shodown 2
+
+MAME (MSYS2)
+ - git clone --recursive https://github.com/mamedev/mame.git
+ - cd mame
+ - open makefile
+  - tweak the following settings:
+
+  + REGENIE = 1
+  + NOWERROR = 1
+  + TOOLS = 0
+  + TESTS = 0
+  + BENCHMARKS = 0
+  + NO_OPENGL=0
+  + MODERN_WIN_API=1
+  + USE_SDL = 1
+  !!! + SDL2_MULTIAPI = 1 (invalid option)
+  + NO_USE_PORTAUDIO = 0
+  + NO_USE_PULSEAUDIO = 1
+  + USE_TAPTUN = 0 (for internet multiplayer)
+  + USE_PCAP = 0
+  + USE_QTDEBUG = 0
+  + DEBUG = 0
+  !!! + NO_X11 = 1 (invalid option)
+  !!! + USE_WAYLAND = 0 (invalid option)
+  + OPTIMIZE = 3
+  + OPT_FLAGS = -march=native -msahf -O3 -pipe -fno-plt -fno-common -fipa-pta -falign-functions=32 -fdevirtualize-at-ltrans -fuse-linker-plugin -floop-nest-optimize -fgraphite-identity -fexcess-precision=fast (dont use " ", or error with native flag occurs) (-flto=auto causes build error)
+  !!! + USE_LIBSDL = 1 (invalid option)
+  + TARGETOS = windows
+  + CROSS_BUILD = 0
+  !!! + LTO = 1 (mame doesnt support lto builds, causes build errors)
+  + SSE2 = 1
+  + MSBUILD = 1 (required for visual studio)
+
+ - uncomment out MAME mingw64 export settings in .bashrc file
+ - make -j8
+
+- download MAME ROM Set (use internet archives website)
+- download Samurai Shodown 2 mame rom (use internet archives website in mame rom set)
+- place mame rom in "C:\msys64\home\shoober420\mame\roms" directory
+- ./mame.exe
