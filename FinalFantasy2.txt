@@ -1,0 +1,13 @@
+Final Fantasy II
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download Final Fantasy II JAP rom
+- download fan translation (https://www.romhacking.net/translations/2656/)
+- download Lunar IPS (https://www.romhacking.net/utilities/240/)
+- extract translation and lunar ips program
+- open Lunar IPS
+- click "Apply IPS Patch"
+- select FFII_ChaosRushENTranslation_v2.2b.ips patch
+- select final fantasy ii jap rom
+- patch complete, launch mesen2
+- load patched rom and play
