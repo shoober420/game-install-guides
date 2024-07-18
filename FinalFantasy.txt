@@ -1,7 +1,7 @@
 Final Fantasy
 
 - download mesen2 (https://github.com/SourMesen/Mesen2)
-- download Final Fantasy JAP rom (Final Fantasy (Japan) (Rev B).nes)
+- download Final Fantasy JAP rom
 - download Chaos Rush fan translation (https://www.romhacking.net/translations/4868)
 - download Lunar IPS (https://www.romhacking.net/utilities/240/)
 - extract translation and lunar ips program
