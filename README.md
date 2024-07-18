@@ -98,3 +98,4 @@ sources: pcgamingwiki.com and myself
 * GoldenAxe.txt
 * FinalFantasy.txt
 * FinalFantasy3.txt
+* Mother.txt
