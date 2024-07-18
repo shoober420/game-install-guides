@@ -96,3 +96,5 @@ sources: pcgamingwiki.com and myself
 * FinalFight.txt
 * MetalSlug3.txt
 * GoldenAxe.txt
+* FinalFantasy.txt
+* FinalFantasy3.txt
