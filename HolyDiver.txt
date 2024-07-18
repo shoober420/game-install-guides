@@ -1,0 +1,13 @@
+Holy Diver
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download Holy Diver JAP rom
+- download fan translation (https://www.romhacking.net/translations/1110/)
+- download Lunar IPS (https://www.romhacking.net/utilities/240/)
+- extract translation and lunar ips program
+- open Lunar IPS
+- click "Apply IPS Patch"
+- select mfc_holydiver_eng10.ips
+- select holy diver jap rom
+- patch complete, launch mesen2
+- load patched rom and play
