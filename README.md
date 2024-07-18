@@ -108,3 +108,4 @@ sources: pcgamingwiki.com and myself
 * GetsuFuumaDen.txt
 * HolyDiver.txt
 * Ufouria.txt
+* GanbareGoemon.txt
