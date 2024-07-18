@@ -1,0 +1,13 @@
+Castlevania III: Dracula’s Curse (Akumajou Densetsu)
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download Akumajou Densetsu rom
+- download fan translation (https://www.romhacking.net/translations/730/)
+- download Lunar IPS (https://www.romhacking.net/utilities/240/)
+- extract translation and lunar ips program
+- open Lunar IPS
+- click "Apply IPS Patch"
+- select  patch
+- select Akumajou Densetsu rom
+- patch complete, launch mesen2
+- load patched rom and play
