@@ -109,3 +109,4 @@ sources: pcgamingwiki.com and myself
 * HolyDiver.txt
 * Ufouria.txt
 * GanbareGoemon.txt
+* Crystalis.txt
