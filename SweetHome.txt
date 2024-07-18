@@ -1,0 +1,13 @@
+Sweet Home
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download Sweet Home JAP rom (Sweet Home (Japan).zip)
+- download fan translation (https://www.romhacking.net/translations/222/)
+- download Lunar IPS (https://www.romhacking.net/utilities/240/)
+- extract translation and lunar ips program
+- open Lunar IPS
+- click "Apply IPS Patch"
+- select ff3e.ips
+- select sweet home jap rom
+- patch complete, launch mesen2
+- load patched rom and play
