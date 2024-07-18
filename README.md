@@ -100,3 +100,4 @@ sources: pcgamingwiki.com and myself
 * FinalFantasy3.txt
 * Mother.txt
 * SweetHome.txt
+* PokemonYellow.txt
