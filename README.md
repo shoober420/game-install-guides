@@ -101,3 +101,4 @@ sources: pcgamingwiki.com and myself
 * Mother.txt
 * SweetHome.txt
 * PokemonYellow.txt
+* FinalFantasy2.txt
