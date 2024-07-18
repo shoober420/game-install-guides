@@ -1,4 +1,4 @@
-Pokemon Yellow (Lei Dian Huang: Bi Ka Qiu Chuan Shuo) (NJ046 - Pocket Monsters - Yellow (C).NES)
+Pokemon Yellow (Lei Dian Huang: Bi Ka Qiu Chuan Shuo)
 
 - download mesen2 (https://github.com/SourMesen/Mesen2)
 - download Lei Dian Huang: Bi Ka Qiu Chuan Shuo rom
