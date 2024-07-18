@@ -11,3 +11,5 @@ Pokemon Yellow (Lei Dian Huang: Bi Ka Qiu Chuan Shuo) (NJ046 - Pocket Monsters -
 - select pokemon yellow chinese rom
 - patch complete, launch mesen2
 - load patched rom and play
+
+- PAL overscan: 15 top, 15 bottom
