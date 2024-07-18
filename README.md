@@ -105,3 +105,4 @@ sources: pcgamingwiki.com and myself
 * SamuraiPizzaCats.txt
 * Castlevania3.txt
 * GanbareGoemon2.txt
+* GetsuFuumaDen.txt
