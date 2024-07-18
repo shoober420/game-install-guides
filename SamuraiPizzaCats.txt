@@ -1,4 +1,4 @@
-Samurai Pizza Cats
+Samurai Pizza Cats (Kyattou Ninden Teyandee)
 
 - download mesen2 (https://github.com/SourMesen/Mesen2)
 - download Samurai Pizza Cats JAP rom
