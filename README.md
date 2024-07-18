@@ -102,4 +102,5 @@ sources: pcgamingwiki.com and myself
 * SweetHome.txt
 * PokemonYellow.txt
 * FinalFantasy2.txt
+* SamuraiPizzaCats.txt
 * Castlevania3.txt
