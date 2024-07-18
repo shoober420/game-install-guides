@@ -84,3 +84,15 @@ sources: pcgamingwiki.com and myself
 * ZombieRevenge.txt
 * PowerStone.txt
 * DieHardTrilogy.txt
+* RampageWorldTour.txt
+* AlteredBeast.txt
+* SuperStreetFighter2Turbo.txt
+* Sengoku3.txt
+* SamuraiShodown2.txt
+* LastBlade2.txt
+* TMNT:TurtlesinTime.txt
+* MortalKombat.txt
+* MortalKombat2.txt
+* FinalFight.txt
+* MetalSlug3.txt
+* GoldenAxe.txt
