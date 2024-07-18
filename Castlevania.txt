@@ -1,0 +1,13 @@
+Castlevania (Akumajou Dracula)
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download Akumajou Dracula FDS JAP rom
+- download fan translation (https://www.romhacking.net/translations/5543/)
+- download Lunar IPS (https://www.romhacking.net/utilities/240/)
+- extract translation and lunar ips program
+- open Lunar IPS
+- click "Apply IPS Patch"
+- select DvD_Demonic_Castle_Dracula_revA.ips
+- select Akumajou Dracula FDS jap rom
+- patch complete, launch mesen2
+- load patched rom and play
