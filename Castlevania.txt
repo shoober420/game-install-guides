@@ -1,7 +1,7 @@
 Castlevania (Akumajou Dracula)
 
 - download mesen2 (https://github.com/SourMesen/Mesen2)
-- download Akumajou Dracula FDS JAP rom
+- download Akumajou Dracula FDS Disk Writer JAP rom
 - download fan translation (https://www.romhacking.net/translations/5543/)
 - download Lunar IPS (https://www.romhacking.net/utilities/240/)
 - download Famicom Fisk System BIOS
@@ -14,3 +14,5 @@ Castlevania (Akumajou Dracula)
 - load patched rom
 - select disksys.rom when asked to load firmware
 - play game
+
+- currently black screens when patch is applied
