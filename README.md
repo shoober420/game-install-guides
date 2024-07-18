@@ -110,3 +110,4 @@ sources: pcgamingwiki.com and myself
 * Ufouria.txt
 * GanbareGoemon.txt
 * Crystalis.txt
+* Castlevania.txt
