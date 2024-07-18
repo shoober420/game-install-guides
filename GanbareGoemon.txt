@@ -1,0 +1,13 @@
+Ganbare Goemon! Karakuri Douchuu
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download Ganbare Goemon! Karakuri Douchuu JAP rom
+- download fan translation (https://www.romhacking.net/translations/1496/)
+- download Lunar IPS (https://www.romhacking.net/utilities/240/)
+- extract translation and lunar ips program
+- open Lunar IPS
+- click "Apply IPS Patch"
+- select goemon.ips
+- select Ganbare Goemon! Karakuri Douchuu jap rom
+- patch complete, launch mesen2
+- load patched rom and play
