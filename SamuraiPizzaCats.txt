@@ -1,0 +1,13 @@
+Samurai Pizza Cats
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download Samurai Pizza Cats JAP rom
+- download fan translation (https://www.romhacking.net/translations/1706/)
+- download Lunar IPS (https://www.romhacking.net/utilities/240/)
+- extract translation and lunar ips program
+- open Lunar IPS
+- click "Apply IPS Patch"
+- select catninden.ips patch
+- select samurai pizza cats jap rom
+- patch complete, launch mesen2
+- load patched rom and play
