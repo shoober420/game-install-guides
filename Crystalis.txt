@@ -1,0 +1,16 @@
+Crystalis (God Slayer - Haruka Tenkuu no Sonata)
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download god slayer JAP rom
+- download fan translation (https://www.romhacking.net/translations/3793/)
+- download xdelta patcher (https://www.romhacking.net/utilities/598/)
+- extract rom and xdelta patcher program into the same directory
+- place xdelta patch files in same directory as God Slayer
+- open xdelta (requires .NET)
+- open cmd
+- cd to God Slayer directory
+- rename God Slayer nes rom to godslayer.nes
+- rename xdelta patch to godslayerpatch.xdelta
+- xdelta -d -s godslayer.nes godslayerpatch.xdelta godslayereng.nes
+- patch complete, launch mesen2
+- load patched rom and play
