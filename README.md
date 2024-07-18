@@ -106,3 +106,4 @@ sources: pcgamingwiki.com and myself
 * Castlevania3.txt
 * GanbareGoemon2.txt
 * GetsuFuumaDen.txt
+* HolyDiver.txt
