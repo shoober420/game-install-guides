@@ -111,3 +111,4 @@ sources: pcgamingwiki.com and myself
 * GanbareGoemon.txt
 * Crystalis.txt
 * Castlevania.txt
+* SeikenDensetsu3.txt
