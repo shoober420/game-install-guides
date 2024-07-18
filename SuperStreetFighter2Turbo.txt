@@ -37,5 +37,5 @@ MAME (MSYS2)
 
 - download MAME ROM Set (use internet archives website)
 - download Super Street Fighter 2 Turbo mame rom (use internet archives website in mame rom set)
-- place mame rom in "C:\msys64\home\shoober420\mame\roms" directory
+- place ssf2t.zip in "C:\msys64\home\shoober420\mame\roms" directory
 - ./mame.exe
