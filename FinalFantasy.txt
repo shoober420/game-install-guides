@@ -1,0 +1,13 @@
+Final Fantasy
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download Final Fantasy JAP rom (Final Fantasy (Japan) (Rev B).nes)
+- download Chaos Rush fan translation (https://www.romhacking.net/translations/4868)
+- download Lunar IPS (https://www.romhacking.net/utilities/240/)
+- extract translation and lunar ips program
+- open Lunar IPS
+- click "Apply IPS Patch"
+- select chaos edition for more accurate translation
+- select final fantasy jap rom
+- patch complete, launch mesen2
+- load patched rom and play
