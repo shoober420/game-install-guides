@@ -1,0 +1,13 @@
+U-four-ia: The Saga
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download Hebereke JAP rom
+- download fan translation (https://www.romhacking.net/translations/1798/)
+- download beat (https://www.romhacking.net/utilities/893/)
+- extract translation and beat program
+- open beat
+- select Hebereke English v1.0.bps
+- select Hebereke jap rom
+- choose Heberekeeng.nes
+- patch complete, launch mesen2
+- load patched rom and play
