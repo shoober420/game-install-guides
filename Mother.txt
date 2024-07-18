@@ -1,0 +1,5 @@
+Mother / EarthBound
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download Earthbound prototype rom
+- launch mesen2 and load rom
