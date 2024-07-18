@@ -1,0 +1,15 @@
+Ganbare Goemon 2
+
+- download mesen2 (https://github.com/SourMesen/Mesen2)
+- download Ganbare Goemon 2 JAP rom
+- download fan translation (https://www.romhacking.net/translations/1329/)
+- download xdelta patcher (https://www.romhacking.net/utilities/598/)
+- extract rom and xdelta patcher program into the same directory
+- place xdelta patch files in same directory as Ganbare Goemon 2
+- open xdelta (requires .NET)
+- open cmd
+- cd to ganbare goemon 2 directory
+- rename Ganbare Goemon 2 nes rom to goemon2.nes
+- xdelta -d -s goemon2.nes "Goemon 2.xdelta" goemon2eng.nes
+- patch complete, launch mesen2
+- load patched rom and play
