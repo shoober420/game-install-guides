@@ -5,6 +5,7 @@ Magical Taruruuto-kun
 WINDOWS ONLY
 - download chocolately (InstallChocolately.bat)
 - download mercurial (choco install hg)
+ + NOT RECOMMENDED, installs random Windows Updates
 
 BlastEm (requires Visual Studio)
  - download source manually (https://www.retrodev.com/repos/blastem/archive/tip.zip)
