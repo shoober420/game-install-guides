@@ -115,3 +115,4 @@ sources: pcgamingwiki.com and myself
 * BreathofFireII.txt
 * FinalFantasyV.txt
 * RomancingSaga.txt
+* GanbareGoemon3.txt
