@@ -1,0 +1,12 @@
+Magical Taruruuto-kun
+
+- BlastEm Nightly Builds (https://www.retrodev.com/blastem/nightlies)
+
+WINDOWS ONLY
+- download chocolately (InstallChocolately.bat)
+- download mercurial (choco install hg)
+
+BlastEm (requires Visual Studio)
+ - download source manually (https://www.retrodev.com/repos/blastem/archive/tip.zip)
+ - hg clone https://www.retrodev.com/repos/blastem (prefer to use mercurial in MSYS2 instead)
+
