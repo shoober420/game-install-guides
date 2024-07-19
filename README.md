@@ -112,3 +112,4 @@ sources: pcgamingwiki.com and myself
 * Crystalis.txt
 * Castlevania.txt
 * SeikenDensetsu3.txt
+* BreathofFire2.txt
