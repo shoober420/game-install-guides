@@ -15,7 +15,7 @@ sources: pcgamingwiki.com and myself
 * DethKarz.txt
 * Undying.txt
 * WheelofTime.txt
-* HouseoftheDead2.txt
+* HouseoftheDead.txt / HouseoftheDead2.txt
 * VirtuaCop.txt / VirtuaCop2.txt
 * Area51.txt
 * SpaceCadetPinball.txt
@@ -25,8 +25,7 @@ sources: pcgamingwiki.com and myself
 * DeadtoRights.txt
 * EvilDeadHailtotheKing.txt
 * LandoftheDead.txt
-* Thief.txt
-* Thief2.txt
+* Thief.txt / Thief2.txt
 * NoOneLivesForever.txt
 * Driver.txt
 * Unreal98.txt / UT99.txt / UT2004.txt
@@ -55,20 +54,16 @@ sources: pcgamingwiki.com and myself
 * Anachronox.txt
 * Hexen2.txt
 * Heretic2.txt
-* SuperMario64.txt
-* ZeldaOcarinaofTime.txt
-* ZeldaMajorasMask.txt
+* ZeldaOcarinaofTime.txt / ZeldaMajorasMask.txt
 * PerfectDark.txt
 * ZeldaLinktothePast.txt
 * MarioKart64.txt
 * PaperMario64.txt
 * SuperMetroid.txt
-* SuperMarioWorld.txt
-* SuperMarioAllStars.txt
+* SuperMarioWorld.txt / SuperMarioAllStars.txt
+* SuperMario64.txt
 * JakandDaxter.txt
-* Sonic.txt
-* SonicMania.txt
-* SonicCD.txt
+* Sonic.txt / SonicCD.txt / SonicMania.txt
 * Maelstrom.txt
 * SolarianII.txt
 * BricklesPlus.txt
@@ -79,7 +74,6 @@ sources: pcgamingwiki.com and myself
 * CannonFodder.txt
 * TurricanII.txt
 * JamesPond.txt
-* HouseoftheDead.txt
 * DynamiteCop.txt
 * ZombieRevenge.txt
 * PowerStone.txt
