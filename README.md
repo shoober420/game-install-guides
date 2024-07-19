@@ -97,11 +97,11 @@ sources: pcgamingwiki.com and myself
 * MetalSlug3.txt
 * GoldenAxe.txt
 * FinalFantasy.txt
-* FinalFantasy3.txt
+* FinalFantasyIII.txt
 * Mother.txt
 * SweetHome.txt
 * PokemonYellow.txt
-* FinalFantasy2.txt
+* FinalFantasyII.txt
 * SamuraiPizzaCats.txt
 * Castlevania3.txt
 * GanbareGoemon2.txt
@@ -112,4 +112,4 @@ sources: pcgamingwiki.com and myself
 * Crystalis.txt
 * Castlevania.txt
 * SeikenDensetsu3.txt
-* BreathofFire2.txt
+* BreathofFireII.txt
