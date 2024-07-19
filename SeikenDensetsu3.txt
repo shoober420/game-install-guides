@@ -20,6 +20,3 @@ ares (MSYS2)
 - click "Apply IPS Patch"
 - select SD3EN101.IPS
 - select Seiken Densetsu 3 jap smc rom
-- patch complete, launch mesen2
-- load patched rom and play
-
