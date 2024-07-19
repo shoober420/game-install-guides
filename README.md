@@ -1,104 +1,104 @@
 # game-install-guides
 sources: pcgamingwiki.com and myself
 
-* DeusEx.txt 
-* MaxPayne.txt
-* SlaveZero.txt
-* RedFaction.txt
-* Morrowind.txt
-* Chaser.txt
-* TheThing.txt
-* PODGold.txt
-* SOF.txt / SOF2.txt 
-* NFS3HP.txt / NFS4HS.txt / NFS5Porsche.txt
-* MOHAA.txt
-* DethKarz.txt
-* Undying.txt
-* WheelofTime.txt
-* HouseoftheDead.txt / HouseoftheDead2.txt
-* VirtuaCop.txt / VirtuaCop2.txt
-* Area51.txt
-* SpaceCadetPinball.txt
-* NightmareCreatures.txt
-* ClockTower.txt
-* ResidentEvil.txt / ResidentEvil2.txt / ResidentEvil3.txt / ResidentEvilRemake.txt
-* DeadtoRights.txt
-* EvilDeadHailtotheKing.txt
-* LandoftheDead.txt
-* Thief.txt / Thief2.txt
-* NoOneLivesForever.txt
-* Driver.txt
-* Unreal98.txt / UT99.txt / UT2004.txt
-* DarkStone.txt
-* DeltaForceLandWarrior.txt
-* FullTiltPinball.txt
-* RainbowSix.txt / RainbowSix3.txt
-* Hidden&Dangerous.txt 
-* Gorky17.txt
-* MortalKombat.txt / MortalKombat2.txt / MortalKombatTrilogy.txt
-* Hitman2.txt
-* Fallout.txt / Fallout2.txt
-* SystemShock2.txt
-* Rune.txt
-* CaveStory.txt
-* GoldenEye007.txt
-* RiseoftheTriad.txt
-* Wolfenstein3D.txt
-* ReturnToCastleWolfenstein.txt
-* STALKERSoC.txt / STALKERCS.txt / STALKERCoP.txt
-* VampireTMB.txt
-* WolfensteinET.txt
-* BlackMesa.txt
-* SiN.txt
-* Kingpin.txt
-* Anachronox.txt
-* Hexen2.txt
-* Heretic2.txt
-* ZeldaOcarinaofTime.txt / ZeldaMajorasMask.txt
-* PerfectDark.txt
-* ZeldaLinktothePast.txt
-* MarioKart64.txt
-* PaperMario64.txt
-* SuperMetroid.txt
-* SuperMarioWorld.txt / SuperMarioAllStars.txt
-* SuperMario64.txt
-* JakandDaxter.txt
-* Sonic.txt / SonicCD.txt / SonicMania.txt
-* Maelstrom.txt
-* SolarianII.txt
-* BricklesPlus.txt
-* Swoop.txt
-* Happyweed.txt
-* Glider.txt
-* Lemmings.txt
-* CannonFodder.txt
-* TurricanII.txt
-* JamesPond.txt
-* DynamiteCop.txt
-* ZombieRevenge.txt
-* PowerStone.txt
-* DieHardTrilogy.txt
-* RampageWorldTour.txt
 * AlteredBeast.txt
-* SuperStreetFighter2Turbo.txt
-* Sengoku3.txt
-* SamuraiShodown2.txt
-* LastBlade2.txt
-* TMNT:TurtlesinTime.txt
-* FinalFight.txt
-* MetalSlug3.txt
-* GoldenAxe.txt
-* Mother.txt
-* SweetHome.txt
-* PokemonYellow.txt
-* SamuraiPizzaCats.txt
-* GetsuFuumaDen.txt
-* HolyDiver.txt
-* Ufouria.txt
-* Crystalis.txt
-* Castlevania.txt / CastlevaniaIII.txt
-* SeikenDensetsu3.txt
+* Anachronox.txt
+* Area51.txt
+* BlackMesa.txt
 * BreathofFireII.txt
-* RomancingSaga.txt
-* GanbareGoemon.txt / GanbareGoemon2NES.txt / GanbareGoemon2SNES.txt / GanbareGoemon3.txt
+* BricklesPlus.txt
+* CannonFodder.txt
+* Castlevania.txt / CastlevaniaIII.txt
+* CaveStory.txt
+* Chaser.txt
+* CliveBarkersUndying.txt
+* ClockTower.txt
+* Crystalis.txt
+* DarkStone.txt
+* DeadtoRights.txt
+* DeltaForceLandWarrior.txt
+* DethKarz.txt
+* DeusEx.txt
+* DieHardTrilogy.txt
+* Driver.txt
+* DynamiteCop.txt
+* EvilDeadHailtotheKing.txt
+* Fallout.txt / Fallout2.txt
 * FinalFantasy.txt / FinalFantasyII.txt / FinalFantasyIII.txt / FinalFantasyIV.txt / FinalFantasyV.txt / FinalFantasyVI.txt
+* FinalFight.txt
+* FullTiltPinball.txt
+* GanbareGoemon.txt / GanbareGoemon2NES.txt / GanbareGoemon2SNES.txt / GanbareGoemon3.txt
+* GetsuFuumaDen.txt
+* Glider.txt
+* GoldenAxe.txt
+* GoldenEye007.txt
+* Gorky17.txt
+* Happyweed.txt
+* Heretic2.txt
+* Hexen2.txt
+* Hidden&Dangerous.txt
+* Hitman2.txt
+* HolyDiver.txt
+* HouseoftheDead.txt / HouseoftheDead2.txt
+* JakandDaxter.txt
+* JamesPond.txt
+* Kingpin.txt
+* LandoftheDead.txt
+* LastBlade2.txt
+* Lemmings.txt
+* Maelstrom.txt
+* MarioKart64.txt
+* MaxPayne.txt
+* MetalSlug3.txt
+* MOHAA.txt
+* Morrowind.txt
+* MortalKombat.txt / MortalKombat2.txt / MortalKombatTrilogy.txt
+* Mother.txt
+* NFS3HP.txt / NFS4HS.txt / NFS5Porsche.txt
+* NightmareCreatures.txt
+* NoOneLivesForever.txt
+* PaperMario64.txt
+* PerfectDark.txt
+* PODGold.txt
+* PokemonYellow.txt
+* PowerStone.txt
+* RainbowSix.txt / RainbowSix3.txt
+* RampageWorldTour.txt
+* RedFaction.txt
+* ResidentEvil.txt / ResidentEvil2.txt / ResidentEvil3.txt / ResidentEvilRemake.txt
+* ReturnToCastleWolfenstein.txt
+* RiseoftheTriad.txt
+* RomancingSaga.txt
+* Rune.txt
+* SamuraiPizzaCats.txt
+* SamuraiShodown2.txt
+* SeikenDensetsu3.txt
+* Sengoku3.txt
+* SiN.txt
+* SlaveZero.txt
+* SolarianII.txt
+* SOF.txt / SOF2.txt
+* Sonic.txt / SonicCD.txt / SonicMania.txt
+* SpaceCadetPinball.txt
+* STALKERSoC.txt / STALKERCS.txt / STALKERCoP.txt
+* SuperMario64.txt
+* SuperMarioWorld.txt / SuperMarioAllStars.txt
+* SuperMetroid.txt
+* SuperStreetFighter2Turbo.txt
+* SweetHome.txt
+* Swoop.txt
+* SystemShock2.txt
+* TMNT:TurtlesinTime.txt
+* Thief.txt / Thief2.txt
+* TheThing.txt
+* TurricanII.txt
+* Ufouria.txt
+* Unreal98.txt / UT99.txt / UT2004.txt
+* VampireTMB.txt
+* VirtuaCop.txt / VirtuaCop2.txt
+* WheelofTime.txt
+* Wolfenstein3D.txt
+* WolfensteinET.txt
+* ZeldaLinktothePast.txt
+* ZeldaOcarinaofTime.txt / ZeldaMajorasMask.txt
+* ZombieRevenge.txt
