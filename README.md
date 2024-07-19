@@ -113,3 +113,4 @@ sources: pcgamingwiki.com and myself
 * Castlevania.txt
 * SeikenDensetsu3.txt
 * BreathofFireII.txt
+* FinalFantasyV.txt
