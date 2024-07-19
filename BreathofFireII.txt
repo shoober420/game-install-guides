@@ -18,7 +18,5 @@ ares (MSYS2)
 - extract translation and lunar ips program
 - open Lunar IPS
 - click "Apply IPS Patch"
-- select 
+- select Breath of Fire 2 Retranslation (v1.2b).ips
 - select breath of fire ii usa sfc rom
-- patch complete, launch mesen2
-- load patched rom and play
