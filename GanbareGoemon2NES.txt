@@ -1,4 +1,4 @@
-Ganbare Goemon 2
+Ganbare Goemon 2 NES
 
 - download mesen2 (https://github.com/SourMesen/Mesen2)
 - download Ganbare Goemon 2 JAP rom
