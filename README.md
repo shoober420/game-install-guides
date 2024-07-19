@@ -36,7 +36,7 @@ sources: pcgamingwiki.com and myself
 * RainbowSix.txt / RainbowSix3.txt
 * Hidden&Dangerous.txt 
 * Gorky17.txt
-* MKTrilogy.txt
+* MortalKombat.txt / MortalKombat2.txt / MortalKombatTrilogy.txt
 * Hitman2.txt
 * Fallout.txt / Fallout2.txt
 * SystemShock2.txt
@@ -91,31 +91,20 @@ sources: pcgamingwiki.com and myself
 * SamuraiShodown2.txt
 * LastBlade2.txt
 * TMNT:TurtlesinTime.txt
-* MortalKombat.txt
-* MortalKombat2.txt
 * FinalFight.txt
 * MetalSlug3.txt
 * GoldenAxe.txt
-* FinalFantasy.txt
-* FinalFantasyIII.txt
 * Mother.txt
 * SweetHome.txt
 * PokemonYellow.txt
-* FinalFantasyII.txt
 * SamuraiPizzaCats.txt
-* Castlevania3.txt
-* GanbareGoemon2NES.txt
 * GetsuFuumaDen.txt
 * HolyDiver.txt
 * Ufouria.txt
-* GanbareGoemon.txt
 * Crystalis.txt
-* Castlevania.txt
+* Castlevania.txt / CastlevaniaIII.txt
 * SeikenDensetsu3.txt
 * BreathofFireII.txt
-* FinalFantasyV.txt
 * RomancingSaga.txt
-* GanbareGoemon3.txt
-* GanbareGoemon2SNES.txt
-* FinalFantasyIV.txt
-* FinalFantasyVI.txt
+* GanbareGoemon.txt / GanbareGoemon2NES.txt / GanbareGoemon2SNES.txt / GanbareGoemon3.txt
+* FinalFantasy.txt / FinalFantasyII.txt / FinalFantasyIII.txt / FinalFantasyIV.txt / FinalFantasyV.txt / FinalFantasyVI.txt
