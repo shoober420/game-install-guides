@@ -116,3 +116,5 @@ sources: pcgamingwiki.com and myself
 * FinalFantasyV.txt
 * RomancingSaga.txt
 * GanbareGoemon3.txt
+* FinalFantasyIV.txt
+* FinalFantasyVI.txt
