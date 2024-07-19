@@ -8,4 +8,4 @@ ares (MSYS2)
 - pacman -Syyu
 - open mingw64.exe
 - git clone --recursive https://github.com/ares-emulator/ares.git
-- make -j8
+- make -j8 librashader=false
