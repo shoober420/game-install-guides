@@ -104,7 +104,7 @@ sources: pcgamingwiki.com and myself
 * FinalFantasyII.txt
 * SamuraiPizzaCats.txt
 * Castlevania3.txt
-* GanbareGoemon2.txt
+* GanbareGoemon2NES.txt
 * GetsuFuumaDen.txt
 * HolyDiver.txt
 * Ufouria.txt
@@ -116,5 +116,6 @@ sources: pcgamingwiki.com and myself
 * FinalFantasyV.txt
 * RomancingSaga.txt
 * GanbareGoemon3.txt
+* GanbareGoemon2SNES.txt
 * FinalFantasyIV.txt
 * FinalFantasyVI.txt
