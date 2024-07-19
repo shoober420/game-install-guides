@@ -114,3 +114,4 @@ sources: pcgamingwiki.com and myself
 * SeikenDensetsu3.txt
 * BreathofFireII.txt
 * FinalFantasyV.txt
+* RomancingSaga.txt
