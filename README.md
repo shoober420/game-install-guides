@@ -47,6 +47,7 @@ sources: pcgamingwiki.com and myself
 * LastBlade2.txt
 * Lemmings.txt
 * Maelstrom.txt
+* MagicalTaruruuto-kun.txt
 * MarioKart64.txt
 * MaxPayne.txt
 * MetalSlug3.txt
