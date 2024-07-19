@@ -12,14 +12,14 @@ ares (MSYS2)
 - git clone --recursive https://github.com/ares-emulator/ares.git
 - make -j8 librashader=false
 
-- download Seiken Densetsu 3 rom
+- download Seiken Densetsu 3 jap smc rom
 - download fan translation (https://www.romhacking.net/translations/440/)
 - download Lunar IPS (https://www.romhacking.net/utilities/240/)
 - extract translation and lunar ips program
 - open Lunar IPS
 - click "Apply IPS Patch"
 - select SD3EN101.IPS
-- select Seiken Densetsu 3 jap rom
+- select Seiken Densetsu 3 jap smc rom
 - patch complete, launch mesen2
 - load patched rom and play
 
