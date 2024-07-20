@@ -1,0 +1,35 @@
+Yuu Yuu Hakusho: Makyo Touitsusen
+
+Bishoujo Senshi Sailor Moon
+
+- BlastEm Nightly Builds (https://www.retrodev.com/blastem/nightlies)
+
+WINDOWS ONLY
+- download chocolately (InstallChocolately.bat)
+- download mercurial (choco install hg)
+ + NOT RECOMMENDED, installs random Windows Updates
+
+BlastEm (requires Visual Studio)
+ - download source manually (https://www.retrodev.com/repos/blastem/archive/tip.zip)
+ - hg clone https://www.retrodev.com/repos/blastem (prefer to use mercurial in MSYS2 instead)
+
+- download - BlastEm Nightly Builds (https://www.retrodev.com/blastem/nightlies)
+
+WINDOWS ONLY
+- download chocolately (InstallChocolately.bat)
+- download mercurial (choco install hg)
+ + NOT RECOMMENDED, installs random Windows Updates
+
+BlastEm (requires Visual Studio)
+ - download source manually (https://www.retrodev.com/repos/blastem/archive/tip.zip)
+ - hg clone https://www.retrodev.com/repos/blastem (prefer to use mercurial in MSYS2 instead)
+
+- download Yuu Yuu Hakusho: Makyo Touitsusen jap rom
+- download fan transtion (https://www.romhacking.net/translations/1222/)
+- download Lunar IPS (https://www.romhacking.net/utilities/240/)
+- extract translation and lunar ips program
+- open Lunar IPS
+- click "Apply IPS Patch"
+- select Yu Yu Hakusho Jap-Eng Translation.ips
+- select Yuu Yuu Hakusho: Makyo Touitsusen jap rom
+- patch and launch BlastEm
