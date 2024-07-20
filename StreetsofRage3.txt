@@ -1,0 +1,22 @@
+Street of Rage 3 (Bare Knuckle III)
+
+- BlastEm Nightly Builds (https://www.retrodev.com/blastem/nightlies)
+
+WINDOWS ONLY
+- download chocolately (InstallChocolately.bat)
+- download mercurial (choco install hg)
+ + NOT RECOMMENDED, installs random Windows Updates
+
+BlastEm (requires Visual Studio)
+ - download source manually (https://www.retrodev.com/repos/blastem/archive/tip.zip)
+ - hg clone https://www.retrodev.com/repos/blastem (prefer to use mercurial in MSYS2 instead)
+
+- download Bare Knuckle III jap bin rom
+- download fan transtion (https://www.romhacking.net/translations/1375/)
+- download Lunar IPS (https://www.romhacking.net/utilities/240/)
+- extract translation and lunar ips program
+- open Lunar IPS
+- click "Apply IPS Patch"
+- select bk3_100.ips
+- select Bare Knuckle III jap bin rom
+- load patched rom and play
