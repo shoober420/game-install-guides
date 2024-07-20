@@ -1,7 +1,5 @@
 Yuu Yuu Hakusho: Makyo Touitsusen
 
-Bishoujo Senshi Sailor Moon
-
 - BlastEm Nightly Builds (https://www.retrodev.com/blastem/nightlies)
 
 WINDOWS ONLY
