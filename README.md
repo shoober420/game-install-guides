@@ -60,6 +60,7 @@ sources: pcgamingwiki.com and myself
 * NoOneLivesForever.txt
 * PaperMario64.txt
 * PerfectDark.txt
+* PhantasyStarII.txt
 * PhantasyStarIII.txt
 * PODGold.txt
 * PokemonYellow.txt
