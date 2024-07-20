@@ -9,7 +9,7 @@ sources: pcgamingwiki.com and myself
 * BreathofFireII.txt
 * BricklesPlus.txt
 * CannonFodder.txt
-* Castlevania.txt / CastlevaniaIII.txt
+* Castlevania.txt / CastlevaniaIII.txt / Castlevania:RondoofBlood.txt
 * CaveStory.txt
 * Chaser.txt
 * CliveBarkersUndying.txt
