@@ -4,6 +4,7 @@ sources: pcgamingwiki.com and myself
 * AlteredBeast.txt
 * Anachronox.txt
 * Area51.txt
+* BishoujoSenshiSailorMoon.txt
 * BlackMesa.txt
 * BreathofFireII.txt
 * BricklesPlus.txt
@@ -47,7 +48,6 @@ sources: pcgamingwiki.com and myself
 * LastBlade2.txt
 * Lemmings.txt
 * Maelstrom.txt
-* MagicalTaruruuto-kun.txt
 * MarioKart64.txt
 * MaxPayne.txt
 * MetalSlug3.txt
@@ -82,6 +82,7 @@ sources: pcgamingwiki.com and myself
 * Sonic.txt / SonicCD.txt / SonicMania.txt
 * SpaceCadetPinball.txt
 * STALKERSoC.txt / STALKERCS.txt / STALKERCoP.txt
+* StreetsofRage3.txt
 * SuperMario64.txt
 * SuperMarioWorld.txt / SuperMarioAllStars.txt
 * SuperMetroid.txt
@@ -100,6 +101,7 @@ sources: pcgamingwiki.com and myself
 * WheelofTime.txt
 * Wolfenstein3D.txt
 * WolfensteinET.txt
+* YuuYuuHakusho:MakyoTouitsusen.txt
 * ZeldaLinktothePast.txt
 * ZeldaOcarinaofTime.txt / ZeldaMajorasMask.txt
 * ZombieRevenge.txt
