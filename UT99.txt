@@ -1,5 +1,9 @@
 Unreal Tournament 1999: GOTY
  - download from steam
  - download oldunreal patch (https://github.com/OldUnreal/UnrealTournamentPatches)
-  + click on "<> Code" and "Download ZIP"
+  
+ !!! Development Snapshots are discontinued (https://github.com/OldUnreal/UnrealTournamentPatches/commit/a5d0d554f5ed9d788a019ae5138bd09d786489f7)
+ !!! Click on "<> Code" and "Download ZIP"
+
+ - Go to Releases tab
  - install patch files into "C:\Program Files (x86)\Steam\steamapps\common\Unreal Tournament"
