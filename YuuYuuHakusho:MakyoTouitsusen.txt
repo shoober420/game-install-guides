@@ -20,3 +20,8 @@ BlastEm
 - select Yu Yu Hakusho Jap-Eng Translation.ips
 - select Yuu Yuu Hakusho: Makyo Touitsusen jap rom
 - patch and launch BlastEm
+
+DONT PRESS THE FOLLOWING KEYS DURING GAMEPLAY:
+- C, V, B, N, and U
+- Triggers error: Failed to lock texture: LockRect(): INVALIDCALL
+- Caused by Debugger keybinds
