@@ -20,3 +20,8 @@ BlastEm
 - select bk3_100.ips
 - select Bare Knuckle III jap bin rom
 - load patched rom and play
+
+DONT PRESS THE FOLLOWING KEYS DURING GAMEPLAY:
+- C, V, B, N, and U
+- Triggers error: Failed to lock texture: LockRect(): INVALIDCALL
+- Caused by Debugger keybinds
