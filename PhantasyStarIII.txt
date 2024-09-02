@@ -20,3 +20,8 @@ BlastEm
 - select PS3T-v1.2.ips
 - select phantasy star iii usa europe rom
 - patch and launch BlastEm
+
+DONT PRESS THE FOLLOWING KEYS DURING GAMEPLAY:
+- C, V, B, N, and U
+- Triggers error: Failed to lock texture: LockRect(): INVALIDCALL
+- Caused by Debugger keybinds
