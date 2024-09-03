@@ -22,6 +22,7 @@ sources: pcgamingwiki.com and myself
 * DeusEx.txt
 * DieHardTrilogy.txt
 * Driver.txt
+* Dusk.txt
 * DynamiteCop.txt
 * EvilDeadHailtotheKing.txt
 * Fallout.txt / Fallout2.txt
