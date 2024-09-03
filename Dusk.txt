@@ -1,0 +1,5 @@
+You can force render selection by using the following launch options:
+
+-force-vulkan
+-force-glcorr
+-force-d3d (default)
