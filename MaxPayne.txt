@@ -7,8 +7,11 @@ Fix missing music, narration, and sounds
  - copy dsound.dll, dsoal-aldrv.dll, and alsoft.ini into the "C:\Program Files (x86)\Steam\steamapps\common\Max Payne" directory
  - run HKCUdsound.reg file
 
-AMD Zen2/Ryzen3 CPU JPEG ERRORS FIX
+INTEL / AMD Zen2/Ryzen3 CPU JPEG ERRORS FIX
  - go to "C:\Program Files (x86)\Steam\steamapps\common\Max Payne" directory and backup rlmfc.dll
  - open hex editor (HxD) and edit rlmfc.dll
  - go to offset 0x256ED (in common editors, row 256E0, column 0D)
  - replace 83 E0 0F to 90 90 90
+
+RTX Remix (optional)
+ - download (https://github.com/NVIDIAGameWorks/rtx-remix)
