@@ -17,4 +17,8 @@ RTX Remix (optional)
  - download rtx remix (https://github.com/NVIDIAGameWorks/rtx-remix)
  - download mod (https://www.moddb.com/mods/max-payne-rtx-on-demo-level)
  - Detail Textures: High causes white walls (Medium is ok)
- - Character Shadows: Medium/High causes black textures underneath everyone (this is normal, as RTX Remix already control the shadows)
+ - Character Shadows: Medium/High causes black textures underneath everyone (this is normal, as RTX Remix already renders the shadows)
+
+Developer Settings Menu > Game Setup > Step 1: Categorize Textures
+ - Select and checkmark all UI Textures
+ - Save Settings to create rtx.conf file
