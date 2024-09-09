@@ -6,3 +6,6 @@ Unreal Gold (1998)
 
 Unreal 97/98 Beta mod
  - https://www.moddb.com/mods/dots-1997-unreal-beta-conversion
+
+Best video render: XOpenGL, comes with 227 patch
+Best sound render: OpenAL, comes with 227 patch
