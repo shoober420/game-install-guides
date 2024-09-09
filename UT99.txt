@@ -7,3 +7,6 @@ Unreal Tournament 1999: GOTY
 
  - Go to Releases tab
  - install patch files into "C:\Program Files (x86)\Steam\steamapps\common\Unreal Tournament"
+
+Best Video render: UT99VulkanDrv
+Best Audio render: OpenAL
