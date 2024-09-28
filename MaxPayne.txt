@@ -13,6 +13,8 @@ INTEL / AMD Zen2/Ryzen3 CPU JPEG ERRORS FIX
  - go to offset 0x256ED (in common editors, row 256E0, column 0D)
  - replace 83 E0 0F to 90 90 90
 
+ + https://drive.google.com/file/d/1nPUgYVdj03J1jI0CONMrPit0snFN9P4_/view
+
 RTX Remix (optional)
  - download rtx remix (https://github.com/NVIDIAGameWorks/rtx-remix)
  - download mod (https://www.moddb.com/mods/max-payne-rtx-on-demo-level)
