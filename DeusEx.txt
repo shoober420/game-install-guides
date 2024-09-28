@@ -16,6 +16,8 @@ Deus Ex: GOTY
 - Echelon RTX render
  + https://github.com/onnoj/DeusExEchelonRenderer
  + install Echelon render into "C:\Program Files (x86)\Steam\steamapps\common\Deus Ex\System" directory
+ + RTX Remix (needed with Echelon render) (https://github.com/NVIDIAGameWorks/RTX-Remix)
+ + install RTX Remix into "C:\Program Files (x86)\Steam\steamapps\common\Deus Ex\System" directory
 
 Open Console
  - Press T
