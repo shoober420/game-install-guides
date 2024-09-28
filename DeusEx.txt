@@ -13,6 +13,10 @@ Deus Ex: GOTY
  - download OpenAL driver (www.oldunreal.com/betatest/OpenAL_v2.4.8_DeusEx.7z)
   + install OpenAL driver into "C:\Program Files (x86)\Steam\steamapps\common\Deus Ex\System" directory
 
+- Echelon RTX render
+ + https://github.com/onnoj/DeusExEchelonRenderer
+ + install Echelon render into "C:\Program Files (x86)\Steam\steamapps\common\Deus Ex\System" directory
+
 Open Console
  - Press T
  - Press Shift+Tilde (~)
