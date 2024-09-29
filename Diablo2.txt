@@ -1,4 +1,5 @@
 Diablo II and Lord of Destruction expansion pack
  - download (us.battle.net/support/en/article/13867)
  - Install each downloader, and put in the key
+ - login to battle.net in game to update to latest patch
 
