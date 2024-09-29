@@ -3,3 +3,9 @@ Diablo II and Lord of Destruction expansion pack
  - Install each downloader, and put in the key
  - login to battle.net in game to update to latest patch
 
+D2DX
+ - download (https://github.com/bolrog/d2dx)
+ - extract to Diablo II.exe directory
+ - copy and rename d2dx-defaults.xfg to d2dx.cfg
+ - nocompatmodefix=true
+
