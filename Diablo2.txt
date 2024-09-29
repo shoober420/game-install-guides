@@ -3,6 +3,11 @@ Diablo II and Lord of Destruction expansion pack
  - Install each downloader, and put in the key
  - login to battle.net in game to update to latest patch
 
+D2GL (preferred)
+ - download (https://github.com/bayaraa/d2gl)
+ - extract to Diablo II.exe.directory
+ - place d2gl.ini into Diablo II.exe directory
+
 D2DX
  - download (https://github.com/bolrog/d2dx)
  - extract to Diablo II.exe directory
