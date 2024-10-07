@@ -9,7 +9,7 @@ D2GL (preferred)
  - make Diablo II shortcut with "-3dfx" launch option
   + use nearest texture filtering for sharpest pixels
 
-D2DX
+D2DX (obsolete)
  - download (https://github.com/bolrog/d2dx)
  - extract to Diablo II.exe directory
  - make Diablo II shortcut with "-3dfx" launch option
