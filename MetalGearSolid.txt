@@ -15,6 +15,8 @@ Video Options:
  - Display Skip: 0
 
 Duckstation (MODERN ENHANCEMENTS)
+ - download duckstation preview build
+  + https://github.com/stenzek/duckstation/releases
  - download rom (internet archives)
  - download bios
   + PSXONPSP660.BIN IMPROVED BIOS (from psp)
