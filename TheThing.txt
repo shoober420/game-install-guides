@@ -7,3 +7,5 @@ The Thing
  
  Download d3d8to9 (https://github.com/crosire/d3d8to9)
   - put d3d8.dll in "C:\Program Files (x86)\Computer Artworks\The Thing\bin"
+
+The Thing: Remastered is also a option
