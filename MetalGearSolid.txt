@@ -1,0 +1,68 @@
+Metal Gear Solid
+
+BEST TO PLAY ON ORIGINAL HARDWARE WITH CRT
+
+Xebra (AUTHENTIC AND FAITHFUL)
+ - download rom
+
+Video Options:
+ - Use OpenGL: Ticked
+ - Draw with OpenGL: Unticked (removes dithering if Ticked, which is important for PS1 games) (causes video glitches when Ticked for specific PS1 hardware effects like MGS blur)
+ - Stretch with GDI: Unticked (keeps original aspect ratio)
+ - Nearest: Ticked
+ - Progressive: Ticked
+ - Drawing Skip: 0
+ - Display Skip: 0
+
+Duckstation (MODERN ENHANCEMENTS)
+ - download rom
+ - download bios
+  + PSXONPSP660.BIN IMPROVED BIOS (from psp)
+  + SCPH-101 BEST ORIGINAL BIOS (slim ps1)
+ - choose bios directory (%USERPROFILE%\Downloads\duckstation-windows-x64-release)
+ - choose game directory (%USERPROFILE%\Downloads)
+
+- Rendering:
+  + Renderer: Vulkan (keeps PS1 hardware effects like blur for MGS)
+  + Internal Resolution: 9x Native (for 4k)
+  + Texture Filtering: Nearest-Neighbor
+  + Sprite Texture Filtering: Nearest-Neighbor 
+  + Dithering: Unscaled
+   ++ True Color Rendering disables dithering, effectively removing the PS1's characteristic visual pattern.
+   ++ Scaled Dithering scales the dithering pattern to the current resolution, reducing its prominence.
+   ++ Unscaled dithering renders the dithering as it appears on the original PS1, which can be sharp and noticeable on modern displays.
+  + Aspect Ratio: 4:3
+  + Crop: None
+  + Scaling: Nearest-Neighbor
+  + PGXP Geometry Correction: Unticked
+  + Widescreen Rendering: Unticked
+
+Interface:
+ + Theme: Classic Windows
+ + Update Channel: preview
+
+Console:
+ + Execution Mode: Interpreter (Slowest)
+
+Graphics:
+ + Renderer: Vulkan
+ + Adapter: :PRIMARY GPU:
+  - Rendering tab:
+   + Down-Sampling: Disabled
+   + Deinterlacing: Progressive (Optimal)
+  - Advanced tab:
+   + Exclusive Fullscreen: Fullscreen? (Borderless Fullscreen) : Allowed
+   + Multi-Sampling: Disabled
+   + Line Detection: Disabled
+   + Wireframe Mode: Disabled
+   + Threaded Rendering: Ticked
+   + Max Queued Frames: 0
+   + Scaled Interlacing: Ticked
+
+Audio:
+ + Backend: Cubeb
+ + Driver: wasapi
+ + Output Device: :PRIMARY SPU:
+ + Stretch Mode: Off (Noisy)
+
+
