@@ -3,7 +3,7 @@ Metal Gear Solid
 BEST TO PLAY ON ORIGINAL HARDWARE WITH CRT
 
 Xebra (AUTHENTIC AND FAITHFUL)
- - download rom
+ - download rom (internet archives)
 
 Video Options:
  - Use OpenGL: Ticked
@@ -15,7 +15,7 @@ Video Options:
  - Display Skip: 0
 
 Duckstation (MODERN ENHANCEMENTS)
- - download rom
+ - download rom (internet archives)
  - download bios
   + PSXONPSP660.BIN IMPROVED BIOS (from psp)
   + SCPH-101 BEST ORIGINAL BIOS (slim ps1)
