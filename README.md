@@ -26,7 +26,7 @@ sources: pcgamingwiki.com and myself
 * DynamiteCop.txt
 * EvilDeadHailtotheKing.txt
 * Fallout.txt / Fallout2.txt
-* FinalFantasy.txt / FinalFantasyII.txt / FinalFantasyIII.txt / FinalFantasyIV.txt / FinalFantasyV.txt / FinalFantasyVI.txt
+* FinalFantasy.txt / FinalFantasyII.txt / FinalFantasyIII.txt / FinalFantasyIV.txt / FinalFantasyV.txt / FinalFantasyVI.txt / FinalFantasyVII.txt
 * FinalFight.txt
 * FullTiltPinball.txt
 * GanbareGoemon.txt / GanbareGoemon2NES.txt / GanbareGoemon2SNES.txt / GanbareGoemon3.txt
