@@ -7,10 +7,10 @@ Xebra (AUTHENTIC AND FAITHFUL)
 
 Video Options:
  - Use OpenGL: Ticked
- - Draw with OpenGL: Unticked (removes dithering if Ticked, which is important for PS1 games) (causes video glitches when Ticked for specific PS1 hardware effects like MGS blur)
- - Stretch with GDI: Unticked (keeps original aspect ratio)
- - Nearest: Ticked
- - Progressive: Ticked
+ - Draw with OpenGL: Untick (removes dithering if Ticked, which is important for PS1 games) (causes video glitches when Ticked for specific PS1 hardware effects like MGS blur)
+ - Stretch with GDI: Untick (keeps original aspect ratio)
+ - Nearest: Tick
+ - Progressive: Tick
  - Drawing Skip: 0
  - Display Skip: 0
 
@@ -36,8 +36,10 @@ Duckstation (MODERN ENHANCEMENTS)
   + Aspect Ratio: 4:3
   + Crop: None
   + Scaling: Nearest-Neighbor
-  + PGXP Geometry Correction: Unticked
-  + Widescreen Rendering: Unticked
+  + PGXP Geometry Correction: Untick
+  + Force 4:3 For FMVs: Tick
+  + FMV Chroma Smoothing: Untick
+  + Widescreen Rendering: Untick
 
 Interface:
  + Theme: Classic Windows
@@ -57,9 +59,9 @@ Graphics:
    + Multi-Sampling: Disabled
    + Line Detection: Disabled
    + Wireframe Mode: Disabled
-   + Threaded Rendering: Ticked
+   + Threaded Rendering: Tick
    + Max Queued Frames: 0
-   + Scaled Interlacing: Ticked
+   + Scaled Interlacing: Tick
 
 Audio:
  + Backend: Cubeb
