@@ -79,6 +79,7 @@ sources: pcgamingwiki.com and myself
 * SamuraiShodown2.txt
 * SeikenDensetsu3.txt
 * Sengoku3.txt
+* SilentHill.txt
 * SiN.txt
 * SlaveZero.txt
 * SolarianII.txt
