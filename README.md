@@ -51,6 +51,7 @@ sources: pcgamingwiki.com and myself
 * Maelstrom.txt
 * MarioKart64.txt
 * MaxPayne.txt
+* MetalGearSolid.txt
 * MetalSlug3.txt
 * MOHAA.txt
 * Morrowind.txt
