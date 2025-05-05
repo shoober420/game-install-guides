@@ -4,7 +4,7 @@ BEST TO PLAY ON ORIGINAL HARDWARE WITH CRT
 
 Fan translations are not needed
 
-Xebra (AUTHENTIC AND FAITHFUL)
+Xebra (MOST ACCURATE, AUTHENTIC AND FAITHFUL)
  - download rom (internet archives)
 
 Video Options:
@@ -15,6 +15,35 @@ Video Options:
  - Progressive: Tick
  - Drawing Skip: 0
  - Display Skip: 0
+
+
+
+Mednafen (Beetle PSX) (MORE ACCURATE)
+ - download nightly builds (https://buildbot.libretro.com/nightly/windows/x86_64/)
+  + download 20XX-XX-XX_RetroArch.7z and RetroArch_cores.7z
+ - put "cores" folder into main "RetroArch-Win64" directory
+
+Main Menu:
+ - Load Core: Sony - Playstation (Beetle PSX)
+
+Settings > Video > Output:
+ - Video: vulkan
+
+Synchronization:
+ - Vertical Sync (VSync): OFF
+ - Waitable Swapchains: ON
+ - Max Swapchain Images: 2
+
+Audio > Output:
+ - Audio: ON
+ - Audio: wasapi
+ - WASAPI Exclusive Mode: ON
+Microphone:
+ - Microphone: OFF
+Latency:
+- Max Swapchain Images: 2
+
+
 
 Duckstation (MODERN ENHANCEMENTS)
  - download duckstation preview build
