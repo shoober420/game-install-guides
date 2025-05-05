@@ -14,6 +14,35 @@ Video Options:
  - Drawing Skip: 0
  - Display Skip: 0
 
+
+
+Mednafen (Beetle PSX) (MORE ACCURATE)
+ - download nightly builds (https://buildbot.libretro.com/nightly/windows/x86_64/)
+  + download 20XX-XX-XX_RetroArch.7z and RetroArch_cores.7z
+ - put "cores" folder into main "RetroArch-Win64" directory
+
+Main Menu:
+ - Load Core: Sony - Playstation (Beetle PSX)
+
+Settings > Video > Output:
+ - Video: vulkan
+
+Synchronization:
+ - Vertical Sync (VSync): OFF
+ - Waitable Swapchains: ON
+ - Max Swapchain Images: 2
+
+Audio > Output:
+ - Audio: ON
+ - Audio: wasapi
+ - WASAPI Exclusive Mode: ON
+Microphone:
+ - Microphone: OFF
+Latency:
+- Max Swapchain Images: 2
+
+
+
 Duckstation (MODERN ENHANCEMENTS)
  - download duckstation preview build
   + https://github.com/stenzek/duckstation/releases
