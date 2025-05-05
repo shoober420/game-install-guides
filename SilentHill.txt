@@ -20,9 +20,17 @@ Mednafen (Beetle PSX) (MORE ACCURATE)
  - download nightly builds (https://buildbot.libretro.com/nightly/windows/x86_64/)
   + download 20XX-XX-XX_RetroArch.7z and RetroArch_cores.7z
  - put "cores" folder into main "RetroArch-Win64" directory
+- download bios
+  + PSXONPSP660.BIN IMPROVED BIOS (from psp)
+  + SCPH5501.bin BEST ORIGINAL BIOS (US original ps1)
+  + SCPH5500.bin BEST ORIGINAL BIOS (JP original ps1) (12-24-96)
+  + SCPH5502.bin BEST ORIGINAL BIOS (EU original ps1)
+  + SCPH-101 BEST ORIGINAL BIOS (slim ps1)
+- put BIOS in "RetroArch-Win64\system" directory
 
 Main Menu:
  - Load Core: Sony - Playstation (Beetle PSX)
+  + press / and type in "psx" to find faster
 
 Settings > Video > Output:
  - Video: vulkan
