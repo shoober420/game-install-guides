@@ -57,7 +57,7 @@ sources: pcgamingwiki.com and myself
 * Morrowind.txt
 * MortalKombat.txt / MortalKombat2.txt / MortalKombatTrilogy.txt
 * Mother.txt
-* NFS3HP.txt / NFS4HS.txt / NFS5Porsche.txt
+* NFS3HP.txt / NFS4HS.txt / NFS5Porsche.txt / NFSHP2.txt
 * NightmareCreatures.txt
 * NoOneLivesForever.txt
 * PaperMario64.txt
