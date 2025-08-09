@@ -7,4 +7,9 @@ Soldier of Fortune
  - rename sofplus-fonts.pak to sofplus-fonts.pak.bak in "base" directory (disable new fonts)
 
 Dont use QeffectsGL, not vanilla (https://github.com/crystice-softworks/QeffectsGL)
- - remove QeffectGL.ini and QeffectGL.dll from SoFplus patch in SoF directory
+ - remove QeffectsGL.ini and QeffectsGL.dll from SoFplus patch in SoF directory
+ - remove Qeffects-SoF1.git-bundle and Qeffects-SoF1.txt from "extra" directory
+
+SET CL_DISPLAYREFRESH TO MONITOR REFRESH RATE OR GAME WILL BE FORCED WINDOWED
+
+SET S_MIXAHEAD TO HIGHER VALUE IF AUDIO CRACKLES (DEFAULT 0.1)
