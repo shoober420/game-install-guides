@@ -1,6 +1,6 @@
 Soldier of Fortune
  - download sof via gog galaxy
- - download sofplus patch (http://sof1.megalag.org/sofplus/download/release/sofplus-client-patch-20140531-gog-kb4571756.zip)
+ - download sofplus patch (https://sof1.megalag.org/sofplus/download/release/sofplus-client-patch-20140531-gog-kb4571756.zip)
  - extract sofplus patch into sof directory (C:\Program Files (x86)\GOG Galaxy\Games\Soldier of Fortune)
  - execute sofplus-client-patch.cmd to generate sofplus-client-20140531-kb4571756.zip
  - extract sofplus-client-20140531-kb4571756.zip into "C:\Program Files (x86)\GOG Galaxy\Games\Soldier of Fortune" directory
