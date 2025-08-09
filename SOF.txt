@@ -4,7 +4,7 @@ Soldier of Fortune
  - extract sofplus patch into sof directory (C:\Program Files (x86)\GOG Galaxy\Games\Soldier of Fortune)
  - execute sofplus-client-patch.cmd to generate sofplus-client-20140531-kb4571756.zip
  - extract sofplus-client-20140531-kb4571756.zip into "C:\Program Files (x86)\GOG Galaxy\Games\Soldier of Fortune" directory
- - rename sofplus-fonts.pak to sofplus-fonts.pak.bak (disable new fonts)
+ - rename sofplus-fonts.pak to sofplus-fonts.pak.bak in "base" directory (disable new fonts)
 
 Dont use QeffectsGL, not vanilla (https://github.com/crystice-softworks/QeffectsGL)
  - remove QeffectGL.ini and QeffectGL.dll from SoFplus patch in SoF directory
