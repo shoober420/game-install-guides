@@ -2,7 +2,7 @@ The Wheel of Time
  - download game from gog or gog galaxy
  - remove old nGlide install from "C:\Program Files (x86)\GOG Galaxy\Games\The Wheel of Time\System" (glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt)
  - download nGLide (https://www.zeus-software.com/downloads/nglide)
- - go to "C:\Windows\SysWOW64" and put glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt in "C:\Program Files (x86)\GOG Galaxy\Games\The Wheel of Time\System"
+ - go to "C:\Windows\SysWOW64" and put glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt, and nGlideUELA.txt in "C:\Program Files (x86)\GOG Galaxy\Games\The Wheel of Time\System"
  - run nglide_config.exe and setup
 
 nGlide:
