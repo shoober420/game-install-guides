@@ -11,3 +11,5 @@ Vertical Sync: True (fixes water and animations moving too fast)
 
 
 As with other Unreal Engine 99 games, its supposed to run using Glide, and not Direct3D
+
+THERES NO CROUCH / DUCK IN WHEEL OF TIME 0_o
