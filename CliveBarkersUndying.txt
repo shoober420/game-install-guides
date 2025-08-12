@@ -11,4 +11,6 @@ Despite Glide API only supporting 32bit color on the Voodoo 5, nGlide will still
 
 Does NOT support D3D on Windows 11, must use nGlide
 
+PHYSICS BUGS OCCUR AT 60+ FPS (WATER RIPPLE EFFECT) VSYNC+60Hz OR FRAME RATE LIMITER REQUIRED
+
 USE VULKAN BETA VIDEO DRIVERS FOR NGLIDE
