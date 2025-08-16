@@ -2,10 +2,16 @@ Clive Barker's Undying
  - download game from gog or gog galaxy
  - remove old nGlide install from "C:\Program Files (x86)\GOG Galaxy\Games\Clive Barkers Undying\System" (glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt)
 
-Vulkan
- - download 
+DONT INSTALL RENEWAL MOD, NOT VANILLA
 
-dgVoodoo2
+VULKAN
+ - download (https://www.moddb.com/mods/undying-renewal1)
+ - extract Vulkan* files from Renewal.zip/System to main system directory
+ - use SystemVULKAN.ini
+
+
+
+dgVoodoo2 (GLIDE)
  - download (https://github.com/dege-diosg/dgVoodoo2)
  - extract zip
  - copy dgVoodooCpl.exe (x86) from main zip directory to game exe directory
