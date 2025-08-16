@@ -56,6 +56,7 @@ Refresh Rate: 60Hz (fixes water and animations moving too fast)
 Vertical Sync: True (fixes water and animations moving too fast)
 
 
+VSYNC REQUIRED TO FIX STROBE / RIPPLE FLASHING LIGHTS (LIGHTNING)
 
 DELETE GOG D3D wrapper (dxcfg.exe and dxcfg.ini) FROM SYSTEM DIRECTORY
 
