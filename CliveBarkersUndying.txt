@@ -2,6 +2,47 @@ Clive Barker's Undying
  - download game from gog or gog galaxy
  - remove old nGlide install from "C:\Program Files (x86)\GOG Galaxy\Games\Clive Barkers Undying\System" (glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt)
 
+Vulkan
+ - download 
+
+dgVoodoo2
+ - download (https://github.com/dege-diosg/dgVoodoo2)
+ - extract zip
+ - copy dgVoodooCpl.exe (x86) from main zip directory to game exe directory
+ - copy 3Dfx/x86/Glide*.dlls to game exe directory
+ - launch dgVoodooCpl.exe
+
+General:
+----------
+ - Config folder / Running instance: Add (choose game exe directory)
+ - Output API: Direct3D 12 (feature level 12.0)
+ - Adapter(s) to use / enable: :DEDICATED GPU:
+
+Glide:
+--------
+ - 3Dfx card: Other greater (free to configure)
+ - Onboard RAM: 128 MB
+ - Memory size / TMU: 65536 kB
+ - Number of TMUs: 3
+ - Filtering: App driven
+ - Resolution: Unforced
+ - Antialiasing (MSAA): 8x
+ - Enable Glide Gamma Ramp: Checkmarked
+ - 3Dfx watermark: Checkmarked
+ - Force VSync: Unticked
+ - 3Dfx Splash Screen: Checkmarked
+
+DirectX:
+-----------
+ - Videocard: dgVoodoo Virtual 3D Accelerated Card
+ - VRAM: 4096 MB
+ - Filtering: App driven
+ - Mipmapping: App driven
+ - Resolution: Unforced
+ - Antialiasing (MSAA): 8x
+ - Force VSync: Unticked
+ - dgVoodoo Watermark: Checkmarked
+
 
 nGlide (not recommended)
  - download nGLide (https://www.zeus-software.com/downloads/nglide)
