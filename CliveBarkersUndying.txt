@@ -6,7 +6,7 @@ DONT INSTALL RENEWAL MOD, NOT VANILLA
 
 VULKAN
  - download (https://www.moddb.com/mods/undying-renewal1)
- - extract Vulkan* files from Renewal.zip/System to main system directory
+ - extract Vulkan* files from Renewal.zip/System to main System directory
  - use SystemVULKAN.ini
 
 
