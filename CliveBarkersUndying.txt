@@ -5,6 +5,8 @@ Clive Barker's Undying
 DONT INSTALL RENEWAL MOD, NOT VANILLA
  - REQUIRES .NET DESKTOP RUNTIME
 
+VSYNC+60Hz RECOMMENDED TO FIX BUGS
+
 VULKAN
  - download (https://www.moddb.com/mods/undying-renewal1)
  - extract Vulkan* files from Renewal.zip/System to main System directory
