@@ -1,14 +1,63 @@
 The Wheel of Time
  - download game from gog or gog galaxy
  - remove old nGlide install from "C:\Program Files (x86)\GOG Galaxy\Games\The Wheel of Time\System" (glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt, and nGlideUELA.txt)
+
+dgVoodoo2
+ - download (https://github.com/dege-diosg/dgVoodoo2)
+ - extract zip
+ - copy dgVoodooCpl.exe (x86) from main zip directory to game exe directory
+ - copy 3Dfx/x86/Glide*.dlls to game exe directory
+ - launch dgVoodooCpl.exe
+
+General:
+----------
+ - Config folder / Running instance: Add (choose game exe directory)
+ - Output API: Direct3D 12 (feature level 12.0)
+ - Adapter(s) to use / enable: :DEDICATED GPU:
+
+Glide:
+--------
+ - 3Dfx card: Other greater (free to configure)
+ - Onboard RAM: 128 MB
+ - Memory size / TMU: 65536 kB
+ - Number of TMUs: 3
+ - Filtering: App driven
+ - Resolution: Unforced
+ - Antialiasing (MSAA): 8x
+ - Enable Glide Gamma Ramp: Checkmarked
+ - 3Dfx watermark: Checkmarked
+ - Force VSync: Unticked
+ - 3Dfx Splash Screen: Checkmarked
+
+DirectX:
+-----------
+ - Videocard: dgVoodoo Virtual 3D Accelerated Card
+ - VRAM: 4096 MB
+ - Filtering: App driven
+ - Mipmapping: App driven
+ - Resolution: Unforced
+ - Antialiasing (MSAA): 8x
+ - Force VSync: Unticked
+ - dgVoodoo Watermark: Checkmarked
+
+
+
+nGLide:
+ + ONLY USE IF DGVOODOO2 IS UNAVAILABLE
  - download nGLide (https://www.zeus-software.com/downloads/nglide)
  - go to "C:\Windows\SysWOW64" and put glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, and nglide_readme.txt in "C:\Program Files (x86)\GOG Galaxy\Games\The Wheel of Time\System"
  - run nglide_config.exe and setup
 
 nGlide:
+ + ONLY USE IF NO FRAME RATE LIMITER IS AVAILABLE
 Refresh Rate: 60Hz (fixes water and animations moving too fast)
 Vertical Sync: True (fixes water and animations moving too fast)
 
+
+
+DELETE GOG D3D wrapper (dxcfg.exe and dxcfg.ini) FROM SYSTEM DIRECTORY
+
+SET FullscreenViewportX AND FullscreenViewportY under [WinDrv.WindowsClient] in WoT.ini FILE
 
 As with other Unreal Engine 99 games, its supposed to run using Glide, and not Direct3D
 
