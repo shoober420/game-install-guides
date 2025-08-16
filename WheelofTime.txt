@@ -2,6 +2,8 @@ The Wheel of Time
  - download game from gog or gog galaxy
  - remove old nGlide install from "C:\Program Files (x86)\GOG Galaxy\Games\The Wheel of Time\System" (glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt, and nGlideUELA.txt)
 
+VSYNC+60Hz RECOMMENDED TO FIX BUGS
+
 dgVoodoo2
  - download (https://github.com/dege-diosg/dgVoodoo2)
  - extract zip
