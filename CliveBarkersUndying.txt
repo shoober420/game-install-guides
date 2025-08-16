@@ -79,6 +79,8 @@ As with other Unreal Engine 99 games, its supposed to run using Glide API and no
 
 Despite Glide API only supporting 32bit color on the Voodoo 5, nGlide will still render the game in 32bit color, even though you cant select 32bit color in video options
 
+SET FullscreenViewportX AND FullscreenViewportY under [WinDrv.WindowsClient] in WoT.ini FILE
+
 Does NOT support D3D on Windows 11, must use nGlide
 
 USE VULKAN BETA VIDEO DRIVERS FOR NGLIDE
