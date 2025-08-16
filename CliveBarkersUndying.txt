@@ -11,6 +11,8 @@ VULKAN
  - download (https://www.moddb.com/mods/undying-renewal1)
  - extract Vulkan* files from Renewal.zip/System to main System directory
  - use SystemVULKAN.ini
+  + GammaMode: "XOpenGL" looks better than "D3D9"
+  + AntialiasMode: MAX SUPPORTED IS MSAA_4x (MSAA_8x DOESNT WORK)
 
 
 
