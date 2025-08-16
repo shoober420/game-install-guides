@@ -65,6 +65,14 @@ nGlide (not recommended)
  - Search > Find > Hex-values > 0AD7A33B (Line: 0011E730)
  - Change values to "00000000"
 
+
+
+VSYNC REQUIRED TO FIX STROBE / RIPPLE FLASHING LIGHTS (LIGHTNING)
+
+60+ BREAKS ANIMATIONS AND CUTSCENES
+ - VULKAN: FPSMax=60 RECOMMENDED
+ - FRAME RATE LIMITER OR 60Hz+VSYNC ALSO WORKS
+
 As with other Unreal Engine 99 games, its supposed to run using Glide API and not Direct3D
 
 Despite Glide API only supporting 32bit color on the Voodoo 5, nGlide will still render the game in 32bit color, even though you cant select 32bit color in video options
