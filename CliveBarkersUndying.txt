@@ -3,6 +3,7 @@ Clive Barker's Undying
  - remove old nGlide install from "C:\Program Files (x86)\GOG Galaxy\Games\Clive Barkers Undying\System" (glide.dll, glide2x.gll, glide3x.dll, 3DfxSpl.dll, 3DfxSpl2.dll, 3DfxSpl3.dll, nglide_config.exe, nglide_readme.txt)
 
 DONT INSTALL RENEWAL MOD, NOT VANILLA
+ - REQUIRES .NET DESKTOP RUNTIME
 
 VULKAN
  - download (https://www.moddb.com/mods/undying-renewal1)
