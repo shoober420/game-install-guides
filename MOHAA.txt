@@ -7,9 +7,9 @@ Medal of Honor: Allied Assault Warchest
 
 Default FOV is 80
 
-r_sse 1 crashes game at loading screen
+r_sse 1 MIGHT crash game at loading screen
 
-r_maxpolys tweaked too high can crash the game
+r_maxpolys tweaked too high MIGHT crash the game
 
 TWEAK r_customwidth AND r_customheight BEFORE LAUNCH
 
