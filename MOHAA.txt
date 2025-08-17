@@ -4,3 +4,7 @@ Medal of Honor: Allied Assault Warchest
  - extract into "Medal of Honor - Allied Assault War Chest\main" directory
 
 - download openmohaa (https://github.com/openmoh/openmohaa)
+
+https://www.x-null.net/forums/threads/3675-MOHAA-Config-files-explained
+
+https://www.scribd.com/document/282473272/Mohaa-Guide-Black-Edition
