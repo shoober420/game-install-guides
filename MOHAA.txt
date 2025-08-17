@@ -11,6 +11,8 @@ r_sse 1 MIGHT crash game at loading screen
 
 r_maxpolys tweaked too high MIGHT crash the game
 
+r_ext_compress_textures 1 ENABLES HQ TEXTURES
+
 TWEAK r_customwidth AND r_customheight BEFORE LAUNCH
 
 OpenMoHAA config dir is "%USERPROFILE%/AppData/Roaming/openmohaa"
