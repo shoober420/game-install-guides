@@ -7,6 +7,8 @@ Medal of Honor: Allied Assault Warchest
 
 Default FOV is 80
 
+TWEAK r_customwidth AND r_customheight BEFORE LAUNCH
+
 OpenMoHAA config dir is "%USERPROFILE%/AppData/Roaming/openmohaa"
 
 https://www.x-null.net/forums/threads/3675-MOHAA-Config-files-explained
