@@ -40,6 +40,8 @@ S.T.A.L.K.E.R.: Shadow of Chernobyl
 // SSGI CANT BE USED WITH SSAO, SSGI IS MORE HQ THAN SSAO
 // r2_gi and mtb_ssgi are two different methods, SSGI is better than traditional GI
 // r3_msaa (4x) appears to have been removed from the enhanced versions in favor of mtb_aa_method
+// r3_msaa: st_opt_off / 2x / 4x
+// r3_msaa_alphatest: st_opt_off / st_opt_atest_msaa_dx10_0 / st_opt_atest_msaa_dx10_1
 // mtb_ssr_compute_classify enabled in console or config file will crash the game at the loading screen before going in-game
 
 // TWEAK vid_mode TO DESIRED RESOLUTION BEFORE LAUNCH
