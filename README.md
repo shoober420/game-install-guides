@@ -4,6 +4,7 @@ sources: pcgamingwiki.com and myself
 * AlteredBeast.txt
 * Anachronox.txt
 * Area51.txt
+* Bioshock.txt
 * BishoujoSenshiSailorMoon.txt
 * BlackMesa.txt
 * BreathofFireII.txt
