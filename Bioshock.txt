@@ -3,3 +3,6 @@ Bioshock (2007) is better than Bioshock Remastered
 Force Global Lighting = On lowers graphics quality, keep Off for HQ lighting
 
 config file: %APPDATA%\Bioshock
+
+DX9 = D3DDrv.D3DRenderDevice
+DX10 = D3DDrv10.D3DRenderDevice10
