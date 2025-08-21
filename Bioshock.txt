@@ -1,5 +1,9 @@
 Bioshock (2007) is better than Bioshock Remastered
 
+VSYNC required to fix strobing and tearing flashing lights
+
+60FPS required to fix cutscene camera angles
+
 Force Global Lighting = On lowers graphics quality, keep Off for HQ lighting
 
 Download OpenAL Soft nightly
