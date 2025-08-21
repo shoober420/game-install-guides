@@ -16,6 +16,8 @@ config file: %APPDATA%\Bioshock\bioshock.ini
 
 Tweak HavokNumThreads= to amount of threads CPU has
 
+ReduceMouseLag and DoubleBufferMouseLag are BAD and should be set to False
+
 DX9 / RenderDevice=D3DDrv.D3DRenderDevice
 DX10 / RenderDevice=D3DDrv10.D3DRenderDevice10
 
