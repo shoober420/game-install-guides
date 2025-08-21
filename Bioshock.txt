@@ -6,3 +6,5 @@ config file: %APPDATA%\Bioshock
 
 DX9 = D3DDrv.D3DRenderDevice
 DX10 = D3DDrv10.D3DRenderDevice10
+
+add "-dx10" launch option
