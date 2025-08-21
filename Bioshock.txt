@@ -10,6 +10,8 @@ Use D3D10 and FMOD
 
 config file: %APPDATA%\Bioshock\bioshock.ini
 
+Tweak HavokNumThreads= to amount of threads CPU has
+
 DX9 / RenderDevice=D3DDrv.D3DRenderDevice
 DX10 / RenderDevice=D3DDrv10.D3DRenderDevice10
 
