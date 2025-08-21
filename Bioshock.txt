@@ -12,6 +12,8 @@ DX10 / RenderDevice=D3DDrv10.D3DRenderDevice10
 FMOD / AudioDevice=FMODAudio.FMODAudioSubsystem
 OpenAL / AudioDevice=ALAudio.ALAudioSubsystem
 
+bEAXEnabled=True fixes NO SOUND after new game cutscene
+
 
 
 add "-dx10" launch option
