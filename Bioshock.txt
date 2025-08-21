@@ -2,9 +2,13 @@ Bioshock (2007) is better than Bioshock Remastered
 
 Force Global Lighting = On lowers graphics quality, keep Off for HQ lighting
 
-Use D3D10 and OpenAL
+Download OpenAL Soft nightly
+ - https://github.com/kcat/openal-soft
+ - place Win32 OpenAL32.dll and alsoft.ini into Bioshock.exe directory (Bioshock\Builds\Release)
 
-config file: %APPDATA%\Bioshock
+Use D3D10 and FMOD
+
+config file: %APPDATA%\Bioshock\bioshock.ini
 
 DX9 / RenderDevice=D3DDrv.D3DRenderDevice
 DX10 / RenderDevice=D3DDrv10.D3DRenderDevice10
@@ -13,10 +17,6 @@ FMOD / AudioDevice=FMODAudio.FMODAudioSubsystem
 OpenAL / AudioDevice=ALAudio.ALAudioSubsystem
 
 bEAXEnabled=True + AudioDevice=FMODAudio.FMODAudioSubsystem fixes NO SOUND after new game cutscene
-
-Download OpenAL Soft nightly
- - https://github.com/kcat/openal-soft
- - place Win32 OpenAL32.dll and alsoft.ini into Bioshock.exe directory (Bioshock\Builds\Release)
 
 
 
