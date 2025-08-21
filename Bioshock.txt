@@ -14,6 +14,10 @@ OpenAL / AudioDevice=ALAudio.ALAudioSubsystem
 
 bEAXEnabled=True + AudioDevice=FMODAudio.FMODAudioSubsystem fixes NO SOUND after new game cutscene
 
+Download OpenAL Soft nightly
+ - https://github.com/kcat/openal-soft
+ - place Win32 OpenAL32.dll and alsoft.ini into Bioshock.exe directory (Bioshock\Builds\Release)
+
 
 
 add "-dx10" launch option
