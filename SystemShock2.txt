@@ -3,3 +3,7 @@ System Shock 2
 
 newdark patch included is already up too date (2.48)
 don't install ss2tool, changes vanilla behavior
+
+remastered version uses a newer version of newdark
+
+open console using CTRL+ALT+TILDE
