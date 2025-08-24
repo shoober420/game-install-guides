@@ -10,4 +10,6 @@ config dir: %USERPROFILE%\Saved Games\Nightdive Studios\System Shock 2 Remastere
 
 TWEAK v_width and v_height resolution before playing, also v_refresh for refresh rate
 
+postprocess in cam_user.cfg is Bloom under Video options
+
 open console using CTRL+ALT+TILDE
