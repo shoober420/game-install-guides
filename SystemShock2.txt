@@ -13,3 +13,7 @@ TWEAK v_width and v_height resolution before playing, also v_refresh for refresh
 postprocess in cam_user.cfg is Bloom under Video options
 
 open console using CTRL+ALT+TILDE
+
+enable patch_ext mod to fix grav shaft blocking invisible wall bug
+
+disable all other mods for vanilla experience in remaster version
