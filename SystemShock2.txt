@@ -6,4 +6,6 @@ don't install ss2tool, changes vanilla behavior
 
 remastered version uses a newer version of newdark
 
+config dir: %USERPROFILE%\Saved Games\Nightdive Studios\System Shock 2 Remastered
+
 open console using CTRL+ALT+TILDE
