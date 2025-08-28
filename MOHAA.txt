@@ -20,3 +20,5 @@ OpenMoHAA config dir is "%USERPROFILE%/AppData/Roaming/openmohaa"
 https://www.x-null.net/forums/threads/3675-MOHAA-Config-files-explained
 
 https://www.scribd.com/document/282473272/Mohaa-Guide-Black-Edition
+
+Changes to "Composed: Flip" after leaving fullscreen to check PresentMon
