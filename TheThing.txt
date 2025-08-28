@@ -9,3 +9,5 @@ The Thing
   - put d3d8.dll in "C:\Program Files (x86)\Computer Artworks\The Thing\bin"
 
 The Thing: Remastered is also a option
+
+The Thing: Remastered will show as "Hardware: Independent Flip" instead of "Hardware Composed: Independent Flip" even though "Hardware Composed: Independent Flip" works in other games
