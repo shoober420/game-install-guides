@@ -17,7 +17,9 @@ r_ext_compress_textures 1 ENABLES HQ TEXTURES
 
 TWEAK r_customwidth AND r_customheight BEFORE LAUNCH
 
-OpenMoHAA config dir is "%USERPROFILE%/AppData/Roaming/openmohaa"
+Vanilla config fir is "C:\GOG Games\Medal of Honor - Allied Assault War Chest\main" and "main\configs"
+
+OpenMoHAA config dir is "%USERPROFILE%/AppData/Roaming/openmohaa" and "main\configs"
 
 https://www.x-null.net/forums/threads/3675-MOHAA-Config-files-explained
 
