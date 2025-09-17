@@ -50,6 +50,7 @@ sources: pcgamingwiki.com and myself
 * LastBlade2.txt
 * Lemmings.txt
 * Maelstrom.txt
+* Manhunt2.txt
 * MarioKart64.txt
 * MaxPayne.txt
 * MetalGearSolid.txt
